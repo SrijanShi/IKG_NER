@@ -1,0 +1,4932 @@
+head,relation,tail
+POST_1,hasHashtag,#cwc25
+POST_1,hasKeyword,cwc
+POST_1,hasKeyword,cwc25
+POST_1,hasKeyword,world cup
+POST_1,hasSentiment,sent_neutral
+POST_1,isAboutEvent,2025
+POST_1,isAboutEvent,Cricket
+POST_1,isAboutEvent,Cup
+POST_1,isAboutEvent,World
+POST_1,mentionsEntity,Catch
+POST_1,mentionsEntity,New Zealand
+POST_1,mentionsEntity,Sophie Devine
+POST_1,mentionsEntity,World Cup
+POST_1,mentionsEntity,at the
+POST_1,mentionsEntity,broadcast details
+POST_1,mentionsEntity,catch her
+POST_1,mentionsEntity,devine hopes
+POST_1,mentionsEntity,in action
+POST_1,mentionsEntity,new zealand
+POST_1,mentionsEntity,off in
+POST_1,mentionsEntity,skipper sophie
+POST_1,mentionsEntity,style in
+POST_1,mentionsEntity,to finish
+POST_1,mentionsEntity,world cup
+POST_1,mentionsUser,amigo9012
+POST_1,mentionsUser,sakinakhan110
+POST_1,mentionsUser,sportbuzzlive24
+POST_1,mentionsUser,tahirbijnori
+POST_1,postedAtHour,12
+POST_1,postedAtMonth,Oct
+POST_1,postedAtYear,2025
+POST_10,hasHashtag,#cwc25thecricketer
+POST_10,hasKeyword,cwc
+POST_10,hasKeyword,cwc25
+POST_10,hasKeyword,world cup
+POST_10,hasSentiment,sent_neutral
+POST_10,isAboutEvent,2025
+POST_10,isAboutEvent,Cricket
+POST_10,isAboutEvent,Cup
+POST_10,isAboutEvent,World
+POST_10,mentionsEntity,New Zealand
+POST_10,mentionsEntity,Sawyer
+POST_10,mentionsEntity,Tasman
+POST_10,mentionsEntity,Topics
+POST_10,mentionsEntity,World Cup
+POST_10,mentionsEntity,add another
+POST_10,mentionsEntity,all the
+POST_10,mentionsEntity,global title
+POST_10,mentionsEntity,last year
+POST_10,mentionsEntity,look to
+POST_10,mentionsEntity,looking to
+POST_10,mentionsEntity,new zealand
+POST_10,mentionsEntity,sawyer is
+POST_10,mentionsEntity,take their
+POST_10,mentionsEntity,tasman rivals
+POST_10,mentionsEntity,they won
+POST_10,mentionsEntity,to the
+POST_10,mentionsEntity,way as
+POST_10,mentionsEntity,world cup
+POST_10,mentionsUser,johnbowen155203
+POST_10,mentionsUser,womble101
+POST_10,postedAtHour,10
+POST_10,postedAtMonth,Sep
+POST_10,postedAtYear,2025
+POST_100,hasSentiment,sent_neutral
+POST_100,isAboutEvent,None
+POST_100,mentionsEntity,Alfonsi Daquigan
+POST_100,mentionsEntity,Asia Talent Cup Mandalika
+POST_100,mentionsEntity,Filipina
+POST_100,mentionsEntity,Pembalap
+POST_100,mentionsEntity,alfonsi daquigan
+POST_100,mentionsEntity,asia talent
+POST_100,mentionsEntity,bukukan kemenangan
+POST_100,mentionsEntity,cup mandalika
+POST_100,mentionsEntity,ganda di
+POST_100,mentionsEntity,pembalap muda
+POST_100,postedAtHour,2
+POST_100,postedAtMonth,Oct
+POST_100,postedAtYear,2025
+POST_101,hasKeyword,asia cup
+POST_101,hasKeyword,asia cup final
+POST_101,hasKeyword,world cup
+POST_101,hasNumber,2019
+POST_101,hasSentiment,sent_neutral
+POST_101,isAboutEvent,Both
+POST_101,isAboutEvent,Events
+POST_101,mentionsEntity,Asia Cup
+POST_101,mentionsEntity,asia cup
+POST_101,mentionsEntity,bnane ki
+POST_101,mentionsEntity,cup ki
+POST_101,mentionsEntity,dal dete
+POST_101,mentionsEntity,dekh lete
+POST_101,mentionsEntity,final ki
+POST_101,mentionsEntity,innings or
+POST_101,mentionsEntity,jarurt na
+POST_101,mentionsEntity,jra or
+POST_101,mentionsEntity,pure asia
+POST_101,mentionsEntity,rohit sharma
+POST_101,mentionsEntity,toh shayad
+POST_101,mentionsEntity,world cup
+POST_101,mentionsEntity,ye edit
+POST_101,postedAtHour,2
+POST_101,postedAtMonth,Oct
+POST_101,postedAtYear,2025
+POST_102,hasKeyword,world cup
+POST_102,hasSentiment,sent_positive
+POST_102,isAboutEvent,2025
+POST_102,isAboutEvent,Cricket
+POST_102,isAboutEvent,Cup
+POST_102,isAboutEvent,World
+POST_102,mentionsEntity,Allah Subanuthala Blessed Khaafirs
+POST_102,mentionsEntity,Champions
+POST_102,mentionsEntity,Cricket
+POST_102,mentionsEntity,Day Allah
+POST_102,mentionsEntity,End
+POST_102,mentionsEntity,Every Walk
+POST_102,mentionsEntity,Glory Honor
+POST_102,mentionsEntity,Hindustanis
+POST_102,mentionsEntity,Khaafirs
+POST_102,mentionsEntity,Life
+POST_102,mentionsEntity,Made
+POST_102,mentionsEntity,World Cup
+POST_102,mentionsEntity,all three
+POST_102,mentionsEntity,allah subanuthala
+POST_102,mentionsEntity,allah swt
+POST_102,mentionsEntity,and made
+POST_102,mentionsEntity,blessed khaafirs
+POST_102,mentionsEntity,end of
+POST_102,mentionsEntity,glory honor
+POST_102,mentionsEntity,hindustanis won
+POST_102,mentionsEntity,in cricket
+POST_102,mentionsEntity,in every
+POST_102,mentionsEntity,khaafirs and
+POST_102,mentionsEntity,matches and
+POST_102,mentionsEntity,not only
+POST_102,mentionsEntity,the day
+POST_102,mentionsEntity,them champions
+POST_102,mentionsEntity,walk of
+POST_102,mentionsEntity,was with
+POST_102,mentionsEntity,with the
+POST_102,mentionsEntity,world cup
+POST_102,mentionsUser,realsahibzad
+POST_102,mentionsUser,therealpcbtimesofindia
+POST_102,postedAtHour,2
+POST_102,postedAtMonth,Oct
+POST_102,postedAtYear,2025
+POST_103,hasKeyword,asia cup
+POST_103,hasSentiment,sent_positive
+POST_103,isAboutEvent,2025
+POST_103,isAboutEvent,Asia
+POST_103,isAboutEvent,Cup
+POST_103,mentionsEntity,Abhishek
+POST_103,mentionsEntity,Amazing
+POST_103,mentionsEntity,Asia Cup
+POST_103,mentionsEntity,England
+POST_103,mentionsEntity,Lame
+POST_103,mentionsEntity,This
+POST_103,mentionsEntity,Tilak
+POST_103,mentionsEntity,Varun
+POST_103,mentionsEntity,With
+POST_103,mentionsEntity,a well
+POST_103,mentionsEntity,amazing talents
+POST_103,mentionsEntity,at the
+POST_103,mentionsEntity,cost of
+POST_103,mentionsEntity,cup and
+POST_103,mentionsEntity,drag us
+POST_103,mentionsEntity,due respect
+POST_103,mentionsEntity,fought england
+POST_103,mentionsEntity,just got
+POST_103,mentionsEntity,like abhishek
+POST_103,mentionsEntity,players go
+POST_103,mentionsEntity,s time
+POST_103,mentionsEntity,the senior
+POST_103,mentionsEntity,this resistance
+POST_103,mentionsEntity,to let
+POST_103,mentionsEntity,to roko
+POST_103,mentionsEntity,us asia
+POST_103,mentionsEntity,will only
+POST_103,mentionsEntity,with all
+POST_103,mentionsEntity,young talent
+POST_103,postedAtHour,2
+POST_103,postedAtMonth,Oct
+POST_103,postedAtYear,2025
+POST_104,hasKeyword,asia cup
+POST_104,hasKeyword,asia cup champion
+POST_104,hasNumber,2025
+POST_104,hasSentiment,sent_positive
+POST_104,isAboutEvent,2025
+POST_104,isAboutEvent,Asia
+POST_104,isAboutEvent,Cup
+POST_104,mentionsEntity,Asia
+POST_104,mentionsEntity,Who
+POST_104,mentionsEntity,cup champions
+POST_104,mentionsEntity,the asia
+POST_104,mentionsEntity,who are
+POST_104,postedAtHour,2
+POST_104,postedAtMonth,Oct
+POST_104,postedAtYear,2025
+POST_105,hasKeyword,asia cup
+POST_105,hasSentiment,sent_neutral
+POST_105,isAboutEvent,2025
+POST_105,isAboutEvent,Asia
+POST_105,isAboutEvent,Cup
+POST_105,mentionsEntity,Asia
+POST_105,mentionsEntity,Gill
+POST_105,mentionsEntity,btw what
+POST_105,mentionsEntity,do if
+POST_105,mentionsEntity,gill fails
+POST_105,mentionsEntity,in the
+POST_105,mentionsEntity,like asia
+POST_105,mentionsEntity,series again
+POST_105,mentionsEntity,will they
+POST_105,mentionsUser,deepakk76552
+POST_105,mentionsUser,vk_fan_forever_
+POST_105,postedAtHour,2
+POST_105,postedAtMonth,Oct
+POST_105,postedAtYear,2025
+POST_106,hasKeyword,asia cup
+POST_106,hasSentiment,sent_neutral
+POST_106,isAboutEvent,2025
+POST_106,isAboutEvent,Asia
+POST_106,isAboutEvent,Cup
+POST_106,mentionsEntity,Asia
+POST_106,mentionsEntity,Bache
+POST_106,mentionsEntity,Kisi
+POST_106,mentionsEntity,Mt
+POST_106,mentionsEntity,asia cup
+POST_106,mentionsEntity,bol b
+POST_106,mentionsEntity,har gaye
+POST_106,mentionsEntity,isi ki
+POST_106,mentionsEntity,k bache
+POST_106,mentionsEntity,ka final
+POST_106,mentionsEntity,kisi ko
+POST_106,mentionsEntity,mt dio
+POST_106,mentionsEntity,waja se
+POST_106,postedAtHour,2
+POST_106,postedAtMonth,Oct
+POST_106,postedAtYear,2025
+POST_107,hasKeyword,asia cup
+POST_107,hasNumber,160
+POST_107,hasNumber,19
+POST_107,hasNumber,42
+POST_107,hasSentiment,sent_neutral
+POST_107,isAboutEvent,2025
+POST_107,isAboutEvent,Asia
+POST_107,isAboutEvent,Cup
+POST_107,mentionsEntity,Asia
+POST_107,mentionsEntity,Doctor
+POST_107,mentionsEntity,He
+POST_107,mentionsEntity,India
+POST_107,mentionsEntity,accommodate as
+POST_107,mentionsEntity,against india
+POST_107,mentionsEntity,asia cup
+POST_107,mentionsEntity,but he
+POST_107,mentionsEntity,but misbah
+POST_107,mentionsEntity,doctor lawyer
+POST_107,mentionsEntity,domestic season
+POST_107,mentionsEntity,dropped shahzaib
+POST_107,mentionsEntity,even they
+POST_107,mentionsEntity,every number
+POST_107,mentionsEntity,example front
+POST_107,mentionsEntity,he played
+POST_107,mentionsEntity,he was
+POST_107,mentionsEntity,just to
+POST_107,mentionsEntity,last year
+POST_107,mentionsEntity,needs degree
+POST_107,mentionsEntity,number junior
+POST_107,mentionsEntity,odds runs
+POST_107,mentionsEntity,of us
+POST_107,mentionsEntity,s son
+POST_107,mentionsEntity,uae for
+POST_107,mentionsEntity,went to
+POST_107,mentionsEntity,who even
+POST_107,postedAtHour,1
+POST_107,postedAtMonth,Oct
+POST_107,postedAtYear,2025
+POST_108,hasKeyword,asia cup
+POST_108,hasNumber,2023
+POST_108,hasSentiment,sent_neutral
+POST_108,isAboutEvent,2025
+POST_108,isAboutEvent,Asia
+POST_108,isAboutEvent,Cup
+POST_108,mentionsEntity,Asia Cup
+POST_108,mentionsEntity,Pakistan
+POST_108,mentionsEntity,Zimbabwe
+POST_108,mentionsEntity,and an
+POST_108,mentionsEntity,asia cup
+POST_108,mentionsEntity,chor chief
+POST_108,mentionsEntity,had to
+POST_108,mentionsEntity,in cricket
+POST_108,mentionsEntity,in the
+POST_108,mentionsEntity,it was
+POST_108,mentionsEntity,one loss
+POST_108,mentionsEntity,pakistan achieved
+POST_108,mentionsEntity,that ur
+POST_108,mentionsEntity,wc finals
+POST_108,mentionsEntity,what has
+POST_108,mentionsEntity,wins against
+POST_108,postedAtHour,1
+POST_108,postedAtMonth,Oct
+POST_108,postedAtYear,2025
+POST_109,hasKeyword,asia cup
+POST_109,hasKeyword,cricketworldcup
+POST_109,hasKeyword,world cup
+POST_109,hasSentiment,sent_neutral
+POST_109,isAboutEvent,Both
+POST_109,isAboutEvent,Events
+POST_109,mentionsEntity,World
+POST_109,mentionsEntity,a heeramandi
+POST_109,mentionsEntity,ab randion
+POST_109,mentionsEntity,cricketworldcupporkisthan send
+POST_109,mentionsEntity,cup all
+POST_109,mentionsEntity,cup asia
+POST_109,mentionsEntity,heeraandi bhej
+POST_109,mentionsEntity,izron ki
+POST_109,mentionsEntity,ke bari
+POST_109,mentionsEntity,ke randion
+POST_109,mentionsEntity,ke team
+POST_109,mentionsEntity,phouz bheja
+POST_109,mentionsEntity,sab ko
+POST_109,mentionsEntity,to world
+POST_109,mentionsUser,cricketworldcupporkisthan
+POST_109,postedAtHour,1
+POST_109,postedAtMonth,Oct
+POST_109,postedAtYear,2025
+POST_11,hasKeyword,cricket world cup
+POST_11,hasKeyword,world cup
+POST_11,hasKeyword,world cup 2025
+POST_11,hasNumber,2025
+POST_11,hasSentiment,sent_neutral
+POST_11,isAboutEvent,2025
+POST_11,isAboutEvent,Cricket
+POST_11,isAboutEvent,Cup
+POST_11,isAboutEvent,World
+POST_11,mentionsEntity,Assam
+POST_11,mentionsEntity,Cricket World Cup
+POST_11,mentionsEntity,Guwahati
+POST_11,mentionsEntity,Shreya Ghoshal
+POST_11,mentionsEntity,The
+POST_11,mentionsEntity,Welcome
+POST_11,mentionsEntity,Women
+POST_11,mentionsEntity,Your
+POST_11,mentionsEntity,added magic
+POST_11,mentionsEntity,always touches
+POST_11,mentionsEntity,are overjoyed
+POST_11,mentionsEntity,has truly
+POST_11,mentionsEntity,of assam
+POST_11,mentionsEntity,our hearts
+POST_11,mentionsEntity,performance at
+POST_11,mentionsEntity,s cricket
+POST_11,mentionsEntity,shreya ghoshal
+POST_11,mentionsEntity,the icc
+POST_11,mentionsEntity,the people
+POST_11,mentionsEntity,to have
+POST_11,mentionsEntity,to the
+POST_11,mentionsEntity,welcome to
+POST_11,mentionsEntity,world cup
+POST_11,mentionsEntity,you here
+POST_11,mentionsEntity,your enchanting
+POST_11,mentionsEntity,your voice
+POST_11,postedAtHour,10
+POST_11,postedAtMonth,Sep
+POST_11,postedAtYear,2025
+POST_110,hasHashtag,#asiacup
+POST_110,hasHashtag,#cricketzeenews
+POST_110,hasHashtag,#srilanka
+POST_110,hasSentiment,sent_neutral
+POST_110,isAboutEvent,None
+POST_110,mentionsEntity,Asiacup
+POST_110,mentionsEntity,Cricketzeenews
+POST_110,mentionsEntity,Srilanka
+POST_110,postedAtHour,1
+POST_110,postedAtMonth,Oct
+POST_110,postedAtYear,2025
+POST_111,hasNumber,2
+POST_111,hasNumber,2025
+POST_111,hasNumber,5
+POST_111,hasSentiment,sent_neutral
+POST_111,isAboutEvent,None
+POST_111,mentionsEntity,Idemitsu Asia Talent Cuppiped
+POST_111,mentionsEntity,Indonesia
+POST_111,mentionsEntity,Round
+POST_111,mentionsEntity,idemitsu asia
+POST_111,mentionsEntity,talent cuppiped
+POST_111,mentionsUser,youtube
+POST_111,postedAtHour,1
+POST_111,postedAtMonth,Oct
+POST_111,postedAtYear,2025
+POST_112,hasKeyword,asia cup
+POST_112,hasNumber,75
+POST_112,hasSentiment,sent_positive
+POST_112,isAboutEvent,2025
+POST_112,isAboutEvent,Asia
+POST_112,isAboutEvent,Cup
+POST_112,mentionsEntity,Asia Cup
+POST_112,mentionsEntity,Captain
+POST_112,mentionsEntity,Hitman
+POST_112,mentionsEntity,Lloyd
+POST_112,mentionsEntity,Rohit
+POST_112,mentionsEntity,Test
+POST_112,mentionsEntity,Who
+POST_112,mentionsEntity,asia cup
+POST_112,mentionsEntity,captain or
+POST_112,mentionsEntity,legends like
+POST_112,mentionsEntity,misses his
+POST_112,mentionsEntity,odi win
+POST_112,mentionsEntity,rate puts
+POST_112,mentionsEntity,rohit among
+POST_112,mentionsEntity,test triple
+POST_112,mentionsEntity,the hitman
+POST_112,mentionsEntity,trademark pull
+POST_112,mentionsEntity,wc captain
+POST_112,mentionsEntity,who else
+POST_112,postedAtHour,1
+POST_112,postedAtMonth,Oct
+POST_112,postedAtYear,2025
+POST_113,hasHashtag,#bcci
+POST_113,hasHashtag,#icc
+POST_113,hasHashtag,#indiancricket
+POST_113,hasHashtag,#indvspak
+POST_113,hasHashtag,#mohsinnaqvi
+POST_113,hasHashtag,#pakistan
+POST_113,hasHashtag,#pakistanarmy
+POST_113,hasHashtag,#pakistancricket
+POST_113,hasHashtag,#pakvsind
+POST_113,hasKeyword,asia cup
+POST_113,hasKeyword,asia cup trophy
+POST_113,hasSentiment,sent_negative
+POST_113,isAboutEvent,2025
+POST_113,isAboutEvent,Asia
+POST_113,isAboutEvent,Cup
+POST_113,mentionsEntity,Asia
+POST_113,mentionsEntity,Pakistan
+POST_113,mentionsEntity,Price
+POST_113,mentionsEntity,This Thief
+POST_113,mentionsEntity,We
+POST_113,mentionsEntity,cup trophy
+POST_113,mentionsEntity,find this
+POST_113,mentionsEntity,price to
+POST_113,mentionsEntity,s identity
+POST_113,mentionsEntity,the person
+POST_113,mentionsEntity,thief along
+POST_113,mentionsEntity,we are
+POST_113,mentionsEntity,who will
+POST_113,mentionsEntity,will remain
+POST_113,mentionsEntity,with our
+POST_113,mentionsEntity,won asia
+POST_113,postedAtHour,1
+POST_113,postedAtMonth,Oct
+POST_113,postedAtYear,2025
+POST_114,hasNumber,2
+POST_114,hasNumber,2025
+POST_114,hasNumber,5
+POST_114,hasSentiment,sent_neutral
+POST_114,isAboutEvent,None
+POST_114,mentionsEntity,Idemitsu Asia Talent Cuppiped
+POST_114,mentionsEntity,Indonesia
+POST_114,mentionsEntity,Round
+POST_114,mentionsEntity,idemitsu asia
+POST_114,mentionsEntity,talent cuppiped
+POST_114,mentionsUser,youtube
+POST_114,postedAtHour,1
+POST_114,postedAtMonth,Oct
+POST_114,postedAtYear,2025
+POST_115,hasHashtag,#pakvsind
+POST_115,hasKeyword,asia cup
+POST_115,hasKeyword,asia cup final
+POST_115,hasSentiment,sent_positive
+POST_115,isAboutEvent,2025
+POST_115,isAboutEvent,Asia
+POST_115,isAboutEvent,Cup
+POST_115,mentionsEntity,India
+POST_115,mentionsEntity,Wahan Tilak Varma Asia
+POST_115,mentionsEntity,Yahi
+POST_115,mentionsEntity,cup final
+POST_115,mentionsEntity,farq ha
+POST_115,mentionsEntity,fifty celebrate
+POST_115,mentionsEntity,gia hoa
+POST_115,mentionsEntity,ha aur
+POST_115,mentionsEntity,india a
+POST_115,mentionsEntity,jitwa kr
+POST_115,mentionsEntity,ki ja
+POST_115,mentionsEntity,ki traf
+POST_115,mentionsEntity,mentality ka
+POST_115,mentionsEntity,rahi ha
+POST_115,mentionsEntity,sy khelny
+POST_115,mentionsEntity,tk wo
+POST_115,mentionsEntity,varma asia
+POST_115,mentionsEntity,wahan tilak
+POST_115,mentionsEntity,yahan abhi
+POST_115,mentionsEntity,yahi to
+POST_115,postedAtHour,1
+POST_115,postedAtMonth,Oct
+POST_115,postedAtYear,2025
+POST_116,hasKeyword,asia cup
+POST_116,hasNumber,05102025
+POST_116,hasSentiment,sent_neutral
+POST_116,isAboutEvent,2025
+POST_116,isAboutEvent,Asia
+POST_116,isAboutEvent,Cup
+POST_116,mentionsEntity,Analysiseurasiareview
+POST_116,mentionsEntity,Death Of Cricket Diplomacy
+POST_116,mentionsEntity,The Asia Cup
+POST_116,mentionsEntity,cricket diplomacy
+POST_116,mentionsEntity,death of
+POST_116,mentionsEntity,the asia
+POST_116,postedAtHour,1
+POST_116,postedAtMonth,Oct
+POST_116,postedAtYear,2025
+POST_117,hasKeyword,asia cup
+POST_117,hasSentiment,sent_positive
+POST_117,isAboutEvent,2025
+POST_117,isAboutEvent,Asia
+POST_117,isAboutEvent,Cup
+POST_117,mentionsEntity,Rohit
+POST_117,mentionsEntity,about milestonethat
+POST_117,mentionsEntity,cared about
+POST_117,mentionsEntity,do the
+POST_117,mentionsEntity,doing right
+POST_117,mentionsEntity,failed agin
+POST_117,mentionsEntity,friends to
+POST_117,mentionsEntity,giving good
+POST_117,mentionsEntity,have done
+POST_117,mentionsEntity,in final
+POST_117,mentionsEntity,jobvirat was
+POST_117,mentionsEntity,of asia
+POST_117,mentionsEntity,only care
+POST_117,mentionsEntity,opening and
+POST_117,mentionsEntity,rohit should
+POST_117,mentionsEntity,shubhman gill
+POST_117,mentionsEntity,stupid only
+POST_117,mentionsEntity,that day
+POST_117,mentionsEntity,this toopeople
+POST_117,mentionsEntity,toobut those
+POST_117,mentionsEntity,trust his
+POST_117,mentionsEntity,youngsters failure
+POST_117,postedAtHour,1
+POST_117,postedAtMonth,Oct
+POST_117,postedAtYear,2025
+POST_118,hasKeyword,asia cup
+POST_118,hasNumber,124
+POST_118,hasNumber,132
+POST_118,hasNumber,4
+POST_118,hasNumber,7
+POST_118,hasSentiment,sent_neutral
+POST_118,isAboutEvent,2025
+POST_118,isAboutEvent,Asia
+POST_118,isAboutEvent,Cup
+POST_118,mentionsEntity,Asia Cup
+POST_118,mentionsEntity,Didn
+POST_118,mentionsEntity,He
+POST_118,mentionsEntity,His
+POST_118,mentionsEntity,Oman
+POST_118,mentionsEntity,Sanju
+POST_118,mentionsEntity,a total
+POST_118,mentionsEntity,against oman
+POST_118,mentionsEntity,asia cup
+POST_118,mentionsEntity,at a
+POST_118,mentionsEntity,batted out
+POST_118,mentionsEntity,games he
+POST_118,mentionsEntity,he scored
+POST_118,mentionsEntity,his highest
+POST_118,mentionsEntity,in the
+POST_118,mentionsEntity,just play
+POST_118,mentionsEntity,runs in
+POST_118,mentionsEntity,score came
+POST_118,mentionsEntity,strike rate
+POST_118,mentionsEntity,t sanju
+POST_118,postedAtHour,1
+POST_118,postedAtMonth,Oct
+POST_118,postedAtYear,2025
+POST_119,hasKeyword,asia cup
+POST_119,hasKeyword,icc world cup
+POST_119,hasKeyword,world cup
+POST_119,hasSentiment,sent_positive
+POST_119,isAboutEvent,Both
+POST_119,isAboutEvent,Events
+POST_119,mentionsEntity,Asia
+POST_119,mentionsEntity,Who
+POST_119,mentionsEntity,captain while
+POST_119,mentionsEntity,chokla failed
+POST_119,mentionsEntity,cup winning
+POST_119,mentionsEntity,gone as
+POST_119,mentionsEntity,he is
+POST_119,mentionsEntity,icc world
+POST_119,mentionsEntity,niqqa that
+POST_119,mentionsEntity,s gonna
+POST_119,mentionsEntity,single asia
+POST_119,mentionsEntity,tell my
+POST_119,mentionsEntity,to win
+POST_119,postedAtHour,1
+POST_119,postedAtMonth,Oct
+POST_119,postedAtYear,2025
+POST_12,hasKeyword,world cup
+POST_12,hasNumber,2023
+POST_12,hasNumber,2025/
+POST_12,hasSentiment,sent_neutral
+POST_12,isAboutEvent,2025
+POST_12,isAboutEvent,Cricket
+POST_12,isAboutEvent,Cup
+POST_12,isAboutEvent,World
+POST_12,mentionsEntity,Jos Buttler
+POST_12,mentionsEntity,World Cup
+POST_12,mentionsEntity,a big
+POST_12,mentionsEntity,after the
+POST_12,mentionsEntity,been lifted
+POST_12,mentionsEntity,burden has
+POST_12,mentionsEntity,i wasn
+POST_12,mentionsEntity,jos buttler
+POST_12,mentionsEntity,same leader
+POST_12,mentionsEntity,t the
+POST_12,mentionsEntity,world cup
+POST_12,mentionsUser,minniepugliesi
+POST_12,postedAtHour,10
+POST_12,postedAtMonth,Sep
+POST_12,postedAtYear,2025
+POST_120,hasKeyword,asia cup
+POST_120,hasSentiment,sent_neutral
+POST_120,isAboutEvent,2025
+POST_120,isAboutEvent,Asia
+POST_120,isAboutEvent,Cup
+POST_120,mentionsEntity,Asia Cup
+POST_120,mentionsEntity,Didn
+POST_120,mentionsEntity,Really
+POST_120,mentionsEntity,play in
+POST_120,mentionsEntity,t he
+POST_120,mentionsEntity,the asia
+POST_120,postedAtHour,1
+POST_120,postedAtMonth,Oct
+POST_120,postedAtYear,2025
+POST_121,hasNumber,14
+POST_121,hasNumber,2025
+POST_121,hasSentiment,sent_neutral
+POST_121,isAboutEvent,None
+POST_121,mentionsEntity,Porsche Carrera Cup Asia
+POST_121,mentionsEntity,Round
+POST_121,mentionsEntity,Singaporepiped
+POST_121,mentionsEntity,cup asia
+POST_121,mentionsEntity,porsche carrera
+POST_121,mentionsUser,youtube
+POST_121,postedAtHour,12
+POST_121,postedAtMonth,Oct
+POST_121,postedAtYear,2025
+POST_122,hasKeyword,asia cup
+POST_122,hasSentiment,sent_neutral
+POST_122,isAboutEvent,2025
+POST_122,isAboutEvent,Asia
+POST_122,isAboutEvent,Cup
+POST_122,mentionsEntity,Asia Cup
+POST_122,mentionsEntity,Do
+POST_122,mentionsEntity,Gill
+POST_122,mentionsEntity,His
+POST_122,mentionsEntity,India
+POST_122,mentionsEntity,and not
+POST_122,mentionsEntity,as the
+POST_122,mentionsEntity,asia cup
+POST_122,mentionsEntity,be selected
+POST_122,mentionsEntity,below average
+POST_122,mentionsEntity,captain if
+POST_122,mentionsEntity,dismally with
+POST_122,mentionsEntity,do you
+POST_122,mentionsEntity,future india
+POST_122,mentionsEntity,hardly inspiring
+POST_122,mentionsEntity,have a
+POST_122,mentionsEntity,he continues
+POST_122,mentionsEntity,he did
+POST_122,mentionsEntity,his career
+POST_122,mentionsEntity,i mean
+POST_122,mentionsEntity,of a
+POST_122,mentionsEntity,stats is
+POST_122,mentionsEntity,the bat
+POST_122,mentionsEntity,think gill
+POST_122,mentionsEntity,to perform
+POST_122,mentionsEntity,will still
+POST_122,postedAtHour,12
+POST_122,postedAtMonth,Oct
+POST_122,postedAtYear,2025
+POST_123,hasKeyword,asia cup
+POST_123,hasKeyword,asia cup trophy
+POST_123,hasSentiment,sent_neutral
+POST_123,isAboutEvent,2025
+POST_123,isAboutEvent,Asia
+POST_123,isAboutEvent,Cup
+POST_123,mentionsEntity,Asia Cup
+POST_123,mentionsEntity,India
+POST_123,mentionsEntity,Mohsin Naqvi
+POST_123,mentionsEntity,Pakistan
+POST_123,mentionsEntity,Reporthindustantimes
+POST_123,mentionsEntity,asia cup
+POST_123,mentionsEntity,away with
+POST_123,mentionsEntity,denying india
+POST_123,mentionsEntity,for running
+POST_123,mentionsEntity,from pakistan
+POST_123,mentionsEntity,gold medal
+POST_123,mentionsEntity,mohsin naqvi
+POST_123,mentionsEntity,to get
+POST_123,mentionsEntity,trophy and
+POST_123,postedAtHour,12
+POST_123,postedAtMonth,Oct
+POST_123,postedAtYear,2025
+POST_124,hasKeyword,asia cup
+POST_124,hasNumber,28
+POST_124,hasSentiment,sent_neutral
+POST_124,isAboutEvent,2025
+POST_124,isAboutEvent,Asia
+POST_124,isAboutEvent,Cup
+POST_124,mentionsEntity,But
+POST_124,mentionsEntity,Did
+POST_124,mentionsEntity,He
+POST_124,mentionsEntity,In
+POST_124,mentionsEntity,Look
+POST_124,mentionsEntity,a great
+POST_124,mentionsEntity,a lot
+POST_124,mentionsEntity,are celebrating
+POST_124,mentionsEntity,asia cup
+POST_124,mentionsEntity,big total
+POST_124,mentionsEntity,but his
+POST_124,mentionsEntity,check his
+POST_124,mentionsEntity,did you
+POST_124,mentionsEntity,from him
+POST_124,mentionsEntity,he has
+POST_124,mentionsEntity,he is
+POST_124,mentionsEntity,he plays
+POST_124,mentionsEntity,his consistency
+POST_124,mentionsEntity,hitter if
+POST_124,mentionsEntity,i am
+POST_124,mentionsEntity,in final
+POST_124,mentionsEntity,it away
+POST_124,mentionsEntity,look whatever
+POST_124,mentionsEntity,not taking
+POST_124,mentionsEntity,of dot
+POST_124,mentionsEntity,problem is
+POST_124,mentionsEntity,s his
+POST_124,mentionsEntity,score earlier
+POST_124,mentionsEntity,so we
+POST_124,mentionsEntity,t a
+POST_124,mentionsEntity,there wasn
+POST_124,mentionsUser,amitpan21965845
+POST_124,postedAtHour,12
+POST_124,postedAtMonth,Oct
+POST_124,postedAtYear,2025
+POST_125,hasKeyword,asia cup
+POST_125,hasKeyword,world cup
+POST_125,hasSentiment,sent_neutral
+POST_125,isAboutEvent,Both
+POST_125,isAboutEvent,Events
+POST_125,mentionsEntity,Asia Cup
+POST_125,mentionsEntity,Hong Kong Sixes Two
+POST_125,mentionsEntity,India
+POST_125,mentionsEntity,Indo
+POST_125,mentionsEntity,It
+POST_125,mentionsEntity,October
+POST_125,mentionsEntity,Pak
+POST_125,mentionsEntity,Pakistan
+POST_125,mentionsEntity,Women
+POST_125,mentionsEntity,World
+POST_125,mentionsEntity,chance to
+POST_125,mentionsEntity,fierce indo
+POST_125,mentionsEntity,hong kong
+POST_125,mentionsEntity,in next
+POST_125,mentionsEntity,india vs
+POST_125,mentionsEntity,pak clashes
+POST_125,mentionsEntity,pakistan in
+POST_125,mentionsEntity,s our
+POST_125,mentionsEntity,s revenge
+POST_125,mentionsEntity,s world
+POST_125,mentionsEntity,sixes two
+POST_125,mentionsEntity,take asia
+POST_125,mentionsEntity,three days
+POST_125,mentionsUser,reikiprincedub
+POST_125,postedAtHour,12
+POST_125,postedAtMonth,Oct
+POST_125,postedAtYear,2025
+POST_126,hasKeyword,asia cup
+POST_126,hasSentiment,sent_neutral
+POST_126,isAboutEvent,2025
+POST_126,isAboutEvent,Asia
+POST_126,isAboutEvent,Cup
+POST_126,mentionsEntity,Asia
+POST_126,mentionsEntity,Indian
+POST_126,mentionsEntity,Never
+POST_126,mentionsEntity,Now
+POST_126,mentionsEntity,Pakistani
+POST_126,mentionsEntity,We
+POST_126,mentionsEntity,Why
+POST_126,mentionsEntity,a pakistani
+POST_126,mentionsEntity,indian matters
+POST_126,mentionsEntity,interfere in
+POST_126,mentionsEntity,match fixing
+POST_126,mentionsEntity,never ever
+POST_126,mentionsEntity,now just
+POST_126,mentionsEntity,our internal
+POST_126,mentionsEntity,recently we
+POST_126,mentionsEntity,shut up
+POST_126,mentionsEntity,t need
+POST_126,mentionsEntity,to tell
+POST_126,mentionsEntity,u do
+POST_126,mentionsEntity,we don
+POST_126,mentionsEntity,why did
+POST_126,mentionsEntity,won asia
+POST_126,postedAtHour,12
+POST_126,postedAtMonth,Oct
+POST_126,postedAtYear,2025
+POST_127,hasKeyword,asia cup
+POST_127,hasKeyword,asia cup 2025
+POST_127,hasNumber,2025
+POST_127,hasSentiment,sent_negative
+POST_127,isAboutEvent,2025
+POST_127,isAboutEvent,Asia
+POST_127,isAboutEvent,Cup
+POST_127,mentionsEntity,Asia Cup
+POST_127,mentionsEntity,Australia
+POST_127,mentionsEntity,Hardik Pandya
+POST_127,mentionsEntity,He
+POST_127,mentionsEntity,India
+POST_127,mentionsEntity,and expected
+POST_127,mentionsEntity,asia cup
+POST_127,mentionsEntity,confirmed return
+POST_127,mentionsEntity,date yet
+POST_127,mentionsEntity,during the
+POST_127,mentionsEntity,from india
+POST_127,mentionsEntity,hardik pandya
+POST_127,mentionsEntity,in recovery
+POST_127,mentionsEntity,injury sustained
+POST_127,mentionsEntity,is missing
+POST_127,mentionsEntity,left quadriceps
+POST_127,mentionsEntity,rehab soon
+POST_127,mentionsEntity,s currently
+POST_127,mentionsEntity,s odi
+POST_127,mentionsEntity,squads for
+POST_127,mentionsEntity,the australia
+POST_127,mentionsEntity,to a
+POST_127,mentionsEntity,to start
+POST_127,mentionsEntity,tour due
+POST_127,mentionsEntity,with no
+POST_127,postedAtHour,12
+POST_127,postedAtMonth,Oct
+POST_127,postedAtYear,2025
+POST_128,hasNumber,12
+POST_128,hasSentiment,sent_neutral
+POST_128,isAboutEvent,None
+POST_128,mentionsEntity,am est
+POST_128,mentionsEntity,asia og
+POST_128,mentionsEntity,for oce
+POST_128,mentionsEntity,kibbel starts
+POST_128,mentionsEntity,zb cup
+POST_128,postedAtHour,12
+POST_128,postedAtMonth,Oct
+POST_128,postedAtYear,2025
+POST_129,hasKeyword,asia cup
+POST_129,hasSentiment,sent_neutral
+POST_129,isAboutEvent,2025
+POST_129,isAboutEvent,Asia
+POST_129,isAboutEvent,Cup
+POST_129,mentionsEntity,And
+POST_129,mentionsEntity,Asia
+POST_129,mentionsEntity,Rightly
+POST_129,mentionsEntity,and in
+POST_129,mentionsEntity,asia cup
+POST_129,mentionsEntity,followed you
+POST_129,mentionsEntity,i never
+POST_129,mentionsEntity,i was
+POST_129,mentionsEntity,return yes
+POST_129,mentionsEntity,rightly so
+POST_129,mentionsEntity,stop being
+POST_129,mentionsEntity,they treat
+POST_129,mentionsEntity,thinking to
+POST_129,mentionsEntity,un follow
+POST_129,mentionsEntity,you but
+POST_129,mentionsEntity,you like
+POST_129,postedAtHour,11
+POST_129,postedAtMonth,Oct
+POST_129,postedAtYear,2025
+POST_13,hasHashtag,#cricket
+POST_13,hasHashtag,#natsciverbrunt
+POST_13,hasHashtag,#wwc2025
+POST_13,hasKeyword,cricketworldcup
+POST_13,hasKeyword,world cup
+POST_13,hasKeyword,wwc2025
+POST_13,hasNumber,2025
+POST_13,hasSentiment,sent_neutral
+POST_13,isAboutEvent,2025
+POST_13,isAboutEvent,Cricket
+POST_13,isAboutEvent,Cup
+POST_13,isAboutEvent,World
+POST_13,mentionsEntity,Brunt
+POST_13,mentionsEntity,Cricket
+POST_13,mentionsEntity,Full
+POST_13,mentionsEntity,India
+POST_13,mentionsEntity,Nat Sciver
+POST_13,mentionsEntity,The England
+POST_13,mentionsEntity,This
+POST_13,mentionsEntity,World Cup
+POST_13,mentionsEntity,a home
+POST_13,mentionsEntity,be a
+POST_13,mentionsEntity,been waiting
+POST_13,mentionsEntity,brunt on
+POST_13,mentionsEntity,captain believes
+POST_13,mentionsEntity,changer the
+POST_13,mentionsEntity,could be
+POST_13,mentionsEntity,for women
+POST_13,mentionsEntity,full story
+POST_13,mentionsEntity,in india
+POST_13,mentionsEntity,nat sciver
+POST_13,mentionsEntity,s cricket
+POST_13,mentionsEntity,seismic moment
+POST_13,mentionsEntity,sport has
+POST_13,mentionsEntity,the england
+POST_13,mentionsEntity,the game
+POST_13,mentionsEntity,this could
+POST_13,mentionsEntity,world cup
+POST_13,mentionsUser,cricketworldcup
+POST_13,mentionsUser,ecb_cricket
+POST_13,mentionsUser,englandcricket
+POST_13,mentionsUser,icc
+POST_13,mentionsUser,natsciver
+POST_13,postedAtHour,10
+POST_13,postedAtMonth,Sep
+POST_13,postedAtYear,2025
+POST_130,hasKeyword,asia cup
+POST_130,hasSentiment,sent_neutral
+POST_130,isAboutEvent,2025
+POST_130,isAboutEvent,Asia
+POST_130,isAboutEvent,Cup
+POST_130,mentionsEntity,How
+POST_130,mentionsEntity,how many
+POST_130,mentionsEntity,in asia
+POST_130,mentionsEntity,matches did
+POST_130,mentionsEntity,you play
+POST_130,postedAtHour,11
+POST_130,postedAtMonth,Oct
+POST_130,postedAtYear,2025
+POST_131,hasKeyword,asia cup
+POST_131,hasSentiment,sent_neutral
+POST_131,isAboutEvent,2025
+POST_131,isAboutEvent,Asia
+POST_131,isAboutEvent,Cup
+POST_131,mentionsEntity,Asia Cup
+POST_131,mentionsEntity,Nqvi
+POST_131,mentionsEntity,Of
+POST_131,mentionsEntity,asia cup
+POST_131,mentionsEntity,he deserves
+POST_131,mentionsEntity,he won
+POST_131,mentionsEntity,hmmm in
+POST_131,mentionsEntity,it because
+POST_131,mentionsEntity,of course
+POST_131,mentionsEntity,s dream
+POST_131,postedAtHour,11
+POST_131,postedAtMonth,Oct
+POST_131,postedAtYear,2025
+POST_132,hasSentiment,sent_positive
+POST_132,isAboutEvent,None
+POST_132,mentionsEntity,Asia
+POST_132,mentionsEntity,lfd asia
+POST_132,mentionsEntity,need good
+POST_132,mentionsEntity,reload cup
+POST_132,postedAtHour,11
+POST_132,postedAtMonth,Oct
+POST_132,postedAtYear,2025
+POST_133,hasKeyword,asia cup
+POST_133,hasKeyword,world cup
+POST_133,hasSentiment,sent_positive
+POST_133,isAboutEvent,Both
+POST_133,isAboutEvent,Events
+POST_133,mentionsEntity,Asia Cup
+POST_133,mentionsEntity,Bro
+POST_133,mentionsEntity,Wtf
+POST_133,mentionsEntity,an asia
+POST_133,mentionsEntity,and a
+POST_133,mentionsEntity,bro they
+POST_133,mentionsEntity,champions trophy
+POST_133,mentionsEntity,played two
+POST_133,mentionsEntity,world cups
+POST_133,mentionsEntity,wtf you
+POST_133,postedAtHour,11
+POST_133,postedAtMonth,Oct
+POST_133,postedAtYear,2025
+POST_134,hasKeyword,asia cup
+POST_134,hasKeyword,asia cup 2025
+POST_134,hasNumber,2025
+POST_134,hasSentiment,sent_neutral
+POST_134,isAboutEvent,2025
+POST_134,isAboutEvent,Asia
+POST_134,isAboutEvent,Cup
+POST_134,mentionsEntity,Asia Cup
+POST_134,mentionsEntity,Dadi
+POST_134,mentionsEntity,She
+POST_134,mentionsEntity,The
+POST_134,mentionsEntity,commentator award
+POST_134,mentionsEntity,goes to
+POST_134,mentionsEntity,icc asia
+POST_134,mentionsEntity,it all
+POST_134,mentionsEntity,she knows
+POST_134,mentionsEntity,the best
+POST_134,postedAtHour,11
+POST_134,postedAtMonth,Oct
+POST_134,postedAtYear,2025
+POST_135,hasHashtag,#indvaus
+POST_135,hasKeyword,asia cup
+POST_135,hasNumber,160
+POST_135,hasSentiment,sent_neutral
+POST_135,isAboutEvent,2025
+POST_135,isAboutEvent,Asia
+POST_135,isAboutEvent,Cup
+POST_135,mentionsEntity,Asia Cup
+POST_135,mentionsEntity,Australia
+POST_135,mentionsEntity,He
+POST_135,mentionsEntity,How
+POST_135,mentionsEntity,Jaiswal
+POST_135,mentionsEntity,Meanwhile
+POST_135,mentionsEntity,Shubman Gill
+POST_135,mentionsEntity,This
+POST_135,mentionsEntity,a flop
+POST_135,mentionsEntity,a place
+POST_135,mentionsEntity,asia cup
+POST_135,mentionsEntity,even deserve
+POST_135,mentionsEntity,favouritism than
+POST_135,mentionsEntity,he was
+POST_135,mentionsEntity,how does
+POST_135,mentionsEntity,in the
+POST_135,mentionsEntity,is sidelined
+POST_135,mentionsEntity,jaiswal with
+POST_135,mentionsEntity,more like
+POST_135,mentionsEntity,s rewarded
+POST_135,mentionsEntity,shubman gill
+POST_135,mentionsEntity,squad against
+POST_135,mentionsEntity,strike rate
+POST_135,mentionsEntity,this looks
+POST_135,mentionsEntity,with vice
+POST_135,mentionsEntity,yet somehow
+POST_135,postedAtHour,11
+POST_135,postedAtMonth,Oct
+POST_135,postedAtYear,2025
+POST_136,hasHashtag,#adadikompaskompas
+POST_136,hasHashtag,#olahraga
+POST_136,hasSentiment,sent_negative
+POST_136,isAboutEvent,None
+POST_136,mentionsEntity,Asia Talent Cup
+POST_136,mentionsEntity,Davino Britani
+POST_136,mentionsEntity,Olahraga
+POST_136,mentionsEntity,Sirkuit Mandalika
+POST_136,mentionsEntity,ajang asia
+POST_136,mentionsEntity,balapan pertama
+POST_136,mentionsEntity,davino britani
+POST_136,mentionsEntity,dengan finis
+POST_136,mentionsEntity,di posisi
+POST_136,mentionsEntity,di sirkuit
+POST_136,mentionsEntity,keempat dalam
+POST_136,mentionsEntity,menunjukan peningkatan
+POST_136,mentionsEntity,persaingan di
+POST_136,mentionsEntity,signifikan dalam
+POST_136,mentionsEntity,talent cup
+POST_136,postedAtHour,11
+POST_136,postedAtMonth,Oct
+POST_136,postedAtYear,2025
+POST_137,hasKeyword,asia cup
+POST_137,hasSentiment,sent_positive
+POST_137,isAboutEvent,2025
+POST_137,isAboutEvent,Asia
+POST_137,isAboutEvent,Cup
+POST_137,mentionsEntity,Asia Cup
+POST_137,mentionsEntity,Naqvi
+POST_137,mentionsEntity,cup with
+POST_137,mentionsEntity,innocence of
+POST_137,mentionsEntity,naqvi showing
+POST_137,mentionsEntity,not having
+POST_137,mentionsEntity,the asia
+POST_137,postedAtHour,11
+POST_137,postedAtMonth,Oct
+POST_137,postedAtYear,2025
+POST_138,hasKeyword,asia cup
+POST_138,hasSentiment,sent_neutral
+POST_138,isAboutEvent,2025
+POST_138,isAboutEvent,Asia
+POST_138,isAboutEvent,Cup
+POST_138,mentionsEntity,Squandered
+POST_138,mentionsEntity,The
+POST_138,mentionsEntity,Under Rohit
+POST_138,mentionsEntity,Well
+POST_138,mentionsEntity,a farce
+POST_138,mentionsEntity,and the
+POST_138,mentionsEntity,any self
+POST_138,mentionsEntity,competition as
+POST_138,mentionsEntity,confidence he
+POST_138,mentionsEntity,cup was
+POST_138,mentionsEntity,he built
+POST_138,mentionsEntity,he tried
+POST_138,mentionsEntity,in eng
+POST_138,mentionsEntity,instilled in
+POST_138,mentionsEntity,it doesn
+POST_138,mentionsEntity,on flattest
+POST_138,mentionsEntity,pitches ever
+POST_138,mentionsEntity,respect it
+POST_138,mentionsEntity,s leadership
+POST_138,mentionsEntity,squandered opportunity
+POST_138,mentionsEntity,such so
+POST_138,mentionsEntity,t count
+POST_138,mentionsEntity,the asia
+POST_138,mentionsEntity,the team
+POST_138,mentionsEntity,the tries
+POST_138,mentionsEntity,under rohit
+POST_138,mentionsEntity,well if
+POST_138,mentionsEntity,with no
+POST_138,mentionsEntity,you have
+POST_138,postedAtHour,11
+POST_138,postedAtMonth,Oct
+POST_138,postedAtYear,2025
+POST_139,hasHashtag,#adadikompaskompas
+POST_139,hasHashtag,#olahraga
+POST_139,hasSentiment,sent_negative
+POST_139,isAboutEvent,None
+POST_139,mentionsEntity,Asia Talent Cup
+POST_139,mentionsEntity,Davino Britani
+POST_139,mentionsEntity,Olahraga
+POST_139,mentionsEntity,Sirkuit Mandalika
+POST_139,mentionsEntity,ajang asia
+POST_139,mentionsEntity,balapan pertama
+POST_139,mentionsEntity,davino britani
+POST_139,mentionsEntity,dengan finis
+POST_139,mentionsEntity,di posisi
+POST_139,mentionsEntity,di sirkuit
+POST_139,mentionsEntity,keempat dalam
+POST_139,mentionsEntity,menunjukan peningkatan
+POST_139,mentionsEntity,persaingan di
+POST_139,mentionsEntity,signifikan dalam
+POST_139,mentionsEntity,talent cup
+POST_139,postedAtHour,11
+POST_139,postedAtMonth,Oct
+POST_139,postedAtYear,2025
+POST_14,hasHashtag,#cricket
+POST_14,hasHashtag,#icc
+POST_14,hasHashtag,#indiasrilankamatch
+POST_14,hasHashtag,#sports
+POST_14,hasHashtag,#womensindianteamvtvgujarati
+POST_14,hasHashtag,#womensworldcup2025
+POST_14,hasNumber,59
+POST_14,hasSentiment,sent_neutral
+POST_14,isAboutEvent,None
+POST_14,mentionsEntity,Cricket
+POST_14,mentionsEntity,Sports
+POST_14,postedAtHour,9
+POST_14,postedAtMonth,Sep
+POST_14,postedAtYear,2025
+POST_140,hasKeyword,asia cup
+POST_140,hasSentiment,sent_negative
+POST_140,isAboutEvent,2025
+POST_140,isAboutEvent,Asia
+POST_140,isAboutEvent,Cup
+POST_140,mentionsEntity,Asia Cup
+POST_140,mentionsEntity,Australia
+POST_140,mentionsEntity,Gill
+POST_140,mentionsEntity,He
+POST_140,mentionsEntity,It
+POST_140,mentionsEntity,Stop
+POST_140,mentionsEntity,They
+POST_140,mentionsEntity,a woman
+POST_140,mentionsEntity,and did
+POST_140,mentionsEntity,and shaming
+POST_140,mentionsEntity,asia cup
+POST_140,mentionsEntity,be humiliated
+POST_140,mentionsEntity,for no
+POST_140,mentionsEntity,gill to
+POST_140,mentionsEntity,he performed
+POST_140,mentionsEntity,him for
+POST_140,mentionsEntity,him not
+POST_140,mentionsEntity,his best
+POST_140,mentionsEntity,in australia
+POST_140,mentionsEntity,loss for
+POST_140,mentionsEntity,not playing
+POST_140,mentionsEntity,reason and
+POST_140,mentionsEntity,s called
+POST_140,mentionsEntity,s dirty
+POST_140,mentionsEntity,s their
+POST_140,mentionsEntity,stop blaming
+POST_140,mentionsEntity,test cricket
+POST_140,mentionsEntity,they want
+POST_140,mentionsEntity,tok cuz
+POST_140,mentionsEntity,was not
+POST_140,postedAtHour,10
+POST_140,postedAtMonth,Oct
+POST_140,postedAtYear,2025
+POST_141,hasKeyword,asia cup
+POST_141,hasNumber,2025
+POST_141,hasSentiment,sent_negative
+POST_141,isAboutEvent,2025
+POST_141,isAboutEvent,Asia
+POST_141,isAboutEvent,Cup
+POST_141,mentionsEntity,As
+POST_141,mentionsEntity,Asia Cup
+POST_141,mentionsEntity,Dubai
+POST_141,mentionsEntity,Farhan
+POST_141,mentionsEntity,India
+POST_141,mentionsEntity,Pakistan
+POST_141,mentionsEntity,Super Four
+POST_141,mentionsEntity,Whether
+POST_141,mentionsEntity,all three
+POST_141,mentionsEntity,and final
+POST_141,mentionsEntity,as for
+POST_141,mentionsEntity,asia cup
+POST_141,mentionsEntity,can be
+POST_141,mentionsEntity,deserves celebration
+POST_141,mentionsEntity,farhan marked
+POST_141,mentionsEntity,fifty in
+POST_141,mentionsEntity,four game
+POST_141,mentionsEntity,group stage
+POST_141,mentionsEntity,gun gesture
+POST_141,mentionsEntity,highlighted even
+POST_141,mentionsEntity,his bat
+POST_141,mentionsEntity,his personal
+POST_141,mentionsEntity,in defeats
+POST_141,mentionsEntity,in dubai
+POST_141,mentionsEntity,india in
+POST_141,mentionsEntity,is subjective
+POST_141,mentionsEntity,matches to
+POST_141,mentionsEntity,now on
+POST_141,mentionsEntity,pakistan lost
+POST_141,mentionsEntity,personal achievements
+POST_141,mentionsEntity,super four
+POST_141,mentionsEntity,the celebration
+POST_141,mentionsEntity,the super
+POST_141,mentionsEntity,whether it
+POST_141,mentionsEntity,with a
+POST_141,postedAtHour,10
+POST_141,postedAtMonth,Oct
+POST_141,postedAtYear,2025
+POST_142,hasKeyword,asia cup
+POST_142,hasSentiment,sent_neutral
+POST_142,isAboutEvent,2025
+POST_142,isAboutEvent,Asia
+POST_142,isAboutEvent,Cup
+POST_142,mentionsEntity,Asia
+POST_142,mentionsEntity,His
+POST_142,mentionsEntity,It
+POST_142,mentionsEntity,She
+POST_142,mentionsEntity,So
+POST_142,mentionsEntity,against minnows
+POST_142,mentionsEntity,asia cup
+POST_142,mentionsEntity,bytes and
+POST_142,mentionsEntity,control her
+POST_142,mentionsEntity,emotions now
+POST_142,mentionsEntity,has just
+POST_142,mentionsEntity,his brother
+POST_142,mentionsEntity,in middle
+POST_142,mentionsEntity,interviews and
+POST_142,mentionsEntity,now this
+POST_142,mentionsEntity,of her
+POST_142,mentionsEntity,played one
+POST_142,mentionsEntity,s enough
+POST_142,mentionsEntity,s saying
+POST_142,mentionsEntity,she should
+POST_142,mentionsEntity,so may
+POST_142,mentionsEntity,this again
+POST_142,mentionsEntity,weeding day
+POST_142,postedAtHour,10
+POST_142,postedAtMonth,Oct
+POST_142,postedAtYear,2025
+POST_143,hasKeyword,asia cup
+POST_143,hasNumber,1
+POST_143,hasNumber,2
+POST_143,hasNumber,5
+POST_143,hasSentiment,sent_positive
+POST_143,isAboutEvent,2025
+POST_143,isAboutEvent,Asia
+POST_143,isAboutEvent,Cup
+POST_143,mentionsEntity,Asia
+POST_143,mentionsEntity,a good
+POST_143,mentionsEntity,asia cup
+POST_143,mentionsEntity,back up
+POST_143,mentionsEntity,bare minimum
+POST_143,mentionsEntity,bcci put
+POST_143,mentionsEntity,before sanju
+POST_143,mentionsEntity,can still
+POST_143,mentionsEntity,even after
+POST_143,mentionsEntity,i expected
+POST_143,mentionsEntity,jitesh name
+POST_143,mentionsEntity,know gg
+POST_143,mentionsEntity,looks like
+POST_143,mentionsEntity,sanju but
+POST_143,mentionsEntity,sanju failures
+POST_143,mentionsEntity,the way
+POST_143,mentionsEntity,they are
+POST_143,mentionsEntity,to say
+POST_143,mentionsEntity,waiting for
+POST_143,mentionsEntity,win without
+POST_143,mentionsEntity,wk in
+POST_143,postedAtHour,10
+POST_143,postedAtMonth,Oct
+POST_143,postedAtYear,2025
+POST_144,hasKeyword,asia cup
+POST_144,hasSentiment,sent_negative
+POST_144,isAboutEvent,2025
+POST_144,isAboutEvent,Asia
+POST_144,isAboutEvent,Cup
+POST_144,mentionsEntity,Asia
+POST_144,mentionsEntity,all caps
+POST_144,mentionsEntity,asia cup
+POST_144,mentionsEntity,haunts them
+POST_144,mentionsEntity,loss still
+POST_144,postedAtHour,10
+POST_144,postedAtMonth,Oct
+POST_144,postedAtYear,2025
+POST_145,hasKeyword,asia cup
+POST_145,hasSentiment,sent_neutral
+POST_145,isAboutEvent,2025
+POST_145,isAboutEvent,Asia
+POST_145,isAboutEvent,Cup
+POST_145,mentionsEntity,asia cup
+POST_145,postedAtHour,10
+POST_145,postedAtMonth,Oct
+POST_145,postedAtYear,2025
+POST_146,hasKeyword,asia cup
+POST_146,hasKeyword,asia cup final
+POST_146,hasSentiment,sent_negative
+POST_146,isAboutEvent,2025
+POST_146,isAboutEvent,Asia
+POST_146,isAboutEvent,Cup
+POST_146,mentionsEntity,Ajit Agarkar
+POST_146,mentionsEntity,Asia Cup
+POST_146,mentionsEntity,Australia
+POST_146,mentionsEntity,Centre
+POST_146,mentionsEntity,Excellence
+POST_146,mentionsEntity,Hardik Pandya
+POST_146,mentionsEntity,India
+POST_146,mentionsEntity,ajit agarkar
+POST_146,mentionsEntity,and will
+POST_146,mentionsEntity,at the
+POST_146,mentionsEntity,bcci selector
+POST_146,mentionsEntity,centre of
+POST_146,mentionsEntity,confirmed he
+POST_146,mentionsEntity,cup final
+POST_146,mentionsEntity,excellence soon
+POST_146,mentionsEntity,from india
+POST_146,mentionsEntity,hardik pandya
+POST_146,mentionsEntity,is missing
+POST_146,mentionsEntity,quadriceps injury
+POST_146,mentionsEntity,s unavailable
+POST_146,mentionsEntity,squad for
+POST_146,mentionsEntity,start rehab
+POST_146,mentionsEntity,sustained before
+POST_146,mentionsEntity,the asia
+POST_146,mentionsEntity,the australia
+POST_146,mentionsEntity,to a
+POST_146,mentionsEntity,tour due
+POST_146,postedAtHour,10
+POST_146,postedAtMonth,Oct
+POST_146,postedAtYear,2025
+POST_147,hasKeyword,asia cup
+POST_147,hasSentiment,sent_positive
+POST_147,isAboutEvent,2025
+POST_147,isAboutEvent,Asia
+POST_147,isAboutEvent,Cup
+POST_147,mentionsEntity,Asia Cup
+POST_147,mentionsEntity,Gill
+POST_147,mentionsEntity,They
+POST_147,mentionsEntity,Vice
+POST_147,mentionsEntity,Yashasvi
+POST_147,mentionsEntity,a brilliant
+POST_147,mentionsEntity,a chance
+POST_147,mentionsEntity,a great
+POST_147,mentionsEntity,a player
+POST_147,mentionsEntity,and as
+POST_147,mentionsEntity,and yashasvi
+POST_147,mentionsEntity,asia cup
+POST_147,mentionsEntity,but he
+POST_147,mentionsEntity,captain with
+POST_147,mentionsEntity,chance at
+POST_147,mentionsEntity,chosen as
+POST_147,mentionsEntity,failed yet
+POST_147,mentionsEntity,gill a
+POST_147,mentionsEntity,gill doesn
+POST_147,mentionsEntity,he is
+POST_147,mentionsEntity,is worthless
+POST_147,mentionsEntity,no potential
+POST_147,mentionsEntity,player still
+POST_147,mentionsEntity,t deserves
+POST_147,mentionsEntity,t get
+POST_147,mentionsEntity,they gave
+POST_147,mentionsEntity,to be
+POST_147,mentionsEntity,vice captain
+POST_147,mentionsEntity,who is
+POST_147,postedAtHour,10
+POST_147,postedAtMonth,Oct
+POST_147,postedAtYear,2025
+POST_148,hasKeyword,asia cup
+POST_148,hasNumber,0
+POST_148,hasNumber,6
+POST_148,hasSentiment,sent_neutral
+POST_148,isAboutEvent,2025
+POST_148,isAboutEvent,Asia
+POST_148,isAboutEvent,Cup
+POST_148,mentionsEntity,Asia
+POST_148,mentionsEntity,Bolne
+POST_148,mentionsEntity,Even
+POST_148,mentionsEntity,after being
+POST_148,mentionsEntity,asia cup
+POST_148,mentionsEntity,away with
+POST_148,mentionsEntity,bolne mein
+POST_148,mentionsEntity,even running
+POST_148,mentionsEntity,for people
+POST_148,mentionsEntity,kya hai
+POST_148,mentionsEntity,who keep
+POST_148,postedAtHour,10
+POST_148,postedAtMonth,Oct
+POST_148,postedAtYear,2025
+POST_149,hasKeyword,asia cup
+POST_149,hasSentiment,sent_neutral
+POST_149,isAboutEvent,2025
+POST_149,isAboutEvent,Asia
+POST_149,isAboutEvent,Cup
+POST_149,mentionsEntity,India Asia
+POST_149,mentionsEntity,Laga
+POST_149,mentionsEntity,Pakistan
+POST_149,mentionsEntity,baten krne
+POST_149,mentionsEntity,cup kia
+POST_149,mentionsEntity,duniya k
+POST_149,mentionsEntity,india asia
+POST_149,mentionsEntity,jeet gya
+POST_149,mentionsEntity,mitane ki
+POST_149,mentionsEntity,naqshe se
+POST_149,mentionsEntity,pakistan ko
+POST_149,postedAtHour,10
+POST_149,postedAtMonth,Oct
+POST_149,postedAtYear,2025
+POST_15,hasHashtag,#indiadeserves
+POST_15,hasKeyword,cricket world cup
+POST_15,hasKeyword,world cup
+POST_15,hasKeyword,world cup 2025
+POST_15,hasNumber,2025
+POST_15,hasSentiment,sent_positive
+POST_15,isAboutEvent,2025
+POST_15,isAboutEvent,Cricket
+POST_15,isAboutEvent,Cup
+POST_15,isAboutEvent,World
+POST_15,mentionsEntity,Cricket World Cup
+POST_15,mentionsEntity,Handover
+POST_15,mentionsEntity,Indiadeserves
+POST_15,mentionsEntity,Men
+POST_15,mentionsEntity,a mandatory
+POST_15,mentionsEntity,but winner
+POST_15,mentionsEntity,customary protocol
+POST_15,mentionsEntity,handover of
+POST_15,mentionsEntity,host country
+POST_15,mentionsEntity,icc men
+POST_15,mentionsEntity,icc requirement
+POST_15,mentionsEntity,indiadeserves its
+POST_15,mentionsEntity,is a
+POST_15,mentionsEntity,receiving the
+POST_15,mentionsEntity,s cricket
+POST_15,mentionsEntity,s representative
+POST_15,mentionsEntity,trophy is
+POST_15,mentionsEntity,trophy via
+POST_15,mentionsEntity,world cup
+POST_15,mentionsUser,accmedia1
+POST_15,mentionsUser,bcci
+POST_15,mentionsUser,icc
+POST_15,mentionsUser,mohsinnaqvic42
+POST_15,mentionsUser,shuklarajiv
+POST_15,mentionsUser,therealpcb
+POST_15,postedAtHour,9
+POST_15,postedAtMonth,Sep
+POST_15,postedAtYear,2025
+POST_150,hasKeyword,asia cup
+POST_150,hasNumber,10
+POST_150,hasNumber,2023
+POST_150,hasNumber,2024
+POST_150,hasNumber,2027
+POST_150,hasSentiment,sent_positive
+POST_150,isAboutEvent,2025
+POST_150,isAboutEvent,Asia
+POST_150,isAboutEvent,Cup
+POST_150,mentionsEntity,Asia
+POST_150,mentionsEntity,At
+POST_150,mentionsEntity,Champions
+POST_150,mentionsEntity,Gill
+POST_150,mentionsEntity,He
+POST_150,mentionsEntity,India
+POST_150,mentionsEntity,Indian
+POST_150,mentionsEntity,Leave
+POST_150,mentionsEntity,No
+POST_150,mentionsEntity,Rohit
+POST_150,mentionsEntity,able to
+POST_150,mentionsEntity,age aside
+POST_150,mentionsEntity,among the
+POST_150,mentionsEntity,and aggressive
+POST_150,mentionsEntity,and is
+POST_150,mentionsEntity,asia cup
+POST_150,mentionsEntity,at many
+POST_150,mentionsEntity,but gill
+POST_150,mentionsEntity,but rohit
+POST_150,mentionsEntity,calm and
+POST_150,mentionsEntity,can never
+POST_150,mentionsEntity,captain on
+POST_150,mentionsEntity,champions trophy
+POST_150,mentionsEntity,composed leadership
+POST_150,mentionsEntity,elected as
+POST_150,mentionsEntity,few examples
+POST_150,mentionsEntity,field which
+POST_150,mentionsEntity,for semi
+POST_150,mentionsEntity,gill isn
+POST_150,mentionsEntity,gill performed
+POST_150,mentionsEntity,has a
+POST_150,mentionsEntity,he reads
+POST_150,mentionsEntity,in his
+POST_150,mentionsEntity,india was
+POST_150,mentionsEntity,is being
+POST_150,mentionsEntity,is often
+POST_150,mentionsEntity,leave his
+POST_150,mentionsEntity,manage good
+POST_150,mentionsEntity,no hope
+POST_150,mentionsEntity,no offence
+POST_150,mentionsEntity,not even
+POST_150,mentionsEntity,of time
+POST_150,mentionsEntity,overs because
+POST_150,mentionsEntity,replace rohit
+POST_150,mentionsEntity,rohit was
+POST_150,mentionsEntity,score within
+POST_150,mentionsEntity,so bad
+POST_150,mentionsEntity,style in
+POST_150,mentionsEntity,t having
+POST_150,mentionsEntity,t know
+POST_150,mentionsEntity,tactics which
+POST_150,mentionsEntity,team won
+POST_150,mentionsEntity,that final
+POST_150,mentionsEntity,the game
+POST_150,mentionsEntity,these are
+POST_150,mentionsEntity,this year
+POST_150,mentionsEntity,under his
+POST_150,mentionsEntity,very ahead
+POST_150,mentionsEntity,very passionate
+POST_150,mentionsEntity,very sure
+POST_150,mentionsEntity,wc also
+POST_150,mentionsEntity,we are
+POST_150,mentionsEntity,we don
+POST_150,mentionsEntity,what basis
+POST_150,mentionsEntity,where indian
+POST_150,mentionsEntity,worst in
+POST_150,mentionsEntity,yet a
+POST_150,mentionsEntity,yet he
+POST_150,postedAtHour,10
+POST_150,postedAtMonth,Oct
+POST_150,postedAtYear,2025
+POST_151,hasKeyword,asia cup
+POST_151,hasKeyword,asia cup final
+POST_151,hasSentiment,sent_neutral
+POST_151,isAboutEvent,2025
+POST_151,isAboutEvent,Asia
+POST_151,isAboutEvent,Cup
+POST_151,mentionsEntity,Asia
+POST_151,mentionsEntity,Eventually
+POST_151,mentionsEntity,Mumbai Lobby
+POST_151,mentionsEntity,a result
+POST_151,mentionsEntity,asia cup
+POST_151,mentionsEntity,eventually won
+POST_151,mentionsEntity,final as
+POST_151,mentionsEntity,of mumbai
+POST_151,postedAtHour,10
+POST_151,postedAtMonth,Oct
+POST_151,postedAtYear,2025
+POST_152,hasKeyword,asia cup
+POST_152,hasKeyword,asia cup trophy
+POST_152,hasSentiment,sent_neutral
+POST_152,isAboutEvent,2025
+POST_152,isAboutEvent,Asia
+POST_152,isAboutEvent,Cup
+POST_152,mentionsEntity,Asia Cup
+POST_152,mentionsEntity,Haan
+POST_152,mentionsEntity,Mohsin Naqvi
+POST_152,mentionsEntity,Pakistan
+POST_152,mentionsEntity,Shaheed Zulfiqar Ali Bhutto Excellence Gold Medal
+POST_152,mentionsEntity,ali bhutto
+POST_152,mentionsEntity,cup trophy
+POST_152,mentionsEntity,excellence gold
+POST_152,mentionsEntity,ise national
+POST_152,mentionsEntity,isliye yeh
+POST_152,mentionsEntity,ja raha
+POST_152,mentionsEntity,kaam sahi
+POST_152,mentionsEntity,ke liye
+POST_152,mentionsEntity,ke mamle
+POST_152,mentionsEntity,medal milne
+POST_152,mentionsEntity,mein stance
+POST_152,mentionsEntity,mutabiq mohsin
+POST_152,mentionsEntity,naqvi ko
+POST_152,mentionsEntity,pakistan mein
+POST_152,mentionsEntity,pride ka
+POST_152,mentionsEntity,reports ke
+POST_152,mentionsEntity,samjha jaata
+POST_152,mentionsEntity,shaheed zulfiqar
+POST_152,mentionsEntity,symbol maana
+POST_152,mentionsEntity,unke asia
+POST_152,mentionsEntity,wala hai
+POST_152,postedAtHour,10
+POST_152,postedAtMonth,Oct
+POST_152,postedAtYear,2025
+POST_153,hasKeyword,asia cup
+POST_153,hasSentiment,sent_positive
+POST_153,isAboutEvent,2025
+POST_153,isAboutEvent,Asia
+POST_153,isAboutEvent,Cup
+POST_153,mentionsEntity,And
+POST_153,mentionsEntity,Asia
+POST_153,mentionsEntity,But
+POST_153,mentionsEntity,Was
+POST_153,mentionsEntity,about bcci
+POST_153,mentionsEntity,and now
+POST_153,mentionsEntity,asia cup
+POST_153,mentionsEntity,bccinowglad i
+POST_153,mentionsEntity,but i
+POST_153,mentionsEntity,cricket ever
+POST_153,mentionsEntity,disgusting to
+POST_153,mentionsEntity,even think
+POST_153,mentionsEntity,forgot we
+POST_153,mentionsEntity,from previous
+POST_153,mentionsEntity,have some
+POST_153,mentionsEntity,heal the
+POST_153,mentionsEntity,him win
+POST_153,mentionsEntity,i feel
+POST_153,mentionsEntity,odi wc
+POST_153,mentionsEntity,t watch
+POST_153,mentionsEntity,that odi
+POST_153,mentionsEntity,to be
+POST_153,mentionsEntity,to see
+POST_153,mentionsEntity,was left
+POST_153,mentionsEntity,was waiting
+POST_153,mentionsEntity,watching any
+POST_153,mentionsEntity,wc to
+POST_153,mentionsEntity,will not
+POST_153,mentionsEntity,wound which
+POST_153,mentionsUser,bccinowglad
+POST_153,postedAtHour,9
+POST_153,postedAtMonth,Oct
+POST_153,postedAtYear,2025
+POST_154,hasKeyword,asia cup
+POST_154,hasKeyword,world cup
+POST_154,hasNumber,2026
+POST_154,hasNumber,24
+POST_154,hasNumber,40
+POST_154,hasSentiment,sent_neutral
+POST_154,isAboutEvent,Both
+POST_154,isAboutEvent,Events
+POST_154,mentionsEntity,Bhai
+POST_154,mentionsEntity,Kitne
+POST_154,mentionsEntity,Odis
+POST_154,mentionsEntity,Phir
+POST_154,mentionsEntity,cup plus
+POST_154,mentionsEntity,gaye atleast
+POST_154,mentionsEntity,gin lo
+POST_154,mentionsEntity,kitne ho
+POST_154,mentionsEntity,odis hai
+POST_154,mentionsEntity,phir asia
+POST_154,mentionsEntity,takk hi
+POST_154,mentionsEntity,world cup
+POST_154,postedAtHour,9
+POST_154,postedAtMonth,Oct
+POST_154,postedAtYear,2025
+POST_155,hasKeyword,asia cup
+POST_155,hasNumber,110
+POST_155,hasSentiment,sent_neutral
+POST_155,isAboutEvent,2025
+POST_155,isAboutEvent,Asia
+POST_155,isAboutEvent,Cup
+POST_155,mentionsEntity,Asia Cup
+POST_155,mentionsEntity,Modern Cricket
+POST_155,mentionsEntity,Pakistan Cricket Ka
+POST_155,mentionsEntity,Strike Rate
+POST_155,mentionsEntity,Tanqeed
+POST_155,mentionsEntity,asia cup
+POST_155,mentionsEntity,bana ker
+POST_155,mentionsEntity,becha wo
+POST_155,mentionsEntity,cricket ka
+POST_155,mentionsEntity,jo chooran
+POST_155,mentionsEntity,k modern
+POST_155,mentionsEntity,ko captain
+POST_155,mentionsEntity,liye hoye
+POST_155,mentionsEntity,mai expose
+POST_155,mentionsEntity,mai pakistan
+POST_155,mentionsEntity,mazaq bana
+POST_155,mentionsEntity,naam per
+POST_155,mentionsEntity,pori dunya
+POST_155,mentionsEntity,strike rate
+POST_155,mentionsEntity,tanqeed is
+POST_155,mentionsEntity,walay shaks
+POST_155,postedAtHour,9
+POST_155,postedAtMonth,Oct
+POST_155,postedAtYear,2025
+POST_156,hasKeyword,asia cup
+POST_156,hasNumber,4
+POST_156,hasSentiment,sent_neutral
+POST_156,isAboutEvent,2025
+POST_156,isAboutEvent,Asia
+POST_156,isAboutEvent,Cup
+POST_156,mentionsEntity,Asia Cup
+POST_156,mentionsEntity,India
+POST_156,mentionsEntity,Just
+POST_156,mentionsEntity,Pakistan
+POST_156,mentionsEntity,and final
+POST_156,mentionsEntity,cup against
+POST_156,mentionsEntity,in asia
+POST_156,mentionsEntity,india in
+POST_156,mentionsEntity,just like
+POST_156,mentionsEntity,league stage
+POST_156,mentionsEntity,pakistan fucked
+POST_156,postedAtHour,9
+POST_156,postedAtMonth,Oct
+POST_156,postedAtYear,2025
+POST_157,hasKeyword,asia cup
+POST_157,hasKeyword,asia cup 2025
+POST_157,hasNumber,2010
+POST_157,hasNumber,2015
+POST_157,hasNumber,2025
+POST_157,hasSentiment,sent_neutral
+POST_157,isAboutEvent,2025
+POST_157,isAboutEvent,Asia
+POST_157,isAboutEvent,Cup
+POST_157,mentionsEntity,Asia Cup
+POST_157,mentionsEntity,He
+POST_157,mentionsEntity,India
+POST_157,mentionsEntity,Now
+POST_157,mentionsEntity,Pakistan
+POST_157,mentionsEntity,Pakistani
+POST_157,mentionsEntity,Salman Butt
+POST_157,mentionsEntity,Tests
+POST_157,mentionsEntity,What
+POST_157,mentionsEntity,about him
+POST_157,mentionsEntity,banned in
+POST_157,mentionsEntity,cricketer and
+POST_157,mentionsEntity,fixing but
+POST_157,mentionsEntity,for spot
+POST_157,mentionsEntity,former pakistani
+POST_157,mentionsEntity,he was
+POST_157,mentionsEntity,in tests
+POST_157,mentionsEntity,insights on
+POST_157,mentionsEntity,is a
+POST_157,mentionsEntity,opening batsman
+POST_157,mentionsEntity,prospects vs
+POST_157,mentionsEntity,recently sharing
+POST_157,mentionsEntity,reinstated in
+POST_157,mentionsEntity,s a
+POST_157,mentionsEntity,s asia
+POST_157,mentionsEntity,salman butt
+POST_157,mentionsEntity,the team
+POST_157,mentionsEntity,what specifically
+POST_157,mentionsEntity,who captained
+POST_157,postedAtHour,9
+POST_157,postedAtMonth,Oct
+POST_157,postedAtYear,2025
+POST_158,hasKeyword,asia cup
+POST_158,hasSentiment,sent_neutral
+POST_158,isAboutEvent,2025
+POST_158,isAboutEvent,Asia
+POST_158,isAboutEvent,Cup
+POST_158,mentionsEntity,Abhishek
+POST_158,mentionsEntity,Gill
+POST_158,mentionsEntity,abhishek has
+POST_158,mentionsEntity,after the
+POST_158,mentionsEntity,asia cup
+POST_158,mentionsEntity,fraud gill
+POST_158,mentionsEntity,more aura
+POST_158,mentionsEntity,than that
+POST_158,postedAtHour,9
+POST_158,postedAtMonth,Oct
+POST_158,postedAtYear,2025
+POST_159,hasKeyword,asia cup
+POST_159,hasNumber,107.93
+POST_159,hasNumber,11.33
+POST_159,hasNumber,2022
+POST_159,hasNumber,6
+POST_159,hasNumber,68
+POST_159,hasSentiment,sent_neutral
+POST_159,isAboutEvent,2025
+POST_159,isAboutEvent,Asia
+POST_159,isAboutEvent,Cup
+POST_159,mentionsEntity,Babar Azam Asia Cup
+POST_159,mentionsEntity,a stat
+POST_159,mentionsEntity,asia cup
+POST_159,mentionsEntity,babar azam
+POST_159,mentionsEntity,s always
+POST_159,postedAtHour,9
+POST_159,postedAtMonth,Oct
+POST_159,postedAtYear,2025
+POST_16,hasHashtag,#deeptisharma
+POST_16,hasHashtag,#iccwomensworldcup
+POST_16,hasHashtag,#indvssllokmat
+POST_16,hasSentiment,sent_neutral
+POST_16,isAboutEvent,None
+POST_16,postedAtHour,9
+POST_16,postedAtMonth,Sep
+POST_16,postedAtYear,2025
+POST_160,hasKeyword,world cup
+POST_160,hasNumber,1
+POST_160,hasNumber,3
+POST_160,hasNumber,32
+POST_160,hasNumber,5
+POST_160,hasNumber,8
+POST_160,hasSentiment,sent_positive
+POST_160,isAboutEvent,2025
+POST_160,isAboutEvent,Cricket
+POST_160,isAboutEvent,Cup
+POST_160,isAboutEvent,World
+POST_160,mentionsEntity,Club World Cup
+POST_160,mentionsEntity,Commissioner
+POST_160,mentionsEntity,Confederations Champions
+POST_160,mentionsEntity,Olympics
+POST_160,mentionsEntity,Sports
+POST_160,mentionsEntity,Stanley Cup
+POST_160,mentionsEntity,World Cup
+POST_160,mentionsEntity,World Juniors
+POST_160,mentionsEntity,capped at
+POST_160,mentionsEntity,club world
+POST_160,mentionsEntity,confederations champions
+POST_160,mentionsEntity,cup is
+POST_160,mentionsEntity,fifa world
+POST_160,mentionsEntity,if i
+POST_160,mentionsEntity,is capped
+POST_160,mentionsEntity,stanley cup
+POST_160,mentionsEntity,stay as
+POST_160,mentionsEntity,was sports
+POST_160,mentionsEntity,world juniors
+POST_160,postedAtHour,9
+POST_160,postedAtMonth,Oct
+POST_160,postedAtYear,2025
+POST_161,hasHashtag,#asiancup
+POST_161,hasHashtag,#auspol
+POST_161,hasHashtag,#cricketjohnmenadue
+POST_161,hasNumber,2025/10
+POST_161,hasSentiment,sent_neutral
+POST_161,isAboutEvent,None
+POST_161,mentionsEntity,Sports
+POST_161,mentionsEntity,When
+POST_161,mentionsEntity,a global
+POST_161,mentionsEntity,adversaries and
+POST_161,mentionsEntity,at their
+POST_161,mentionsEntity,for dialogue
+POST_161,mentionsEntity,into respected
+POST_161,mentionsEntity,of respect
+POST_161,mentionsEntity,spectators into
+POST_161,mentionsEntity,the possibilities
+POST_161,mentionsEntity,turn rivals
+POST_161,mentionsEntity,when rituals
+POST_161,postedAtHour,9
+POST_161,postedAtMonth,Oct
+POST_161,postedAtYear,2025
+POST_162,hasKeyword,asia cup
+POST_162,hasKeyword,cricket world cup
+POST_162,hasKeyword,world cup
+POST_162,hasNumber,2023
+POST_162,hasSentiment,sent_positive
+POST_162,isAboutEvent,Both
+POST_162,isAboutEvent,Events
+POST_162,mentionsEntity,Also
+POST_162,mentionsEntity,Asia Cup
+POST_162,mentionsEntity,Cricket World Cup
+POST_162,mentionsEntity,Did
+POST_162,mentionsEntity,Kohli
+POST_162,mentionsEntity,No
+POST_162,mentionsEntity,Pakistan
+POST_162,mentionsEntity,Rohit Sharma
+POST_162,mentionsEntity,Shami
+POST_162,mentionsEntity,Siraj
+POST_162,mentionsEntity,against pakistan
+POST_162,mentionsEntity,and kohli
+POST_162,mentionsEntity,and rohit
+POST_162,mentionsEntity,backbone anymore
+POST_162,mentionsEntity,because it
+POST_162,mentionsEntity,cricket world
+POST_162,mentionsEntity,cup display
+POST_162,mentionsEntity,did you
+POST_162,mentionsEntity,great leader
+POST_162,mentionsEntity,how revolting
+POST_162,mentionsEntity,in match
+POST_162,mentionsEntity,know in
+POST_162,mentionsEntity,no such
+POST_162,mentionsEntity,saffron gear
+POST_162,mentionsEntity,shami and
+POST_162,mentionsEntity,sharma said
+POST_162,mentionsEntity,to wear
+POST_162,mentionsEntity,wanted team
+POST_162,mentionsEntity,was asia
+POST_162,mentionsEntity,would disrespect
+POST_162,postedAtHour,9
+POST_162,postedAtMonth,Oct
+POST_162,postedAtYear,2025
+POST_163,hasKeyword,asia cup
+POST_163,hasNumber,2
+POST_163,hasSentiment,sent_positive
+POST_163,isAboutEvent,2025
+POST_163,isAboutEvent,Asia
+POST_163,isAboutEvent,Cup
+POST_163,mentionsEntity,Asia
+POST_163,mentionsEntity,England
+POST_163,mentionsEntity,Gambhir
+POST_163,mentionsEntity,Gill
+POST_163,mentionsEntity,His
+POST_163,mentionsEntity,India
+POST_163,mentionsEntity,Removing Rohit
+POST_163,mentionsEntity,They
+POST_163,mentionsEntity,and asia
+POST_163,mentionsEntity,champions trophy
+POST_163,mentionsEntity,cup with
+POST_163,mentionsEntity,drawn away
+POST_163,mentionsEntity,from captaincy
+POST_163,mentionsEntity,gambhir as
+POST_163,mentionsEntity,gill to
+POST_163,mentionsEntity,his coaching
+POST_163,mentionsEntity,india also
+POST_163,mentionsEntity,is correct
+POST_163,mentionsEntity,is fine
+POST_163,mentionsEntity,it gives
+POST_163,mentionsEntity,move as
+POST_163,mentionsEntity,removing rohit
+POST_163,mentionsEntity,series in
+POST_163,mentionsEntity,they won
+POST_163,mentionsEntity,time for
+POST_163,postedAtHour,8
+POST_163,postedAtMonth,Oct
+POST_163,postedAtYear,2025
+POST_164,hasKeyword,asia cup
+POST_164,hasSentiment,sent_neutral
+POST_164,isAboutEvent,2025
+POST_164,isAboutEvent,Asia
+POST_164,isAboutEvent,Cup
+POST_164,mentionsEntity,Asia
+POST_164,mentionsEntity,Gill
+POST_164,mentionsEntity,Surya
+POST_164,mentionsEntity,a much
+POST_164,mentionsEntity,better asia
+POST_164,mentionsEntity,cup than
+POST_164,mentionsEntity,gill had
+POST_164,postedAtHour,8
+POST_164,postedAtMonth,Oct
+POST_164,postedAtYear,2025
+POST_165,hasKeyword,asia cup
+POST_165,hasKeyword,asia cup 2025
+POST_165,hasKeyword,asia cup final
+POST_165,hasNumber,2
+POST_165,hasNumber,2025
+POST_165,hasNumber,5
+POST_165,hasNumber,50
+POST_165,hasSentiment,sent_neutral
+POST_165,isAboutEvent,2025
+POST_165,isAboutEvent,Asia
+POST_165,isAboutEvent,Cup
+POST_165,mentionsEntity,Asia
+POST_165,mentionsEntity,Australia
+POST_165,mentionsEntity,Hijra
+POST_165,mentionsEntity,Jeetna
+POST_165,mentionsEntity,Virat
+POST_165,mentionsEntity,against vi
+POST_165,mentionsEntity,already ho
+POST_165,mentionsEntity,and asia
+POST_165,mentionsEntity,aur vi
+POST_165,mentionsEntity,australia and
+POST_165,mentionsEntity,career ma
+POST_165,mentionsEntity,chakka hijra
+POST_165,mentionsEntity,chuka ha
+POST_165,mentionsEntity,ct ma
+POST_165,mentionsEntity,ct sf
+POST_165,mentionsEntity,fail hua
+POST_165,mentionsEntity,failedasia cup
+POST_165,mentionsEntity,final failedct
+POST_165,mentionsEntity,final failedodi
+POST_165,mentionsEntity,jeetna kohli
+POST_165,mentionsEntity,kia kya
+POST_165,mentionsEntity,knockoutno motm
+POST_165,mentionsEntity,ma motm
+POST_165,mentionsEntity,means aage
+POST_165,mentionsEntity,motm tha
+POST_165,mentionsEntity,na pura
+POST_165,mentionsEntity,pakistan ke
+POST_165,mentionsEntity,prime pill
+POST_165,mentionsEntity,saal ke
+POST_165,mentionsEntity,score in
+POST_165,mentionsEntity,sf and
+POST_165,mentionsEntity,tha against
+POST_165,mentionsEntity,tha motmbata
+POST_165,mentionsEntity,utna toh
+POST_165,mentionsEntity,virat against
+POST_165,mentionsEntity,wc final
+POST_165,mentionsEntity,wtc final
+POST_165,mentionsEntity,ya list
+POST_165,postedAtHour,8
+POST_165,postedAtMonth,Oct
+POST_165,postedAtYear,2025
+POST_166,hasKeyword,asia cup
+POST_166,hasNumber,2007
+POST_166,hasSentiment,sent_positive
+POST_166,isAboutEvent,2025
+POST_166,isAboutEvent,Asia
+POST_166,isAboutEvent,Cup
+POST_166,mentionsEntity,Champion
+POST_166,mentionsEntity,Krna
+POST_166,mentionsEntity,band kr
+POST_166,mentionsEntity,champion trophy
+POST_166,mentionsEntity,cup winner
+POST_166,mentionsEntity,destroy kiya
+POST_166,mentionsEntity,draw kaise
+POST_166,mentionsEntity,eng maie
+POST_166,mentionsEntity,gg india
+POST_166,mentionsEntity,hate krna
+POST_166,mentionsEntity,ke baad
+POST_166,mentionsEntity,team ko
+POST_166,mentionsEntity,winner asia
+POST_166,postedAtHour,8
+POST_166,postedAtMonth,Oct
+POST_166,postedAtYear,2025
+POST_167,hasKeyword,asia cup
+POST_167,hasNumber,2025
+POST_167,hasSentiment,sent_positive
+POST_167,isAboutEvent,2025
+POST_167,isAboutEvent,Asia
+POST_167,isAboutEvent,Cup
+POST_167,mentionsEntity,Asia
+POST_167,mentionsEntity,May
+POST_167,mentionsEntity,Same
+POST_167,mentionsEntity,Thank God
+POST_167,mentionsEntity,Trrriostan
+POST_167,mentionsEntity,claimed asia
+POST_167,mentionsEntity,cup winner
+POST_167,mentionsEntity,otherwise trrriostan
+POST_167,mentionsEntity,same way
+POST_167,mentionsEntity,thank god
+POST_167,mentionsEntity,these matches
+POST_167,mentionsEntity,they won
+POST_167,mentionsEntity,were live
+POST_167,postedAtHour,8
+POST_167,postedAtMonth,Oct
+POST_167,postedAtYear,2025
+POST_168,hasKeyword,asia cup
+POST_168,hasSentiment,sent_neutral
+POST_168,isAboutEvent,2025
+POST_168,isAboutEvent,Asia
+POST_168,isAboutEvent,Cup
+POST_168,mentionsEntity,abhi recent
+POST_168,mentionsEntity,asia cup
+POST_168,mentionsEntity,australia ke
+POST_168,mentionsEntity,bahut hai
+POST_168,mentionsEntity,hai imp
+POST_168,mentionsEntity,hai shubhmann
+POST_168,mentionsEntity,hue log
+POST_168,mentionsEntity,ke khilaaf
+POST_168,mentionsEntity,khilaaf final
+POST_168,mentionsEntity,ko jaise
+POST_168,mentionsEntity,match me
+POST_168,mentionsEntity,me aur
+POST_168,mentionsEntity,me pak
+POST_168,mentionsEntity,on me
+POST_168,mentionsEntity,out bhi
+POST_168,mentionsEntity,pull marte
+POST_168,mentionsEntity,short arm
+POST_168,mentionsEntity,to hona
+POST_168,mentionsEntity,to thik
+POST_168,mentionsEntity,wo sab
+POST_168,postedAtHour,8
+POST_168,postedAtMonth,Oct
+POST_168,postedAtYear,2025
+POST_169,hasKeyword,asia cup
+POST_169,hasSentiment,sent_positive
+POST_169,isAboutEvent,2025
+POST_169,isAboutEvent,Asia
+POST_169,isAboutEvent,Cup
+POST_169,mentionsEntity,Bhai
+POST_169,mentionsEntity,a raha
+POST_169,mentionsEntity,aa raha
+POST_169,mentionsEntity,ab samjh
+POST_169,mentionsEntity,bccibecause of
+POST_169,mentionsEntity,bhai ne
+POST_169,mentionsEntity,bhai samjh
+POST_169,mentionsEntity,cricket in
+POST_169,mentionsEntity,cup winner
+POST_169,mentionsEntity,fan of
+POST_169,mentionsEntity,gautamgambhirand also
+POST_169,mentionsEntity,karan tha
+POST_169,mentionsEntity,kiya rohit
+POST_169,mentionsEntity,ko wish
+POST_169,mentionsEntity,kuch to
+POST_169,mentionsEntity,love rohit
+POST_169,mentionsEntity,me sab
+POST_169,mentionsEntity,not a
+POST_169,mentionsEntity,sharma more
+POST_169,mentionsEntity,tak nahi
+POST_169,mentionsEntity,tha asia
+POST_169,mentionsEntity,this time
+POST_169,mentionsEntity,track record
+POST_169,mentionsEntity,you r
+POST_169,mentionsUser,bccibecause
+POST_169,mentionsUser,gautamgambhirand
+POST_169,mentionsUser,imro45i
+POST_169,postedAtHour,8
+POST_169,postedAtMonth,Oct
+POST_169,postedAtYear,2025
+POST_17,hasHashtag,#cwc25emergencycricketblog
+POST_17,hasKeyword,cricket world cup
+POST_17,hasKeyword,cwc
+POST_17,hasKeyword,cwc25
+POST_17,hasKeyword,world cup
+POST_17,hasNumber,2025
+POST_17,hasSentiment,sent_neutral
+POST_17,isAboutEvent,2025
+POST_17,isAboutEvent,Cricket
+POST_17,isAboutEvent,Cup
+POST_17,isAboutEvent,World
+POST_17,mentionsEntity,Cricket World Cup
+POST_17,mentionsEntity,Guwahati
+POST_17,mentionsEntity,India
+POST_17,mentionsEntity,Sri Lanka
+POST_17,mentionsEntity,Stats
+POST_17,mentionsEntity,Women
+POST_17,mentionsEntity,a rain
+POST_17,mentionsEntity,affected game
+POST_17,mentionsEntity,and trivia
+POST_17,mentionsEntity,at guwahati
+POST_17,mentionsEntity,from the
+POST_17,mentionsEntity,hosts sri
+POST_17,mentionsEntity,in which
+POST_17,mentionsEntity,india saw
+POST_17,mentionsEntity,lanka in
+POST_17,mentionsEntity,of the
+POST_17,mentionsEntity,off co
+POST_17,mentionsEntity,opening game
+POST_17,mentionsEntity,s cricket
+POST_17,mentionsEntity,stats highlights
+POST_17,mentionsEntity,world cup
+POST_17,postedAtHour,8
+POST_17,postedAtMonth,Sep
+POST_17,postedAtYear,2025
+POST_170,hasKeyword,asia cup
+POST_170,hasSentiment,sent_positive
+POST_170,isAboutEvent,2025
+POST_170,isAboutEvent,Asia
+POST_170,isAboutEvent,Cup
+POST_170,mentionsEntity,Asia Cup
+POST_170,mentionsEntity,Bruh
+POST_170,mentionsEntity,Bumrah
+POST_170,mentionsEntity,Full
+POST_170,mentionsEntity,asia cup
+POST_170,mentionsEntity,full desi
+POST_170,mentionsEntity,hero hai
+POST_170,mentionsEntity,hero toh
+POST_170,mentionsEntity,is legendary
+POST_170,mentionsEntity,off bumrah
+POST_170,mentionsEntity,smashing three
+POST_170,postedAtHour,8
+POST_170,postedAtMonth,Oct
+POST_170,postedAtYear,2025
+POST_171,hasKeyword,asia cup
+POST_171,hasKeyword,asia cup 2025
+POST_171,hasNumber,2025
+POST_171,hasSentiment,sent_neutral
+POST_171,isAboutEvent,2025
+POST_171,isAboutEvent,Asia
+POST_171,isAboutEvent,Cup
+POST_171,mentionsEntity,Asia Cup
+POST_171,mentionsEntity,Confirmed
+POST_171,mentionsEntity,Economic Times
+POST_171,mentionsEntity,Hindustan Times
+POST_171,mentionsEntity,India
+POST_171,mentionsEntity,Mohsin Naqvi
+POST_171,mentionsEntity,Reports
+POST_171,mentionsEntity,Shaheed Zulfiqar Ali Bhutto Excellence Gold Medal
+POST_171,mentionsEntity,The Nation
+POST_171,mentionsEntity,after india
+POST_171,mentionsEntity,and the
+POST_171,mentionsEntity,bhutto excellence
+POST_171,mentionsEntity,economic times
+POST_171,mentionsEntity,for his
+POST_171,mentionsEntity,gold medal
+POST_171,mentionsEntity,hindustan times
+POST_171,mentionsEntity,is set
+POST_171,mentionsEntity,mohsin naqvi
+POST_171,mentionsEntity,nation indicate
+POST_171,mentionsEntity,reports from
+POST_171,mentionsEntity,retained it
+POST_171,mentionsEntity,s refusal
+POST_171,mentionsEntity,stance during
+POST_171,mentionsEntity,the asia
+POST_171,mentionsEntity,the shaheed
+POST_171,mentionsEntity,to receive
+POST_171,mentionsEntity,trophy presentation
+POST_171,mentionsEntity,where he
+POST_171,mentionsEntity,zulfiqar ali
+POST_171,postedAtHour,8
+POST_171,postedAtMonth,Oct
+POST_171,postedAtYear,2025
+POST_172,hasKeyword,asia cup
+POST_172,hasNumber,6
+POST_172,hasSentiment,sent_neutral
+POST_172,isAboutEvent,2025
+POST_172,isAboutEvent,Asia
+POST_172,isAboutEvent,Cup
+POST_172,mentionsEntity,Brother
+POST_172,mentionsEntity,Pakistan Just
+POST_172,mentionsEntity,a match
+POST_172,mentionsEntity,about asia
+POST_172,mentionsEntity,against pakistan
+POST_172,mentionsEntity,also lost
+POST_172,mentionsEntity,brother rohit
+POST_172,mentionsEntity,cup super
+POST_172,mentionsEntity,just check
+POST_172,mentionsEntity,sharma was
+POST_172,postedAtHour,8
+POST_172,postedAtMonth,Oct
+POST_172,postedAtYear,2025
+POST_173,hasKeyword,asia cup
+POST_173,hasKeyword,asia cup final
+POST_173,hasNumber,17
+POST_173,hasNumber,2
+POST_173,hasSentiment,sent_neutral
+POST_173,isAboutEvent,2025
+POST_173,isAboutEvent,Asia
+POST_173,isAboutEvent,Cup
+POST_173,mentionsEntity,Hijra
+POST_173,mentionsEntity,Virat
+POST_173,mentionsEntity,and final
+POST_173,mentionsEntity,century saar
+POST_173,mentionsEntity,chokli bol
+POST_173,mentionsEntity,cup final
+POST_173,mentionsEntity,deta hu
+POST_173,mentionsEntity,double century
+POST_173,mentionsEntity,failedct semifinal
+POST_173,mentionsEntity,failedno motm
+POST_173,mentionsEntity,failedodi wc
+POST_173,mentionsEntity,final failedasia
+POST_173,mentionsEntity,hijra chakka
+POST_173,mentionsEntity,in knockout
+POST_173,mentionsEntity,pill knockout
+POST_173,mentionsEntity,till nowbut
+POST_173,mentionsEntity,virat is
+POST_173,mentionsEntity,virat ko
+POST_173,mentionsEntity,wtc final
+POST_173,mentionsUser,janardanxjordan
+POST_173,postedAtHour,8
+POST_173,postedAtMonth,Oct
+POST_173,postedAtYear,2025
+POST_174,hasKeyword,asia cup
+POST_174,hasNumber,3
+POST_174,hasSentiment,sent_positive
+POST_174,isAboutEvent,2025
+POST_174,isAboutEvent,Asia
+POST_174,isAboutEvent,Cup
+POST_174,mentionsEntity,Asia
+POST_174,mentionsEntity,But
+POST_174,mentionsEntity,We
+POST_174,mentionsEntity,asia cup
+POST_174,mentionsEntity,but if
+POST_174,mentionsEntity,claim victory
+POST_174,mentionsEntity,claimed victory
+POST_174,mentionsEntity,in asia
+POST_174,mentionsEntity,like we
+POST_174,mentionsEntity,live you
+POST_174,mentionsEntity,victory in
+POST_174,mentionsEntity,was not
+POST_174,mentionsEntity,we are
+POST_174,mentionsEntity,you claimed
+POST_174,postedAtHour,8
+POST_174,postedAtMonth,Oct
+POST_174,postedAtYear,2025
+POST_175,hasKeyword,asia cup
+POST_175,hasNumber,11
+POST_175,hasNumber,5
+POST_175,hasNumber,6
+POST_175,hasSentiment,sent_negative
+POST_175,isAboutEvent,2025
+POST_175,isAboutEvent,Asia
+POST_175,isAboutEvent,Cup
+POST_175,mentionsEntity,Abe
+POST_175,mentionsEntity,Akashdeep
+POST_175,mentionsEntity,Anshul
+POST_175,mentionsEntity,Asia
+POST_175,mentionsEntity,Economy
+POST_175,mentionsEntity,Fir
+POST_175,mentionsEntity,Mukesh
+POST_175,mentionsEntity,Shami
+POST_175,mentionsEntity,Where
+POST_175,mentionsEntity,Yash
+POST_175,mentionsEntity,abe ye
+POST_175,mentionsEntity,asia cup
+POST_175,mentionsEntity,fir bhi
+POST_175,mentionsEntity,he deserve
+POST_175,mentionsEntity,hell does
+POST_175,mentionsEntity,how the
+POST_175,mentionsEntity,in the
+POST_175,mentionsEntity,ki economy
+POST_175,mentionsEntity,kra h
+POST_175,mentionsEntity,kya galat
+POST_175,mentionsEntity,m dhoya
+POST_175,mentionsEntity,m pela
+POST_175,mentionsEntity,other fast
+POST_175,mentionsEntity,parchi h
+POST_175,mentionsEntity,sabse badi
+POST_175,mentionsEntity,se ct
+POST_175,mentionsEntity,shami n
+POST_175,mentionsEntity,to be
+POST_175,mentionsEntity,where r
+POST_175,mentionsEntity,yash dayal
+POST_175,postedAtHour,8
+POST_175,postedAtMonth,Oct
+POST_175,postedAtYear,2025
+POST_176,hasKeyword,asia cup
+POST_176,hasNumber,183
+POST_176,hasSentiment,sent_neutral
+POST_176,isAboutEvent,2025
+POST_176,isAboutEvent,Asia
+POST_176,isAboutEvent,Cup
+POST_176,mentionsEntity,Asia
+POST_176,mentionsEntity,Kavi
+POST_176,mentionsEntity,Kia
+POST_176,mentionsEntity,Knockout
+POST_176,mentionsEntity,Koi
+POST_176,mentionsEntity,Virat
+POST_176,mentionsEntity,and asia
+POST_176,mentionsEntity,chakka pill
+POST_176,mentionsEntity,chase ha
+POST_176,mentionsEntity,cup ma
+POST_176,mentionsEntity,icc final
+POST_176,mentionsEntity,jaisa virat
+POST_176,mentionsEntity,kavi pakistan
+POST_176,mentionsEntity,ke against
+POST_176,mentionsEntity,ki chakka
+POST_176,mentionsEntity,kia chakka
+POST_176,mentionsEntity,kia tha
+POST_176,mentionsEntity,knockout ma
+POST_176,mentionsEntity,koi asi
+POST_176,mentionsEntity,ma runs
+POST_176,mentionsEntity,motm ha
+POST_176,mentionsEntity,na hobert
+POST_176,mentionsEntity,pakistan ke
+POST_176,mentionsEntity,pill ka
+POST_176,mentionsEntity,pill na
+POST_176,mentionsEntity,pressure handle
+POST_176,mentionsEntity,record breaking
+POST_176,mentionsEntity,wc ma
+POST_176,postedAtHour,8
+POST_176,postedAtMonth,Oct
+POST_176,postedAtYear,2025
+POST_177,hasKeyword,asia cup
+POST_177,hasKeyword,asia cup 2025
+POST_177,hasNumber,2025
+POST_177,hasSentiment,sent_neutral
+POST_177,isAboutEvent,2025
+POST_177,isAboutEvent,Asia
+POST_177,isAboutEvent,Cup
+POST_177,mentionsEntity,Asia
+POST_177,mentionsEntity,Dubai
+POST_177,mentionsEntity,asia cup
+POST_177,mentionsEntity,box during
+POST_177,mentionsEntity,dubai press
+POST_177,mentionsEntity,with legendary
+POST_177,mentionsUser,wasimakramlive
+POST_177,postedAtHour,8
+POST_177,postedAtMonth,Oct
+POST_177,postedAtYear,2025
+POST_178,hasKeyword,asia cup
+POST_178,hasNumber,4
+POST_178,hasSentiment,sent_neutral
+POST_178,isAboutEvent,2025
+POST_178,isAboutEvent,Asia
+POST_178,isAboutEvent,Cup
+POST_178,mentionsEntity,Asia Cup
+POST_178,mentionsEntity,Couldn
+POST_178,mentionsEntity,asia cup
+POST_178,mentionsEntity,bilateral series
+POST_178,mentionsEntity,t won
+POST_178,mentionsEntity,won but
+POST_178,postedAtHour,8
+POST_178,postedAtMonth,Oct
+POST_178,postedAtYear,2025
+POST_179,hasKeyword,asia cup
+POST_179,hasKeyword,asia cup final
+POST_179,hasSentiment,sent_neutral
+POST_179,isAboutEvent,2025
+POST_179,isAboutEvent,Asia
+POST_179,isAboutEvent,Cup
+POST_179,mentionsEntity,Asia
+POST_179,mentionsEntity,Everything
+POST_179,mentionsEntity,Samson
+POST_179,mentionsEntity,but kudos
+POST_179,mentionsEntity,cup finals
+POST_179,mentionsEntity,everything aside
+POST_179,mentionsEntity,for that
+POST_179,mentionsEntity,for the
+POST_179,mentionsEntity,he came
+POST_179,mentionsEntity,held his
+POST_179,mentionsEntity,impacful knock
+POST_179,mentionsEntity,in terms
+POST_179,mentionsEntity,innings asia
+POST_179,mentionsEntity,nerves even
+POST_179,mentionsEntity,of situation
+POST_179,mentionsEntity,small but
+POST_179,mentionsEntity,though it
+POST_179,mentionsEntity,to samson
+POST_179,mentionsEntity,was a
+POST_179,mentionsEntity,way he
+POST_179,postedAtHour,8
+POST_179,postedAtMonth,Oct
+POST_179,postedAtYear,2025
+POST_18,hasHashtag,#cwc25icc
+POST_18,hasHashtag,#indvsl
+POST_18,hasKeyword,cricket world cup
+POST_18,hasKeyword,cwc
+POST_18,hasKeyword,cwc25
+POST_18,hasKeyword,world cup
+POST_18,hasNumber,1
+POST_18,hasSentiment,sent_neutral
+POST_18,isAboutEvent,2025
+POST_18,isAboutEvent,Cricket
+POST_18,isAboutEvent,Cup
+POST_18,isAboutEvent,World
+POST_18,mentionsEntity,Cricket World Cup
+POST_18,mentionsEntity,India
+POST_18,mentionsEntity,Match
+POST_18,mentionsEntity,Sri Lanka
+POST_18,mentionsEntity,Women
+POST_18,mentionsEntity,india v
+POST_18,mentionsEntity,s cricket
+POST_18,mentionsEntity,sri lanka
+POST_18,mentionsEntity,world cup
+POST_18,postedAtHour,8
+POST_18,postedAtMonth,Sep
+POST_18,postedAtYear,2025
+POST_180,hasKeyword,asia cup
+POST_180,hasSentiment,sent_neutral
+POST_180,isAboutEvent,2025
+POST_180,isAboutEvent,Asia
+POST_180,isAboutEvent,Cup
+POST_180,mentionsEntity,Asia
+POST_180,mentionsEntity,Medal
+POST_180,mentionsEntity,Pakistanis
+POST_180,mentionsEntity,Such
+POST_180,mentionsEntity,indeed clowns
+POST_180,mentionsEntity,loosing asia
+POST_180,mentionsEntity,medal for
+POST_180,mentionsEntity,pakistanis are
+POST_180,mentionsEntity,such a
+POST_180,postedAtHour,8
+POST_180,postedAtMonth,Oct
+POST_180,postedAtYear,2025
+POST_19,hasHashtag,#deeptisharma
+POST_19,hasHashtag,#durgaashtami
+POST_19,hasHashtag,#iccwomensworldcup
+POST_19,hasHashtag,#indvssl
+POST_19,hasHashtag,#wcwc25
+POST_19,hasHashtag,#womensworldcup2025
+POST_19,hasKeyword,cricket world cup
+POST_19,hasKeyword,cwc
+POST_19,hasKeyword,cwc25
+POST_19,hasKeyword,world cup
+POST_19,hasKeyword,world cup 2025
+POST_19,hasNumber,2025
+POST_19,hasSentiment,sent_neutral
+POST_19,isAboutEvent,2025
+POST_19,isAboutEvent,Cricket
+POST_19,isAboutEvent,Cup
+POST_19,isAboutEvent,World
+POST_19,mentionsEntity,Cricket World Cup
+POST_19,mentionsEntity,Deepti Sharma
+POST_19,mentionsEntity,Match
+POST_19,mentionsEntity,Player
+POST_19,mentionsEntity,Sri Lanka
+POST_19,mentionsEntity,Women
+POST_19,mentionsEntity,deepti sharma
+POST_19,mentionsEntity,icc women
+POST_19,mentionsEntity,player of
+POST_19,mentionsEntity,s cricket
+POST_19,mentionsEntity,sri lanka
+POST_19,mentionsEntity,the match
+POST_19,mentionsEntity,world cup
+POST_19,postedAtHour,8
+POST_19,postedAtMonth,Sep
+POST_19,postedAtYear,2025
+POST_2,hasSentiment,sent_neutral
+POST_2,isAboutEvent,None
+POST_2,postedAtHour,12
+POST_2,postedAtMonth,Oct
+POST_2,postedAtYear,2025
+POST_20,hasNumber,2025/
+POST_20,hasNumber,300
+POST_20,hasNumber,35
+POST_20,hasSentiment,sent_neutral
+POST_20,isAboutEvent,None
+POST_20,mentionsEntity,England
+POST_20,mentionsEntity,and why
+POST_20,mentionsEntity,as a
+POST_20,mentionsEntity,fuck it
+POST_20,mentionsEntity,helping england
+POST_20,mentionsEntity,his bat
+POST_20,mentionsEntity,i appreciated
+POST_20,mentionsEntity,in a
+POST_20,mentionsEntity,josbuttlertalking so
+POST_20,mentionsEntity,new ambitions
+POST_20,mentionsEntity,of captaincy
+POST_20,mentionsEntity,of his
+POST_20,mentionsEntity,openly about
+POST_20,mentionsEntity,shedding that
+POST_20,mentionsEntity,still says
+POST_20,mentionsEntity,the death
+POST_20,mentionsEntity,the pain
+POST_20,mentionsEntity,the passing
+POST_20,mentionsEntity,world first
+POST_20,mentionsUser,josbuttlertalking
+POST_20,postedAtHour,8
+POST_20,postedAtMonth,Sep
+POST_20,postedAtYear,2025
+POST_21,hasHashtag,#amanjot
+POST_21,hasHashtag,#cricket
+POST_21,hasHashtag,#cup
+POST_21,hasHashtag,#deepti
+POST_21,hasHashtag,#icc
+POST_21,hasHashtag,#impresionan
+POST_21,hasHashtag,#india
+POST_21,hasHashtag,#kaur
+POST_21,hasHashtag,#lanka
+POST_21,hasHashtag,#mientras
+POST_21,hasHashtag,#partido
+POST_21,hasHashtag,#primer
+POST_21,hasHashtag,#sharma
+POST_21,hasHashtag,#sri
+POST_21,hasHashtag,#venci
+POST_21,hasHashtag,#wom
+POST_21,hasKeyword,cricket world cup
+POST_21,hasKeyword,world cup
+POST_21,hasKeyword,world cup 2025
+POST_21,hasNumber,2025
+POST_21,hasSentiment,sent_neutral
+POST_21,isAboutEvent,2025
+POST_21,isAboutEvent,Cricket
+POST_21,isAboutEvent,Cup
+POST_21,isAboutEvent,World
+POST_21,mentionsEntity,Amanjot
+POST_21,mentionsEntity,Amanjot Kaur
+POST_21,mentionsEntity,Cricket World Cup
+POST_21,mentionsEntity,Cup
+POST_21,mentionsEntity,Deepti
+POST_21,mentionsEntity,Deepti Sharma
+POST_21,mentionsEntity,India
+POST_21,mentionsEntity,Kaur
+POST_21,mentionsEntity,Lanka
+POST_21,mentionsEntity,Partido
+POST_21,mentionsEntity,Sharma
+POST_21,mentionsEntity,Sri
+POST_21,mentionsEntity,Sri Lanka
+POST_21,mentionsEntity,Women
+POST_21,mentionsEntity,a sri
+POST_21,mentionsEntity,deepti sharma
+POST_21,mentionsEntity,el primer
+POST_21,mentionsEntity,icc women
+POST_21,mentionsEntity,kaur impresionan
+POST_21,mentionsEntity,lanka en
+POST_21,mentionsEntity,mientras india
+POST_21,mentionsEntity,s cricket
+POST_21,mentionsEntity,world cup
+POST_21,mentionsEntity,y amanjot
+POST_21,postedAtHour,7
+POST_21,postedAtMonth,Sep
+POST_21,postedAtYear,2025
+POST_22,hasHashtag,#assamproved
+POST_22,hasHashtag,#guwahatigoosebumps
+POST_22,hasHashtag,#zubeen_gargwas
+POST_22,hasKeyword,cricket world cup
+POST_22,hasKeyword,world cup
+POST_22,hasKeyword,world cup 2025
+POST_22,hasNumber,09
+POST_22,hasNumber,2024
+POST_22,hasNumber,2025
+POST_22,hasNumber,30
+POST_22,hasSentiment,sent_neutral
+POST_22,isAboutEvent,2025
+POST_22,isAboutEvent,Cricket
+POST_22,isAboutEvent,Cup
+POST_22,isAboutEvent,World
+POST_22,mentionsEntity,Funeral
+POST_22,mentionsEntity,Opening
+POST_22,mentionsEntity,People
+POST_22,mentionsEntity,Proved
+POST_22,mentionsEntity,Thank
+POST_22,mentionsEntity,Women Cricket World Cup
+POST_22,mentionsEntity,assamproved at
+POST_22,mentionsEntity,cricket world
+POST_22,mentionsEntity,icc women
+POST_22,mentionsEntity,in the
+POST_22,mentionsEntity,largest gathering
+POST_22,mentionsEntity,occurred proved
+POST_22,mentionsEntity,opening match
+POST_22,mentionsEntity,people of
+POST_22,mentionsEntity,thank you
+POST_22,mentionsEntity,the time
+POST_22,mentionsEntity,veins of
+POST_22,mentionsEntity,when world
+POST_22,mentionsUser,shreyaghoshal
+POST_22,postedAtHour,7
+POST_22,postedAtMonth,Sep
+POST_22,postedAtYear,2025
+POST_23,hasHashtag,#cwc25
+POST_23,hasKeyword,cwc
+POST_23,hasKeyword,cwc25
+POST_23,hasNumber,1
+POST_23,hasNumber,2025
+POST_23,hasNumber,5
+POST_23,hasNumber,7
+POST_23,hasNumber,9
+POST_23,hasSentiment,sent_neutral
+POST_23,isAboutEvent,2025
+POST_23,isAboutEvent,Cricket
+POST_23,isAboutEvent,Cup
+POST_23,isAboutEvent,World
+POST_23,mentionsEntity,Cricket Women
+POST_23,mentionsEntity,Guwahati
+POST_23,mentionsEntity,India
+POST_23,mentionsEntity,World Cup
+POST_23,mentionsEntity,bccifeliciated the
+POST_23,mentionsEntity,before the
+POST_23,mentionsEntity,cricket women
+POST_23,mentionsEntity,cup opener
+POST_23,mentionsEntity,former india
+POST_23,mentionsEntity,in guwahati
+POST_23,mentionsEntity,s cricket
+POST_23,mentionsEntity,s from
+POST_23,mentionsEntity,s world
+POST_23,mentionsEntity,start of
+POST_23,mentionsEntity,team captain
+POST_23,mentionsUser,bccifeliciated
+POST_23,postedAtHour,7
+POST_23,postedAtMonth,Sep
+POST_23,postedAtYear,2025
+POST_24,hasHashtag,#cricketworldcup
+POST_24,hasHashtag,#globalgisthq
+POST_24,hasHashtag,#womenscricket
+POST_24,hasKeyword,cricket world cup
+POST_24,hasKeyword,cricketworldcup
+POST_24,hasKeyword,world cup
+POST_24,hasKeyword,world cup 2025
+POST_24,hasNumber,2025
+POST_24,hasSentiment,sent_neutral
+POST_24,isAboutEvent,2025
+POST_24,isAboutEvent,Cricket
+POST_24,isAboutEvent,Cup
+POST_24,isAboutEvent,World
+POST_24,mentionsEntity,Cricket World Cup
+POST_24,mentionsEntity,India
+POST_24,mentionsEntity,The Women
+POST_24,mentionsEntity,begins today
+POST_24,mentionsEntity,expecting thrilling
+POST_24,mentionsEntity,in india
+POST_24,mentionsEntity,making performances
+POST_24,mentionsEntity,matches and
+POST_24,mentionsEntity,s cricket
+POST_24,mentionsEntity,the women
+POST_24,mentionsEntity,world cup
+POST_24,postedAtHour,7
+POST_24,postedAtMonth,Sep
+POST_24,postedAtYear,2025
+POST_25,hasHashtag,#cwc2025
+POST_25,hasHashtag,#inspirationinblue
+POST_25,hasKeyword,cricket world cup
+POST_25,hasKeyword,cwc
+POST_25,hasKeyword,cwc2025
+POST_25,hasKeyword,world cup
+POST_25,hasKeyword,world cup 2025
+POST_25,hasNumber,2025
+POST_25,hasNumber,59
+POST_25,hasSentiment,sent_positive
+POST_25,isAboutEvent,2025
+POST_25,isAboutEvent,Cricket
+POST_25,isAboutEvent,Cup
+POST_25,isAboutEvent,World
+POST_25,mentionsEntity,Cricket World Cup
+POST_25,mentionsEntity,India Women
+POST_25,mentionsEntity,Sri Lanka
+POST_25,mentionsEntity,a commanding
+POST_25,mentionsEntity,india women
+POST_25,mentionsEntity,lanka in
+POST_25,mentionsEntity,over sri
+POST_25,mentionsEntity,run win
+POST_25,mentionsEntity,seal a
+POST_25,mentionsEntity,the cricket
+POST_25,mentionsEntity,world cup
+POST_25,postedAtHour,7
+POST_25,postedAtMonth,Sep
+POST_25,postedAtYear,2025
+POST_26,hasKeyword,cricket world cup
+POST_26,hasKeyword,world cup
+POST_26,hasKeyword,world cup 2025
+POST_26,hasNumber,2025
+POST_26,hasSentiment,sent_neutral
+POST_26,isAboutEvent,2025
+POST_26,isAboutEvent,Cricket
+POST_26,isAboutEvent,Cup
+POST_26,isAboutEvent,World
+POST_26,mentionsEntity,Amanjot Kaur
+POST_26,mentionsEntity,Cricket World Cup
+POST_26,mentionsEntity,Deepti Sharma
+POST_26,mentionsEntity,India
+POST_26,mentionsEntity,Sri Lanka
+POST_26,mentionsEntity,Women
+POST_26,mentionsEntity,and amanjot
+POST_26,mentionsEntity,as india
+POST_26,mentionsEntity,beat sri
+POST_26,mentionsEntity,deepti sharma
+POST_26,mentionsEntity,icc women
+POST_26,mentionsEntity,kaur impress
+POST_26,mentionsEntity,lanka in
+POST_26,mentionsEntity,s cricket
+POST_26,mentionsEntity,world cup
+POST_26,postedAtHour,7
+POST_26,postedAtMonth,Sep
+POST_26,postedAtYear,2025
+POST_27,hasHashtag,#iccwomensworldcup2025
+POST_27,hasHashtag,#indvsl
+POST_27,hasKeyword,cricket world cup
+POST_27,hasKeyword,world cup
+POST_27,hasNumber,2025
+POST_27,hasNumber,59
+POST_27,hasSentiment,sent_positive
+POST_27,isAboutEvent,2025
+POST_27,isAboutEvent,Cricket
+POST_27,isAboutEvent,Cup
+POST_27,isAboutEvent,World
+POST_27,mentionsEntity,Cricket World Cup
+POST_27,mentionsEntity,India
+POST_27,mentionsEntity,Sri Lanka
+POST_27,mentionsEntity,The
+POST_27,mentionsEntity,Women
+POST_27,mentionsEntity,a thrilling
+POST_27,mentionsEntity,claiming a
+POST_27,mentionsEntity,got underway
+POST_27,mentionsEntity,lanka in
+POST_27,mentionsEntity,over sri
+POST_27,mentionsEntity,run victory
+POST_27,mentionsEntity,s cricket
+POST_27,mentionsEntity,with india
+POST_27,mentionsEntity,world cup
+POST_27,postedAtHour,7
+POST_27,postedAtMonth,Sep
+POST_27,postedAtYear,2025
+POST_28,hasKeyword,world cup
+POST_28,hasSentiment,sent_positive
+POST_28,isAboutEvent,2025
+POST_28,isAboutEvent,Cricket
+POST_28,isAboutEvent,Cup
+POST_28,isAboutEvent,World
+POST_28,mentionsEntity,Congratulations Team India
+POST_28,mentionsEntity,Women
+POST_28,mentionsEntity,World Cup Cricket
+POST_28,mentionsEntity,congratulations team
+POST_28,mentionsEntity,cricket game
+POST_28,mentionsEntity,inaugural women
+POST_28,mentionsEntity,india on
+POST_28,mentionsEntity,s odi
+POST_28,mentionsEntity,winning the
+POST_28,mentionsEntity,world cup
+POST_28,postedAtHour,7
+POST_28,postedAtMonth,Sep
+POST_28,postedAtYear,2025
+POST_29,hasHashtag,#cricket
+POST_29,hasHashtag,#cwc25
+POST_29,hasHashtag,#indvsl
+POST_29,hasHashtag,#sakalnews
+POST_29,hasHashtag,#sakalsportsesakal
+POST_29,hasHashtag,#teamindia
+POST_29,hasKeyword,cwc
+POST_29,hasKeyword,cwc25
+POST_29,hasNumber,२०२५
+POST_29,hasSentiment,sent_neutral
+POST_29,isAboutEvent,2025
+POST_29,isAboutEvent,Cricket
+POST_29,isAboutEvent,Cup
+POST_29,isAboutEvent,World
+POST_29,mentionsEntity,Cricket
+POST_29,postedAtHour,7
+POST_29,postedAtMonth,Sep
+POST_29,postedAtYear,2025
+POST_3,hasKeyword,cricket world cup
+POST_3,hasKeyword,world cup
+POST_3,hasNumber,1973
+POST_3,hasNumber,2022
+POST_3,hasNumber,2025
+POST_3,hasSentiment,sent_positive
+POST_3,isAboutEvent,2025
+POST_3,isAboutEvent,Cricket
+POST_3,isAboutEvent,Cup
+POST_3,isAboutEvent,World
+POST_3,mentionsEntity,All
+POST_3,mentionsEntity,Cricket World Cup Winners
+POST_3,mentionsEntity,Drop
+POST_3,mentionsEntity,Now
+POST_3,mentionsEntity,Who
+POST_3,mentionsEntity,Women
+POST_3,mentionsEntity,all icc
+POST_3,mentionsEntity,be crowned
+POST_3,mentionsEntity,champion in
+POST_3,mentionsEntity,drop your
+POST_3,mentionsEntity,now the
+POST_3,mentionsEntity,predictions below
+POST_3,mentionsEntity,question is
+POST_3,mentionsEntity,s cricket
+POST_3,mentionsEntity,who will
+POST_3,mentionsEntity,world cup
+POST_3,postedAtHour,12
+POST_3,postedAtMonth,Oct
+POST_3,postedAtYear,2025
+POST_30,hasHashtag,#amanjotkaur
+POST_30,hasHashtag,#cricket
+POST_30,hasHashtag,#cricketnews
+POST_30,hasHashtag,#crickettwitter
+POST_30,hasHashtag,#cwc2025
+POST_30,hasHashtag,#deeptisharma
+POST_30,hasHashtag,#guwahati
+POST_30,hasHashtag,#harmanpreetkaur
+POST_30,hasHashtag,#indwvsslw
+POST_30,hasHashtag,#slw
+POST_30,hasHashtag,#smritimandhana
+POST_30,hasKeyword,cwc
+POST_30,hasKeyword,cwc2025
+POST_30,hasKeyword,world cup
+POST_30,hasNumber,2025
+POST_30,hasNumber,59
+POST_30,hasSentiment,sent_neutral
+POST_30,isAboutEvent,2025
+POST_30,isAboutEvent,Cricket
+POST_30,isAboutEvent,Cup
+POST_30,isAboutEvent,World
+POST_30,mentionsEntity,Amanjot
+POST_30,mentionsEntity,Cricket
+POST_30,mentionsEntity,Deepti
+POST_30,mentionsEntity,Guwahati
+POST_30,mentionsEntity,Indian
+POST_30,mentionsEntity,Sri
+POST_30,mentionsEntity,World
+POST_30,mentionsEntity,act helps
+POST_30,mentionsEntity,amanjot rescue
+POST_30,mentionsEntity,indian women
+POST_30,mentionsEntity,odi world
+POST_30,mentionsEntity,runs in
+POST_30,mentionsEntity,sri by
+POST_30,mentionsEntity,to beat
+POST_30,postedAtHour,7
+POST_30,postedAtMonth,Sep
+POST_30,postedAtYear,2025
+POST_31,hasHashtag,#cricket
+POST_31,hasHashtag,#cwc25
+POST_31,hasHashtag,#indvsl
+POST_31,hasHashtag,#sakalnews
+POST_31,hasHashtag,#sakalsportsesakal
+POST_31,hasHashtag,#teamindia
+POST_31,hasKeyword,cwc
+POST_31,hasKeyword,cwc25
+POST_31,hasNumber,२०२५
+POST_31,hasSentiment,sent_neutral
+POST_31,isAboutEvent,2025
+POST_31,isAboutEvent,Cricket
+POST_31,isAboutEvent,Cup
+POST_31,isAboutEvent,World
+POST_31,mentionsEntity,Cricket
+POST_31,postedAtHour,7
+POST_31,postedAtMonth,Sep
+POST_31,postedAtYear,2025
+POST_32,hasHashtag,#bcci
+POST_32,hasHashtag,#cricket
+POST_32,hasHashtag,#cwc25
+POST_32,hasHashtag,#icc
+POST_32,hasHashtag,#indiancricket
+POST_32,hasHashtag,#teamindia
+POST_32,hasHashtag,#womenscricket
+POST_32,hasHashtag,#womensworldcup
+POST_32,hasKeyword,cwc
+POST_32,hasKeyword,cwc25
+POST_32,hasKeyword,world cup
+POST_32,hasKeyword,world cup 2025
+POST_32,hasNumber,2025
+POST_32,hasSentiment,sent_positive
+POST_32,isAboutEvent,2025
+POST_32,isAboutEvent,Cricket
+POST_32,isAboutEvent,Cup
+POST_32,isAboutEvent,World
+POST_32,mentionsEntity,Cricket
+POST_32,mentionsEntity,Team India
+POST_32,mentionsEntity,Women
+POST_32,mentionsEntity,World Cup
+POST_32,mentionsEntity,a day
+POST_32,mentionsEntity,cup campaign
+POST_32,mentionsEntity,filled with
+POST_32,mentionsEntity,highs for
+POST_32,mentionsEntity,icc odi
+POST_32,mentionsEntity,s world
+POST_32,mentionsEntity,start off
+POST_32,mentionsEntity,team india
+POST_32,mentionsEntity,their world
+POST_32,mentionsEntity,with a
+POST_32,postedAtHour,7
+POST_32,postedAtMonth,Sep
+POST_32,postedAtYear,2025
+POST_33,hasHashtag,#iccwomensworldcup2025
+POST_33,hasHashtag,#indvsslw
+POST_33,hasSentiment,sent_neutral
+POST_33,isAboutEvent,None
+POST_33,postedAtHour,7
+POST_33,postedAtMonth,Sep
+POST_33,postedAtYear,2025
+POST_34,hasHashtag,#cwc25kicks
+POST_34,hasHashtag,#womenscricket
+POST_34,hasHashtag,#wwc25thepunterspage
+POST_34,hasKeyword,cwc
+POST_34,hasKeyword,cwc25
+POST_34,hasSentiment,sent_neutral
+POST_34,isAboutEvent,2025
+POST_34,isAboutEvent,Cricket
+POST_34,isAboutEvent,Cup
+POST_34,isAboutEvent,World
+POST_34,mentionsEntity,And
+POST_34,mentionsEntity,Can India
+POST_34,mentionsEntity,Jonathan Askew
+POST_34,mentionsEntity,Sri Lanka
+POST_34,mentionsEntity,The
+POST_34,mentionsEntity,advantage all
+POST_34,mentionsEntity,and could
+POST_34,mentionsEntity,betting tips
+POST_34,mentionsEntity,biggest surprise
+POST_34,mentionsEntity,breaks down
+POST_34,mentionsEntity,can india
+POST_34,mentionsEntity,jonathan askew
+POST_34,mentionsEntity,off tomorrow
+POST_34,mentionsEntity,ride home
+POST_34,mentionsEntity,spring the
+POST_34,mentionsEntity,sri lanka
+POST_34,mentionsEntity,the way
+POST_34,mentionsEntity,to the
+POST_34,postedAtHour,6
+POST_34,postedAtMonth,Sep
+POST_34,postedAtYear,2025
+POST_35,hasHashtag,#indiancricket
+POST_35,hasHashtag,#indvsslw
+POST_35,hasHashtag,#indvssrilanka
+POST_35,hasHashtag,#womenscricket
+POST_35,hasHashtag,#womensworldcup
+POST_35,hasHashtag,#womensworldcup2025
+POST_35,hasKeyword,cricket world cup
+POST_35,hasKeyword,world cup
+POST_35,hasKeyword,world cup 2025
+POST_35,hasNumber,2025
+POST_35,hasSentiment,sent_neutral
+POST_35,isAboutEvent,2025
+POST_35,isAboutEvent,Cricket
+POST_35,isAboutEvent,Cup
+POST_35,isAboutEvent,World
+POST_35,mentionsEntity,Cricket World Cup
+POST_35,mentionsEntity,India
+POST_35,mentionsEntity,Women
+POST_35,mentionsEntity,flyer in
+POST_35,mentionsEntity,india women
+POST_35,mentionsEntity,s cricket
+POST_35,mentionsEntity,team off
+POST_35,mentionsEntity,the icc
+POST_35,mentionsEntity,to a
+POST_35,mentionsEntity,world cup
+POST_35,postedAtHour,6
+POST_35,postedAtMonth,Sep
+POST_35,postedAtYear,2025
+POST_36,hasHashtag,#indvsslindianexpress
+POST_36,hasHashtag,#womensworldcup
+POST_36,hasKeyword,world cup
+POST_36,hasKeyword,world cup opener
+POST_36,hasNumber,59
+POST_36,hasSentiment,sent_positive
+POST_36,isAboutEvent,2025
+POST_36,isAboutEvent,Cricket
+POST_36,isAboutEvent,Cup
+POST_36,isAboutEvent,World
+POST_36,mentionsEntity,All
+POST_36,mentionsEntity,Deepti Sharma
+POST_36,mentionsEntity,India
+POST_36,mentionsEntity,Sri Lanka
+POST_36,mentionsEntity,World Cup
+POST_36,mentionsEntity,cup opener
+POST_36,mentionsEntity,india to
+POST_36,mentionsEntity,lanka in
+POST_36,mentionsEntity,odi world
+POST_36,mentionsEntity,over sri
+POST_36,mentionsEntity,round deepti
+POST_36,mentionsEntity,run win
+POST_36,mentionsEntity,sharma leads
+POST_36,mentionsUser,vinayakkm
+POST_36,postedAtHour,6
+POST_36,postedAtMonth,Sep
+POST_36,postedAtYear,2025
+POST_37,hasSentiment,sent_positive
+POST_37,isAboutEvent,None
+POST_37,mentionsEntity,Amanjot
+POST_37,mentionsEntity,Deepti
+POST_37,mentionsEntity,India
+POST_37,mentionsEntity,act gets
+POST_37,mentionsEntity,ind vs
+POST_37,mentionsEntity,india off
+POST_37,mentionsEntity,round rescue
+POST_37,mentionsEntity,s all
+POST_37,mentionsEntity,to winning
+POST_37,postedAtHour,6
+POST_37,postedAtMonth,Sep
+POST_37,postedAtYear,2025
+POST_38,hasKeyword,world cup
+POST_38,hasKeyword,world cup 2025
+POST_38,hasNumber,2025
+POST_38,hasNumber,3
+POST_38,hasNumber,3/54
+POST_38,hasNumber,53
+POST_38,hasSentiment,sent_positive
+POST_38,isAboutEvent,2025
+POST_38,isAboutEvent,Cricket
+POST_38,isAboutEvent,Cup
+POST_38,isAboutEvent,World
+POST_38,mentionsEntity,Are
+POST_38,mentionsEntity,Deepti Sharma
+POST_38,mentionsEntity,India Women
+POST_38,mentionsEntity,Match
+POST_38,mentionsEntity,Player
+POST_38,mentionsEntity,She
+POST_38,mentionsEntity,Sri Lanka Women
+POST_38,mentionsEntity,Study
+POST_38,mentionsEntity,Women
+POST_38,mentionsEntity,World Cup
+POST_38,mentionsEntity,a crucial
+POST_38,mentionsEntity,a win
+POST_38,mentionsEntity,against sri
+POST_38,mentionsEntity,all aware
+POST_38,mentionsEntity,and then
+POST_38,mentionsEntity,are y
+POST_38,mentionsEntity,cricket news
+POST_38,mentionsEntity,deepti sharma
+POST_38,mentionsEntity,exceptional all
+POST_38,mentionsEntity,for her
+POST_38,mentionsEntity,icc women
+POST_38,mentionsEntity,in the
+POST_38,mentionsEntity,india women
+POST_38,mentionsEntity,lanka women
+POST_38,mentionsEntity,m staying
+POST_38,mentionsEntity,opening match
+POST_38,mentionsEntity,player of
+POST_38,mentionsEntity,round display
+POST_38,mentionsEntity,s odi
+POST_38,mentionsEntity,she scored
+POST_38,mentionsEntity,started with
+POST_38,mentionsEntity,thanks to
+POST_38,mentionsEntity,that the
+POST_38,mentionsEntity,the innings
+POST_38,mentionsEntity,the match
+POST_38,mentionsEntity,to rescue
+POST_38,mentionsEntity,took a
+POST_38,mentionsEntity,tournament has
+POST_38,mentionsEntity,updated on
+POST_38,mentionsEntity,was the
+POST_38,mentionsEntity,with the
+POST_38,mentionsEntity,women in
+POST_38,mentionsEntity,world cup
+POST_38,mentionsUser,blyckfella
+POST_38,mentionsUser,cjsweb3
+POST_38,mentionsUser,doskythegreat
+POST_38,mentionsUser,e_r_e_b_u_s10
+POST_38,mentionsUser,lincoln_drop
+POST_38,mentionsUser,only1mzd
+POST_38,mentionsUser,pec_ulia
+POST_38,mentionsUser,sixr_cricket
+POST_38,mentionsUser,tiiimbhoe
+POST_38,mentionsUser,tobem_godnika
+POST_38,postedAtHour,6
+POST_38,postedAtMonth,Sep
+POST_38,postedAtYear,2025
+POST_39,hasHashtag,#cricket
+POST_39,hasHashtag,#cwc25crickettimes
+POST_39,hasHashtag,#women
+POST_39,hasKeyword,cwc
+POST_39,hasKeyword,cwc25
+POST_39,hasKeyword,world cup
+POST_39,hasKeyword,world cup 2025
+POST_39,hasNumber,2025
+POST_39,hasNumber,2025/09/
+POST_39,hasNumber,59
+POST_39,hasSentiment,sent_positive
+POST_39,isAboutEvent,2025
+POST_39,isAboutEvent,Cricket
+POST_39,isAboutEvent,Cup
+POST_39,isAboutEvent,World
+POST_39,mentionsEntity,Barsapara Cricket Stadium
+POST_39,mentionsEntity,Guwahati
+POST_39,mentionsEntity,India
+POST_39,mentionsEntity,Sri Lanka
+POST_39,mentionsEntity,Women
+POST_39,mentionsEntity,World Cup
+POST_39,mentionsEntity,a dominant
+POST_39,mentionsEntity,against sri
+POST_39,mentionsEntity,campaign with
+POST_39,mentionsEntity,cricket stadium
+POST_39,mentionsEntity,india began
+POST_39,mentionsEntity,lanka at
+POST_39,mentionsEntity,run win
+POST_39,mentionsEntity,s world
+POST_39,mentionsEntity,the barsapara
+POST_39,mentionsEntity,their icc
+POST_39,postedAtHour,6
+POST_39,postedAtMonth,Sep
+POST_39,postedAtYear,2025
+POST_4,hasHashtag,#googledoodledoodles
+POST_4,hasKeyword,cricket world cup
+POST_4,hasKeyword,world cup
+POST_4,hasKeyword,world cup 2025
+POST_4,hasNumber,2025
+POST_4,hasSentiment,sent_neutral
+POST_4,isAboutEvent,2025
+POST_4,isAboutEvent,Cricket
+POST_4,isAboutEvent,Cup
+POST_4,isAboutEvent,World
+POST_4,mentionsEntity,Begins
+POST_4,mentionsEntity,Cricket World Cup
+POST_4,mentionsEntity,Women
+POST_4,mentionsEntity,s cricket
+POST_4,mentionsEntity,world cup
+POST_4,postedAtHour,12
+POST_4,postedAtMonth,Oct
+POST_4,postedAtYear,2025
+POST_40,hasHashtag,#cricketnews
+POST_40,hasHashtag,#indwvsslw
+POST_40,hasKeyword,world cup
+POST_40,hasKeyword,world cup 2025
+POST_40,hasNumber,2025
+POST_40,hasNumber,59
+POST_40,hasSentiment,sent_neutral
+POST_40,isAboutEvent,2025
+POST_40,isAboutEvent,Cricket
+POST_40,isAboutEvent,Cup
+POST_40,isAboutEvent,World
+POST_40,mentionsEntity,Cricketnews
+POST_40,mentionsEntity,Highlights
+POST_40,mentionsEntity,India Women
+POST_40,mentionsEntity,Women
+POST_40,mentionsEntity,World Cup
+POST_40,mentionsEntity,india women
+POST_40,mentionsEntity,indw vs
+POST_40,mentionsEntity,s odi
+POST_40,mentionsEntity,slw highlights
+POST_40,mentionsEntity,won by
+POST_40,mentionsEntity,world cup
+POST_40,postedAtHour,6
+POST_40,postedAtMonth,Sep
+POST_40,postedAtYear,2025
+POST_41,hasHashtag,#womensworldcup2025cricsprinter
+POST_41,hasKeyword,cricket world cup
+POST_41,hasKeyword,world cup
+POST_41,hasKeyword,world cup 2025
+POST_41,hasNumber,2025
+POST_41,hasNumber,2025/10/01
+POST_41,hasNumber,59
+POST_41,hasSentiment,sent_positive
+POST_41,isAboutEvent,2025
+POST_41,isAboutEvent,Cricket
+POST_41,isAboutEvent,Cup
+POST_41,isAboutEvent,World
+POST_41,mentionsEntity,India
+POST_41,mentionsEntity,game of
+POST_41,mentionsEntity,icc women
+POST_41,mentionsEntity,india women
+POST_41,mentionsEntity,runs in
+POST_41,mentionsEntity,s cricket
+POST_41,mentionsEntity,sealed the
+POST_41,mentionsEntity,the opener
+POST_41,mentionsEntity,victory by
+POST_41,mentionsEntity,world cup
+POST_41,postedAtHour,6
+POST_41,postedAtMonth,Sep
+POST_41,postedAtYear,2025
+POST_42,hasHashtag,#cricket
+POST_42,hasHashtag,#cwc25womencricket
+POST_42,hasHashtag,#women
+POST_42,hasKeyword,cwc
+POST_42,hasKeyword,cwc25
+POST_42,hasKeyword,world cup
+POST_42,hasKeyword,world cup 2025
+POST_42,hasNumber,2025
+POST_42,hasNumber,2025/09/30
+POST_42,hasNumber,59
+POST_42,hasSentiment,sent_positive
+POST_42,isAboutEvent,2025
+POST_42,isAboutEvent,Cricket
+POST_42,isAboutEvent,Cup
+POST_42,isAboutEvent,World
+POST_42,mentionsEntity,Barsapara Cricket Stadium
+POST_42,mentionsEntity,Guwahati
+POST_42,mentionsEntity,India
+POST_42,mentionsEntity,Sri Lanka
+POST_42,mentionsEntity,Women
+POST_42,mentionsEntity,World Cup
+POST_42,mentionsEntity,a dominant
+POST_42,mentionsEntity,against sri
+POST_42,mentionsEntity,campaign with
+POST_42,mentionsEntity,cricket stadium
+POST_42,mentionsEntity,india began
+POST_42,mentionsEntity,lanka at
+POST_42,mentionsEntity,run win
+POST_42,mentionsEntity,s world
+POST_42,mentionsEntity,the barsapara
+POST_42,mentionsEntity,their icc
+POST_42,postedAtHour,6
+POST_42,postedAtMonth,Sep
+POST_42,postedAtYear,2025
+POST_43,hasHashtag,#womensworldcup
+POST_43,hasKeyword,cricket world cup
+POST_43,hasKeyword,world cup
+POST_43,hasKeyword,world cup 2025
+POST_43,hasNumber,2025
+POST_43,hasSentiment,sent_neutral
+POST_43,isAboutEvent,2025
+POST_43,isAboutEvent,Cricket
+POST_43,isAboutEvent,Cup
+POST_43,isAboutEvent,World
+POST_43,mentionsEntity,Cricket World Cup
+POST_43,mentionsEntity,India
+POST_43,mentionsEntity,Team India
+POST_43,mentionsEntity,Women
+POST_43,mentionsEntity,first match
+POST_43,mentionsEntity,icc women
+POST_43,mentionsEntity,of the
+POST_43,mentionsEntity,s cricket
+POST_43,mentionsEntity,s lionesses
+POST_43,mentionsEntity,team india
+POST_43,mentionsEntity,well done
+POST_43,mentionsEntity,won the
+POST_43,mentionsEntity,world cup
+POST_43,postedAtHour,6
+POST_43,postedAtMonth,Sep
+POST_43,postedAtYear,2025
+POST_44,hasHashtag,#amanjotkaur
+POST_44,hasHashtag,#deeptisharma
+POST_44,hasHashtag,#harleendeol
+POST_44,hasHashtag,#harmanpreetkaur
+POST_44,hasHashtag,#iccwomensworldcup2025
+POST_44,hasHashtag,#indwvslw
+POST_44,hasHashtag,#indwvsslw
+POST_44,hasKeyword,cricketworldcup
+POST_44,hasNumber,২০২৫
+POST_44,hasSentiment,sent_neutral
+POST_44,isAboutEvent,2025
+POST_44,isAboutEvent,Cricket
+POST_44,isAboutEvent,Cup
+POST_44,isAboutEvent,World
+POST_44,mentionsUser,bccibangla
+POST_44,mentionsUser,cricketworldcup
+POST_44,postedAtHour,6
+POST_44,postedAtMonth,Sep
+POST_44,postedAtYear,2025
+POST_45,hasHashtag,#bcci
+POST_45,hasHashtag,#cricket
+POST_45,hasHashtag,#cwc25
+POST_45,hasHashtag,#deeptisharma
+POST_45,hasHashtag,#icc
+POST_45,hasHashtag,#indiancricket
+POST_45,hasHashtag,#teamindia
+POST_45,hasHashtag,#womenscricket
+POST_45,hasHashtag,#womensworldcup
+POST_45,hasKeyword,cwc
+POST_45,hasKeyword,cwc25
+POST_45,hasKeyword,world cup
+POST_45,hasKeyword,world cup 2025
+POST_45,hasNumber,2025
+POST_45,hasSentiment,sent_positive
+POST_45,isAboutEvent,2025
+POST_45,isAboutEvent,Cricket
+POST_45,isAboutEvent,Cup
+POST_45,isAboutEvent,World
+POST_45,mentionsEntity,Anchored
+POST_45,mentionsEntity,Cricket
+POST_45,mentionsEntity,Team India
+POST_45,mentionsEntity,Women
+POST_45,mentionsEntity,World Cup
+POST_45,mentionsEntity,anchored the
+POST_45,mentionsEntity,icc odi
+POST_45,mentionsEntity,s world
+POST_45,mentionsEntity,team india
+POST_45,postedAtHour,6
+POST_45,postedAtMonth,Sep
+POST_45,postedAtYear,2025
+POST_46,hasHashtag,#cwc25
+POST_46,hasHashtag,#indvsl
+POST_46,hasHashtag,#teamindia
+POST_46,hasHashtag,#womeninblue
+POST_46,hasKeyword,cricket world cup
+POST_46,hasKeyword,cwc
+POST_46,hasKeyword,cwc25
+POST_46,hasKeyword,world cup
+POST_46,hasKeyword,world cup 2025
+POST_46,hasNumber,2025
+POST_46,hasNumber,59
+POST_46,hasSentiment,sent_positive
+POST_46,isAboutEvent,2025
+POST_46,isAboutEvent,Cricket
+POST_46,isAboutEvent,Cup
+POST_46,isAboutEvent,World
+POST_46,mentionsEntity,Cricket World Cup
+POST_46,mentionsEntity,Deepti Sharma
+POST_46,mentionsEntity,Dream
+POST_46,mentionsEntity,India
+POST_46,mentionsEntity,Sri Lanka
+POST_46,mentionsEntity,Women
+POST_46,mentionsEntity,at the
+POST_46,mentionsEntity,deepti sharma
+POST_46,mentionsEntity,dream start
+POST_46,mentionsEntity,for india
+POST_46,mentionsEntity,lanka in
+POST_46,mentionsEntity,over sri
+POST_46,mentionsEntity,round show
+POST_46,mentionsEntity,run win
+POST_46,mentionsEntity,s brilliant
+POST_46,mentionsEntity,s cricket
+POST_46,mentionsEntity,the opener
+POST_46,mentionsEntity,to a
+POST_46,mentionsEntity,world cup
+POST_46,mentionsUser,yolacricket
+POST_46,postedAtHour,6
+POST_46,postedAtMonth,Sep
+POST_46,postedAtYear,2025
+POST_47,hasKeyword,women's world cup
+POST_47,hasKeyword,world cup
+POST_47,hasNumber,269/
+POST_47,hasNumber,59
+POST_47,hasSentiment,sent_neutral
+POST_47,isAboutEvent,2025
+POST_47,isAboutEvent,Cricket
+POST_47,isAboutEvent,Cup
+POST_47,isAboutEvent,World
+POST_47,mentionsEntity,Congrats Team Indiaespncricinfo
+POST_47,mentionsEntity,Women
+POST_47,mentionsEntity,World
+POST_47,mentionsEntity,congrats team
+POST_47,mentionsEntity,dls method
+POST_47,mentionsEntity,matchicc women
+POST_47,mentionsEntity,resultind women
+POST_47,mentionsEntity,s world
+POST_47,mentionsEntity,vs sl
+POST_47,mentionsEntity,women won
+POST_47,postedAtHour,6
+POST_47,postedAtMonth,Sep
+POST_47,postedAtYear,2025
+POST_48,hasHashtag,#cwc25for
+POST_48,hasHashtag,#indvsl
+POST_48,hasHashtag,#teamindia
+POST_48,hasHashtag,#womeninblue
+POST_48,hasKeyword,cwc
+POST_48,hasKeyword,cwc25
+POST_48,hasNumber,202
+POST_48,hasSentiment,sent_neutral
+POST_48,isAboutEvent,2025
+POST_48,isAboutEvent,Cricket
+POST_48,isAboutEvent,Cup
+POST_48,isAboutEvent,World
+POST_48,mentionsEntity,Scorecard
+POST_48,mentionsEntity,a cracking
+POST_48,mentionsEntity,ball rolling
+POST_48,mentionsEntity,set the
+POST_48,mentionsEntity,way to
+POST_48,mentionsUser,anilpat05764084
+POST_48,mentionsUser,cricket_smasher
+POST_48,mentionsUser,devsthakur
+POST_48,mentionsUser,isg3164
+POST_48,mentionsUser,lifeisanelation
+POST_48,mentionsUser,purnima017
+POST_48,mentionsUser,yolacricket
+POST_48,postedAtHour,6
+POST_48,postedAtMonth,Sep
+POST_48,postedAtYear,2025
+POST_49,hasHashtag,#cwc25thecricketer
+POST_49,hasKeyword,cricket world cup
+POST_49,hasKeyword,cwc
+POST_49,hasKeyword,cwc25
+POST_49,hasKeyword,world cup
+POST_49,hasSentiment,sent_neutral
+POST_49,isAboutEvent,2025
+POST_49,isAboutEvent,Cricket
+POST_49,isAboutEvent,Cup
+POST_49,isAboutEvent,World
+POST_49,mentionsEntity,Afghans
+POST_49,mentionsEntity,As
+POST_49,mentionsEntity,Cricket World Cup
+POST_49,mentionsEntity,Guwahati
+POST_49,mentionsEntity,Topics
+POST_49,mentionsEntity,as news
+POST_49,mentionsEntity,being placed
+POST_49,mentionsEntity,cricketers were
+POST_49,mentionsEntity,emerged of
+POST_49,mentionsEntity,for the
+POST_49,mentionsEntity,further restrictions
+POST_49,mentionsEntity,in attendance
+POST_49,mentionsEntity,match in
+POST_49,mentionsEntity,on the
+POST_49,mentionsEntity,opening cricket
+POST_49,mentionsEntity,rights of
+POST_49,mentionsEntity,s female
+POST_49,mentionsEntity,the country
+POST_49,mentionsEntity,world cup
+POST_49,mentionsUser,nickhowson
+POST_49,postedAtHour,6
+POST_49,postedAtMonth,Sep
+POST_49,postedAtYear,2025
+POST_5,hasHashtag,#cwc25thecricketer
+POST_5,hasKeyword,cwc
+POST_5,hasKeyword,cwc25
+POST_5,hasSentiment,sent_neutral
+POST_5,isAboutEvent,2025
+POST_5,isAboutEvent,Cricket
+POST_5,isAboutEvent,Cup
+POST_5,isAboutEvent,World
+POST_5,mentionsEntity,Topics
+POST_5,mentionsEntity,and it
+POST_5,mentionsEntity,at a
+POST_5,mentionsEntity,because of
+POST_5,mentionsEntity,come through
+POST_5,mentionsEntity,m also
+POST_5,mentionsEntity,s easy
+POST_5,mentionsEntity,similar age
+POST_5,mentionsEntity,that have
+POST_5,mentionsEntity,to build
+POST_5,mentionsEntity,to the
+POST_5,mentionsEntity,younger girls
+POST_5,postedAtHour,11
+POST_5,postedAtMonth,Sep
+POST_5,postedAtYear,2025
+POST_50,hasHashtag,#amanjotkaur
+POST_50,hasHashtag,#cricket
+POST_50,hasHashtag,#crickettwitter
+POST_50,hasHashtag,#deeptisharma
+POST_50,hasHashtag,#harmanpreetkaur
+POST_50,hasHashtag,#indvsl
+POST_50,hasHashtag,#indwvsslw
+POST_50,hasNumber,103
+POST_50,hasSentiment,sent_neutral
+POST_50,isAboutEvent,None
+POST_50,mentionsEntity,Amanjot
+POST_50,mentionsEntity,Cricket
+POST_50,mentionsEntity,Deepti
+POST_50,mentionsEntity,India
+POST_50,mentionsEntity,Report
+POST_50,mentionsEntity,Statistical Highlights
+POST_50,mentionsEntity,Talking Point
+POST_50,mentionsEntity,in tournament
+POST_50,mentionsEntity,report including
+POST_50,mentionsEntity,run seventh
+POST_50,mentionsEntity,saves india
+POST_50,mentionsEntity,statistical highlights
+POST_50,mentionsEntity,talking point
+POST_50,mentionsEntity,wicket stand
+POST_50,postedAtHour,6
+POST_50,postedAtMonth,Sep
+POST_50,postedAtYear,2025
+POST_51,hasHashtag,#cwc2025
+POST_51,hasHashtag,#icc
+POST_51,hasHashtag,#iccwomensworldcup2025latestly
+POST_51,hasKeyword,cwc
+POST_51,hasKeyword,cwc2025
+POST_51,hasKeyword,women's world cup
+POST_51,hasKeyword,world cup
+POST_51,hasKeyword,world cup 2025
+POST_51,hasNumber,2025
+POST_51,hasSentiment,sent_positive
+POST_51,isAboutEvent,2025
+POST_51,isAboutEvent,Cricket
+POST_51,isAboutEvent,Cup
+POST_51,isAboutEvent,World
+POST_51,mentionsEntity,India Women Register Convincing Win Over Sri Lanka Women
+POST_51,mentionsEntity,Opening Game
+POST_51,mentionsEntity,Points Table Updated With
+POST_51,mentionsEntity,Women
+POST_51,mentionsEntity,World Cup
+POST_51,mentionsEntity,icc women
+POST_51,mentionsEntity,india women
+POST_51,mentionsEntity,opening game
+POST_51,mentionsEntity,points table
+POST_51,mentionsEntity,register convincing
+POST_51,mentionsEntity,s world
+POST_51,mentionsEntity,sri lanka
+POST_51,mentionsEntity,updated with
+POST_51,mentionsEntity,win over
+POST_51,mentionsEntity,women in
+POST_51,postedAtHour,6
+POST_51,postedAtMonth,Sep
+POST_51,postedAtYear,2025
+POST_52,hasHashtag,#cricketnews
+POST_52,hasHashtag,#deeptisharma
+POST_52,hasHashtag,#guwahati
+POST_52,hasHashtag,#harleendeol
+POST_52,hasHashtag,#harmanpreetkaur
+POST_52,hasHashtag,#iccwomensworldcup2025
+POST_52,hasHashtag,#indwvsslw
+POST_52,hasHashtag,#smritimandhana
+POST_52,hasKeyword,icc world cup
+POST_52,hasKeyword,world cup
+POST_52,hasKeyword,world cup 2025
+POST_52,hasNumber,2025
+POST_52,hasNumber,59
+POST_52,hasSentiment,sent_positive
+POST_52,isAboutEvent,2025
+POST_52,isAboutEvent,Cricket
+POST_52,isAboutEvent,Cup
+POST_52,isAboutEvent,World
+POST_52,mentionsEntity,Campaign With
+POST_52,mentionsEntity,Guwahati
+POST_52,mentionsEntity,India Women Begin
+POST_52,mentionsEntity,Run Win Over Sri Lankalokmattimes
+POST_52,mentionsEntity,World Cup
+POST_52,mentionsEntity,begin icc
+POST_52,mentionsEntity,campaign with
+POST_52,mentionsEntity,india women
+POST_52,mentionsEntity,over sri
+POST_52,mentionsEntity,run win
+POST_52,mentionsEntity,world cup
+POST_52,postedAtHour,6
+POST_52,postedAtMonth,Sep
+POST_52,postedAtYear,2025
+POST_53,hasHashtag,#cwc2025
+POST_53,hasHashtag,#icc
+POST_53,hasHashtag,#iccwomensworldcup2025latestly
+POST_53,hasKeyword,cwc
+POST_53,hasKeyword,cwc2025
+POST_53,hasKeyword,women's world cup
+POST_53,hasKeyword,world cup
+POST_53,hasKeyword,world cup 2025
+POST_53,hasNumber,2025
+POST_53,hasSentiment,sent_neutral
+POST_53,isAboutEvent,2025
+POST_53,isAboutEvent,Cricket
+POST_53,isAboutEvent,Cup
+POST_53,isAboutEvent,World
+POST_53,mentionsEntity,Check Latest Team Standings With Net Run Rate
+POST_53,mentionsEntity,Points Table Updated With
+POST_53,mentionsEntity,Women
+POST_53,mentionsEntity,World Cup
+POST_53,mentionsEntity,check latest
+POST_53,mentionsEntity,icc women
+POST_53,mentionsEntity,of women
+POST_53,mentionsEntity,points table
+POST_53,mentionsEntity,run rate
+POST_53,mentionsEntity,s odi
+POST_53,mentionsEntity,s world
+POST_53,mentionsEntity,team standings
+POST_53,mentionsEntity,updated with
+POST_53,mentionsEntity,with net
+POST_53,postedAtHour,6
+POST_53,postedAtMonth,Sep
+POST_53,postedAtYear,2025
+POST_54,hasSentiment,sent_neutral
+POST_54,isAboutEvent,None
+POST_54,postedAtHour,6
+POST_54,postedAtMonth,Sep
+POST_54,postedAtYear,2025
+POST_55,hasHashtag,#indwvslw
+POST_55,hasHashtag,#wwc2025
+POST_55,hasKeyword,world cup
+POST_55,hasKeyword,world cup 2025
+POST_55,hasKeyword,wwc2025
+POST_55,hasNumber,2025
+POST_55,hasSentiment,sent_neutral
+POST_55,isAboutEvent,2025
+POST_55,isAboutEvent,Cricket
+POST_55,isAboutEvent,Cup
+POST_55,isAboutEvent,World
+POST_55,mentionsEntity,Barsapara Cricket Stadium
+POST_55,mentionsEntity,Guwahati
+POST_55,mentionsEntity,Women
+POST_55,mentionsEntity,World Cup
+POST_55,mentionsEntity,a record
+POST_55,mentionsEntity,at barsapara
+POST_55,mentionsEntity,attended group
+POST_55,mentionsEntity,breaking attendance
+POST_55,mentionsEntity,cricket stadium
+POST_55,mentionsEntity,first day
+POST_55,mentionsEntity,in any
+POST_55,mentionsEntity,of the
+POST_55,mentionsEntity,on the
+POST_55,mentionsEntity,s world
+POST_55,mentionsEntity,stage fixture
+POST_55,mentionsEntity,the most
+POST_55,postedAtHour,6
+POST_55,postedAtMonth,Sep
+POST_55,postedAtYear,2025
+POST_56,hasNumber,2025/
+POST_56,hasNumber,300
+POST_56,hasNumber,35
+POST_56,hasSentiment,sent_neutral
+POST_56,isAboutEvent,None
+POST_56,mentionsEntity,England
+POST_56,mentionsEntity,and why
+POST_56,mentionsEntity,as a
+POST_56,mentionsEntity,fuck it
+POST_56,mentionsEntity,helping england
+POST_56,mentionsEntity,his bat
+POST_56,mentionsEntity,i appreciated
+POST_56,mentionsEntity,in a
+POST_56,mentionsEntity,josbuttlertalking so
+POST_56,mentionsEntity,new ambitions
+POST_56,mentionsEntity,of captaincy
+POST_56,mentionsEntity,of his
+POST_56,mentionsEntity,openly about
+POST_56,mentionsEntity,shedding that
+POST_56,mentionsEntity,still says
+POST_56,mentionsEntity,the death
+POST_56,mentionsEntity,the pain
+POST_56,mentionsEntity,the passing
+POST_56,mentionsEntity,world first
+POST_56,mentionsUser,josbuttlertalking
+POST_56,postedAtHour,6
+POST_56,postedAtMonth,Sep
+POST_56,postedAtYear,2025
+POST_57,hasHashtag,#ausvsnz
+POST_57,hasHashtag,#cwc2025indiatoday
+POST_57,hasKeyword,cwc
+POST_57,hasKeyword,cwc2025
+POST_57,hasSentiment,sent_positive
+POST_57,isAboutEvent,2025
+POST_57,isAboutEvent,Cricket
+POST_57,isAboutEvent,Cup
+POST_57,isAboutEvent,World
+POST_57,mentionsEntity,Australia
+POST_57,mentionsEntity,For Tahlia
+POST_57,mentionsEntity,New Zealand
+POST_57,mentionsEntity,a winning
+POST_57,mentionsEntity,australia look
+POST_57,mentionsEntity,defence on
+POST_57,mentionsEntity,do not
+POST_57,mentionsEntity,door neighbours
+POST_57,mentionsEntity,for tahlia
+POST_57,mentionsEntity,matter as
+POST_57,mentionsEntity,new zealand
+POST_57,mentionsEntity,note as
+POST_57,mentionsEntity,on their
+POST_57,mentionsEntity,the numbers
+POST_57,mentionsEntity,their title
+POST_57,mentionsEntity,they take
+POST_57,mentionsEntity,to begin
+POST_57,postedAtHour,6
+POST_57,postedAtMonth,Sep
+POST_57,postedAtYear,2025
+POST_58,hasHashtag,#kanaa
+POST_58,hasKeyword,cricket world cup
+POST_58,hasKeyword,world cup
+POST_58,hasKeyword,world cup 2025
+POST_58,hasNumber,2018
+POST_58,hasNumber,2025
+POST_58,hasNumber,22
+POST_58,hasNumber,843
+POST_58,hasSentiment,sent_positive
+POST_58,isAboutEvent,2025
+POST_58,isAboutEvent,Cricket
+POST_58,isAboutEvent,Cup
+POST_58,isAboutEvent,World
+POST_58,mentionsEntity,Cricket World Cup
+POST_58,mentionsEntity,Guwahati
+POST_58,mentionsEntity,Kanaa
+POST_58,mentionsEntity,Stadium
+POST_58,mentionsEntity,The
+POST_58,mentionsEntity,Women
+POST_58,mentionsEntity,World Cup
+POST_58,mentionsEntity,a record
+POST_58,mentionsEntity,any women
+POST_58,mentionsEntity,fans at
+POST_58,mentionsEntity,fixture at
+POST_58,mentionsEntity,for the
+POST_58,mentionsEntity,got off
+POST_58,mentionsEntity,group stage
+POST_58,mentionsEntity,historic start
+POST_58,mentionsEntity,in guwahati
+POST_58,mentionsEntity,most attended
+POST_58,mentionsEntity,s cricket
+POST_58,mentionsEntity,s world
+POST_58,mentionsEntity,the aca
+POST_58,mentionsEntity,the icc
+POST_58,mentionsEntity,to a
+POST_58,mentionsEntity,world cup
+POST_58,postedAtHour,6
+POST_58,postedAtMonth,Sep
+POST_58,postedAtYear,2025
+POST_59,hasNumber,59
+POST_59,hasSentiment,sent_neutral
+POST_59,isAboutEvent,None
+POST_59,postedAtHour,6
+POST_59,postedAtMonth,Sep
+POST_59,postedAtYear,2025
+POST_6,hasKeyword,world cup
+POST_6,hasKeyword,world cup opener
+POST_6,hasNumber,2025
+POST_6,hasSentiment,sent_neutral
+POST_6,isAboutEvent,2025
+POST_6,isAboutEvent,Cricket
+POST_6,isAboutEvent,Cup
+POST_6,isAboutEvent,World
+POST_6,mentionsEntity,Afghan
+POST_6,mentionsEntity,Australia
+POST_6,mentionsEntity,Canberra
+POST_6,mentionsEntity,Day Award
+POST_6,mentionsEntity,Exiled Afghan
+POST_6,mentionsEntity,India In March
+POST_6,mentionsEntity,Indian High Commission
+POST_6,mentionsEntity,Read
+POST_6,mentionsEntity,Sports
+POST_6,mentionsEntity,The Australia Today International Women
+POST_6,mentionsEntity,World Cup
+POST_6,mentionsEntity,after receiving
+POST_6,mentionsEntity,attend world
+POST_6,mentionsEntity,australia to
+POST_6,mentionsEntity,award in
+POST_6,mentionsEntity,cup opener
+POST_6,mentionsEntity,exiled afghan
+POST_6,mentionsEntity,felicitated by
+POST_6,mentionsEntity,high commission
+POST_6,mentionsEntity,in canberra
+POST_6,mentionsEntity,in india
+POST_6,mentionsEntity,in march
+POST_6,mentionsEntity,living in
+POST_6,mentionsEntity,read more
+POST_6,mentionsEntity,s cricket
+POST_6,mentionsEntity,s day
+POST_6,mentionsEntity,team members
+POST_6,mentionsEntity,the afghan
+POST_6,mentionsEntity,the australia
+POST_6,mentionsEntity,the indian
+POST_6,mentionsEntity,today international
+POST_6,mentionsEntity,were also
+POST_6,mentionsEntity,women cricketers
+POST_6,mentionsUser,albomp
+POST_6,mentionsUser,assamcric
+POST_6,mentionsUser,aushcindia
+POST_6,mentionsUser,bcci
+POST_6,mentionsUser,bcciwomen
+POST_6,mentionsUser,cricketaus
+POST_6,mentionsUser,dramitsarwal
+POST_6,mentionsUser,firoza_amiri
+POST_6,mentionsUser,hcicanberra
+POST_6,mentionsUser,jacintaallanmp
+POST_6,mentionsUser,narendramodi
+POST_6,mentionsUser,nathutchins
+POST_6,mentionsUser,pallavi_aus
+POST_6,mentionsUser,rishi_suri
+POST_6,mentionsUser,wazhmaayoubi
+POST_6,postedAtHour,11
+POST_6,postedAtMonth,Sep
+POST_6,postedAtYear,2025
+POST_60,hasKeyword,women's world cup
+POST_60,hasKeyword,world cup
+POST_60,hasKeyword,world cup 2025
+POST_60,hasNumber,1
+POST_60,hasNumber,2025
+POST_60,hasNumber,59
+POST_60,hasSentiment,sent_neutral
+POST_60,isAboutEvent,2025
+POST_60,isAboutEvent,Cricket
+POST_60,isAboutEvent,Cup
+POST_60,isAboutEvent,World
+POST_60,mentionsEntity,India
+POST_60,mentionsEntity,Match
+POST_60,mentionsEntity,Sri Lanka
+POST_60,mentionsEntity,Women
+POST_60,mentionsEntity,World Cup
+POST_60,mentionsEntity,beating sri
+POST_60,mentionsEntity,campaign in
+POST_60,mentionsEntity,fine style
+POST_60,mentionsEntity,icc women
+POST_60,mentionsEntity,india begin
+POST_60,mentionsEntity,lanka by
+POST_60,mentionsEntity,s world
+POST_60,postedAtHour,6
+POST_60,postedAtMonth,Sep
+POST_60,postedAtYear,2025
+POST_61,hasHashtag,#cwc25campaign
+POST_61,hasHashtag,#indvsl
+POST_61,hasHashtag,#teamindiamake
+POST_61,hasHashtag,#womeninblue
+POST_61,hasKeyword,cwc
+POST_61,hasKeyword,cwc25
+POST_61,hasNumber,202
+POST_61,hasNumber,3
+POST_61,hasSentiment,sent_positive
+POST_61,isAboutEvent,2025
+POST_61,isAboutEvent,Cricket
+POST_61,isAboutEvent,Cup
+POST_61,isAboutEvent,World
+POST_61,mentionsEntity,Deepti Sharma
+POST_61,mentionsEntity,Match
+POST_61,mentionsEntity,Player
+POST_61,mentionsEntity,Scorecard
+POST_61,mentionsEntity,Showcasing
+POST_61,mentionsEntity,a crucial
+POST_61,mentionsEntity,award as
+POST_61,mentionsEntity,deepti sharma
+POST_61,mentionsEntity,in style
+POST_61,mentionsEntity,player of
+POST_61,mentionsEntity,round abilities
+POST_61,mentionsEntity,showcasing her
+POST_61,mentionsEntity,teamindiamake a
+POST_61,mentionsEntity,the match
+POST_61,mentionsEntity,to our
+POST_61,mentionsEntity,wicket haul
+POST_61,mentionsEntity,winning start
+POST_61,mentionsEntity,with the
+POST_61,postedAtHour,6
+POST_61,postedAtMonth,Sep
+POST_61,postedAtYear,2025
+POST_62,hasKeyword,cricket world cup
+POST_62,hasKeyword,world cup
+POST_62,hasKeyword,world cup 2025
+POST_62,hasNumber,2025
+POST_62,hasNumber,59
+POST_62,hasSentiment,sent_neutral
+POST_62,isAboutEvent,2025
+POST_62,isAboutEvent,Cricket
+POST_62,isAboutEvent,Cup
+POST_62,isAboutEvent,World
+POST_62,mentionsEntity,Match Of Womens Cricket World Cup
+POST_62,mentionsEntity,Runs In The
+POST_62,mentionsEntity,Team India Beat Sri Lanka By
+POST_62,mentionsEntity,beat sri
+POST_62,mentionsEntity,lanka by
+POST_62,mentionsEntity,match of
+POST_62,mentionsEntity,runs in
+POST_62,mentionsEntity,team india
+POST_62,mentionsEntity,womens cricket
+POST_62,mentionsEntity,world cup
+POST_62,postedAtHour,6
+POST_62,postedAtMonth,Sep
+POST_62,postedAtYear,2025
+POST_63,hasKeyword,cricket world cup
+POST_63,hasKeyword,world cup
+POST_63,hasKeyword,world cup 2025
+POST_63,hasNumber,2025
+POST_63,hasNumber,59
+POST_63,hasSentiment,sent_neutral
+POST_63,isAboutEvent,2025
+POST_63,isAboutEvent,Cricket
+POST_63,isAboutEvent,Cup
+POST_63,isAboutEvent,World
+POST_63,mentionsEntity,India Beat Sri Lanka By
+POST_63,mentionsEntity,Match Of Womens Cricket World Cup
+POST_63,mentionsEntity,Runs In The
+POST_63,mentionsEntity,india beat
+POST_63,mentionsEntity,match of
+POST_63,mentionsEntity,runs in
+POST_63,mentionsEntity,sri lanka
+POST_63,mentionsEntity,womens cricket
+POST_63,mentionsEntity,world cup
+POST_63,postedAtHour,6
+POST_63,postedAtMonth,Sep
+POST_63,postedAtYear,2025
+POST_64,hasKeyword,cricket world cup
+POST_64,hasKeyword,world cup
+POST_64,hasKeyword,world cup 2025
+POST_64,hasNumber,2025
+POST_64,hasNumber,59
+POST_64,hasSentiment,sent_neutral
+POST_64,isAboutEvent,2025
+POST_64,isAboutEvent,Cricket
+POST_64,isAboutEvent,Cup
+POST_64,isAboutEvent,World
+POST_64,mentionsEntity,India Beat Sri Lanka By
+POST_64,mentionsEntity,Match Of Womens Cricket World Cup
+POST_64,mentionsEntity,Runs In The
+POST_64,mentionsEntity,india beat
+POST_64,mentionsEntity,match of
+POST_64,mentionsEntity,runs in
+POST_64,mentionsEntity,sri lanka
+POST_64,mentionsEntity,womens cricket
+POST_64,mentionsEntity,world cup
+POST_64,postedAtHour,6
+POST_64,postedAtMonth,Sep
+POST_64,postedAtYear,2025
+POST_65,hasHashtag,#cricket
+POST_65,hasHashtag,#cwc25
+POST_65,hasHashtag,#indvsl
+POST_65,hasKeyword,cwc
+POST_65,hasKeyword,cwc25
+POST_65,hasKeyword,world cup
+POST_65,hasKeyword,world cup 2025
+POST_65,hasNumber,2025
+POST_65,hasNumber,3
+POST_65,hasNumber,53
+POST_65,hasSentiment,sent_positive
+POST_65,isAboutEvent,2025
+POST_65,isAboutEvent,Cricket
+POST_65,isAboutEvent,Cup
+POST_65,isAboutEvent,World
+POST_65,mentionsEntity,Amanjot
+POST_65,mentionsEntity,Cricket
+POST_65,mentionsEntity,First
+POST_65,mentionsEntity,India Women
+POST_65,mentionsEntity,Match
+POST_65,mentionsEntity,Player
+POST_65,mentionsEntity,World Cup
+POST_65,mentionsEntity,deepti sharma
+POST_65,mentionsEntity,first win
+POST_65,mentionsEntity,for india
+POST_65,mentionsEntity,match winning
+POST_65,mentionsEntity,partnership with
+POST_65,mentionsEntity,player of
+POST_65,mentionsEntity,round brilliance
+POST_65,mentionsEntity,sets the
+POST_65,mentionsEntity,steals the
+POST_65,mentionsEntity,the match
+POST_65,mentionsEntity,tone for
+POST_65,mentionsEntity,world cup
+POST_65,postedAtHour,6
+POST_65,postedAtMonth,Sep
+POST_65,postedAtYear,2025
+POST_66,hasHashtag,#cwc2025
+POST_66,hasHashtag,#indvslfanport
+POST_66,hasHashtag,#teamindia
+POST_66,hasHashtag,#womenscricket
+POST_66,hasKeyword,cwc
+POST_66,hasKeyword,cwc2025
+POST_66,hasNumber,2025
+POST_66,hasNumber,59
+POST_66,hasSentiment,sent_neutral
+POST_66,isAboutEvent,2025
+POST_66,isAboutEvent,Cricket
+POST_66,isAboutEvent,Cup
+POST_66,isAboutEvent,World
+POST_66,postedAtHour,6
+POST_66,postedAtMonth,Sep
+POST_66,postedAtYear,2025
+POST_67,hasHashtag,#amanjotkaur
+POST_67,hasHashtag,#deeptisharma
+POST_67,hasHashtag,#harmanpreetkaur
+POST_67,hasHashtag,#indvssl
+POST_67,hasHashtag,#slvsind
+POST_67,hasHashtag,#teamindia
+POST_67,hasNumber,59
+POST_67,hasSentiment,sent_neutral
+POST_67,isAboutEvent,None
+POST_67,postedAtHour,6
+POST_67,postedAtMonth,Sep
+POST_67,postedAtYear,2025
+POST_68,hasHashtag,#iccwomensworldcup
+POST_68,hasHashtag,#iccworldcuplokmat
+POST_68,hasSentiment,sent_neutral
+POST_68,isAboutEvent,None
+POST_68,postedAtHour,6
+POST_68,postedAtMonth,Sep
+POST_68,postedAtYear,2025
+POST_69,hasKeyword,world cup
+POST_69,hasKeyword,world cup 2025
+POST_69,hasNumber,2025
+POST_69,hasSentiment,sent_neutral
+POST_69,isAboutEvent,2025
+POST_69,isAboutEvent,Cricket
+POST_69,isAboutEvent,Cup
+POST_69,isAboutEvent,World
+POST_69,mentionsEntity,Cricket Grand Opening
+POST_69,mentionsEntity,India Women
+POST_69,mentionsEntity,World Cup
+POST_69,mentionsEntity,grand opening
+POST_69,mentionsEntity,in the
+POST_69,mentionsEntity,india women
+POST_69,mentionsEntity,s cricket
+POST_69,mentionsEntity,world cup
+POST_69,postedAtHour,6
+POST_69,postedAtMonth,Sep
+POST_69,postedAtYear,2025
+POST_7,hasKeyword,world cup
+POST_7,hasNumber,01/
+POST_7,hasNumber,10
+POST_7,hasNumber,2025
+POST_7,hasSentiment,sent_neutral
+POST_7,isAboutEvent,2025
+POST_7,isAboutEvent,Cricket
+POST_7,isAboutEvent,Cup
+POST_7,isAboutEvent,World
+POST_7,mentionsEntity,Australian
+POST_7,mentionsEntity,Why Phoebe Litchfield
+POST_7,mentionsEntity,World Cup
+POST_7,mentionsEntity,cup could
+POST_7,mentionsEntity,in australian
+POST_7,mentionsEntity,new era
+POST_7,mentionsEntity,odi world
+POST_7,mentionsEntity,s first
+POST_7,mentionsEntity,signal a
+POST_7,mentionsEntity,why phoebe
+POST_7,postedAtHour,11
+POST_7,postedAtMonth,Sep
+POST_7,postedAtYear,2025
+POST_70,hasHashtag,#deeptisharmarepublicworld
+POST_70,hasHashtag,#indiavssrilanka
+POST_70,hasHashtag,#womensworldcup2025
+POST_70,hasKeyword,women's world cup
+POST_70,hasKeyword,world cup
+POST_70,hasKeyword,world cup 2025
+POST_70,hasNumber,2025
+POST_70,hasNumber,59
+POST_70,hasSentiment,sent_positive
+POST_70,isAboutEvent,2025
+POST_70,isAboutEvent,Cricket
+POST_70,isAboutEvent,Cup
+POST_70,isAboutEvent,World
+POST_70,mentionsEntity,All
+POST_70,mentionsEntity,Deepti Sharma
+POST_70,mentionsEntity,Round Masterclass Helps Team India Secure Convincing
+POST_70,mentionsEntity,Run Win Over Sri Lanka
+POST_70,mentionsEntity,Women
+POST_70,mentionsEntity,World Cup
+POST_70,mentionsEntity,deepti sharma
+POST_70,mentionsEntity,helps team
+POST_70,mentionsEntity,india secure
+POST_70,mentionsEntity,over sri
+POST_70,mentionsEntity,round masterclass
+POST_70,mentionsEntity,run win
+POST_70,mentionsEntity,s all
+POST_70,mentionsEntity,s world
+POST_70,postedAtHour,6
+POST_70,postedAtMonth,Sep
+POST_70,postedAtYear,2025
+POST_71,hasHashtag,#amanjotkaurshine
+POST_71,hasHashtag,#deeptisharma
+POST_71,hasKeyword,world cup
+POST_71,hasKeyword,world cup 2025
+POST_71,hasNumber,2025
+POST_71,hasNumber,59
+POST_71,hasSentiment,sent_positive
+POST_71,isAboutEvent,2025
+POST_71,isAboutEvent,Cricket
+POST_71,isAboutEvent,Cup
+POST_71,isAboutEvent,World
+POST_71,mentionsEntity,India
+POST_71,mentionsEntity,Sri Lankadnaindia
+POST_71,mentionsEntity,Women
+POST_71,mentionsEntity,World Cup
+POST_71,mentionsEntity,amanjotkaurshine as
+POST_71,mentionsEntity,campaign with
+POST_71,mentionsEntity,india begin
+POST_71,mentionsEntity,over sri
+POST_71,mentionsEntity,run win
+POST_71,mentionsEntity,s world
+POST_71,mentionsEntity,w vs
+POST_71,mentionsUser,kareyaku1980
+POST_71,postedAtHour,6
+POST_71,postedAtMonth,Sep
+POST_71,postedAtYear,2025
+POST_72,hasHashtag,#cricket
+POST_72,hasHashtag,#indvssl
+POST_72,hasNumber,2025
+POST_72,hasNumber,59
+POST_72,hasSentiment,sent_neutral
+POST_72,isAboutEvent,None
+POST_72,postedAtHour,6
+POST_72,postedAtMonth,Sep
+POST_72,postedAtYear,2025
+POST_73,hasKeyword,world cup
+POST_73,hasNumber,2025
+POST_73,hasSentiment,sent_neutral
+POST_73,isAboutEvent,2025
+POST_73,isAboutEvent,Cricket
+POST_73,isAboutEvent,Cup
+POST_73,isAboutEvent,World
+POST_73,mentionsEntity,Cricket
+POST_73,mentionsEntity,Decisive World Cup Qualifierunfilteredreporting
+POST_73,mentionsEntity,Tikolo Targets Kenya
+POST_73,mentionsEntity,cup qualifierunfilteredreporting
+POST_73,mentionsEntity,decisive world
+POST_73,mentionsEntity,kenya in
+POST_73,mentionsEntity,tikolo targets
+POST_73,postedAtHour,6
+POST_73,postedAtMonth,Sep
+POST_73,postedAtYear,2025
+POST_74,hasHashtag,#cwc2025
+POST_74,hasHashtag,#indvsl
+POST_74,hasHashtag,#tv9malayalamindia
+POST_74,hasHashtag,#womeninblue
+POST_74,hasKeyword,cwc
+POST_74,hasKeyword,cwc2025
+POST_74,hasNumber,59
+POST_74,hasSentiment,sent_neutral
+POST_74,isAboutEvent,2025
+POST_74,isAboutEvent,Cricket
+POST_74,isAboutEvent,Cup
+POST_74,isAboutEvent,World
+POST_74,mentionsEntity,Sri Lanka
+POST_74,mentionsEntity,vs sri
+POST_74,postedAtHour,6
+POST_74,postedAtMonth,Sep
+POST_74,postedAtYear,2025
+POST_75,hasHashtag,#indwvsslw
+POST_75,hasKeyword,cricket world cup
+POST_75,hasKeyword,world cup
+POST_75,hasKeyword,world cup 2025
+POST_75,hasNumber,2025
+POST_75,hasNumber,211
+POST_75,hasNumber,271
+POST_75,hasNumber,30
+POST_75,hasNumber,42.3
+POST_75,hasNumber,59
+POST_75,hasSentiment,sent_negative
+POST_75,isAboutEvent,2025
+POST_75,isAboutEvent,Cricket
+POST_75,isAboutEvent,Cup
+POST_75,isAboutEvent,World
+POST_75,mentionsEntity,Barsapara Stadium
+POST_75,mentionsEntity,Cricket World Cup
+POST_75,mentionsEntity,Guwahati
+POST_75,mentionsEntity,Indian
+POST_75,mentionsEntity,September
+POST_75,mentionsEntity,Sri Lanka
+POST_75,mentionsEntity,Sri Lankan
+POST_75,mentionsEntity,Women
+POST_75,mentionsEntity,adjusted target
+POST_75,mentionsEntity,at barsapara
+POST_75,mentionsEntity,held on
+POST_75,mentionsEntity,indian women
+POST_75,mentionsEntity,lankan women
+POST_75,mentionsEntity,match of
+POST_75,mentionsEntity,out for
+POST_75,mentionsEntity,runs in
+POST_75,mentionsEntity,s cricket
+POST_75,mentionsEntity,s team
+POST_75,mentionsEntity,sri lanka
+POST_75,mentionsEntity,stadium in
+POST_75,mentionsEntity,team defeated
+POST_75,mentionsEntity,the icc
+POST_75,mentionsEntity,the opening
+POST_75,mentionsEntity,the sri
+POST_75,mentionsEntity,was bowled
+POST_75,mentionsEntity,world cup
+POST_75,postedAtHour,6
+POST_75,postedAtMonth,Sep
+POST_75,postedAtYear,2025
+POST_76,hasHashtag,#indvslfind
+POST_76,hasKeyword,cwc
+POST_76,hasKeyword,cwc25
+POST_76,hasKeyword,world cup
+POST_76,hasSentiment,sent_positive
+POST_76,isAboutEvent,2025
+POST_76,isAboutEvent,Cricket
+POST_76,isAboutEvent,Cup
+POST_76,isAboutEvent,World
+POST_76,mentionsEntity,India
+POST_76,mentionsEntity,World Cup
+POST_76,mentionsEntity,an important
+POST_76,mentionsEntity,campaign with
+POST_76,mentionsEntity,india begin
+POST_76,mentionsEntity,indvslfind the
+POST_76,mentionsEntity,scorecard here
+POST_76,mentionsEntity,their home
+POST_76,mentionsEntity,world cup
+POST_76,mentionsUser,fastqcb
+POST_76,mentionsUser,mpandey03
+POST_76,mentionsUser,yolacricket
+POST_76,postedAtHour,6
+POST_76,postedAtMonth,Sep
+POST_76,postedAtYear,2025
+POST_77,hasHashtag,#iccwomensworldcup2025
+POST_77,hasKeyword,cricket world cup
+POST_77,hasKeyword,world cup
+POST_77,hasKeyword,world cup 2025
+POST_77,hasNumber,2025
+POST_77,hasNumber,211
+POST_77,hasNumber,269/8
+POST_77,hasNumber,45.4
+POST_77,hasNumber,47
+POST_77,hasNumber,59
+POST_77,hasSentiment,sent_neutral
+POST_77,isAboutEvent,2025
+POST_77,isAboutEvent,Cricket
+POST_77,isAboutEvent,Cup
+POST_77,isAboutEvent,World
+POST_77,mentionsEntity,Assam
+POST_77,mentionsEntity,Guwahati
+POST_77,mentionsEntity,Indian Women Cricket
+POST_77,mentionsEntity,Srilanka Women Cricket
+POST_77,mentionsEntity,Women Cricket World Cup
+POST_77,mentionsEntity,cricket team
+POST_77,mentionsEntity,cricket world
+POST_77,mentionsEntity,icc women
+POST_77,mentionsEntity,in guwahati
+POST_77,mentionsEntity,indian women
+POST_77,mentionsEntity,runs in
+POST_77,mentionsEntity,srilanka women
+POST_77,mentionsEntity,team beat
+POST_77,postedAtHour,6
+POST_77,postedAtMonth,Sep
+POST_77,postedAtYear,2025
+POST_78,hasHashtag,#indianwomencricket
+POST_78,hasHashtag,#indiawvssrilankaw
+POST_78,hasHashtag,#kairalinews
+POST_78,hasHashtag,#womenworldcup
+POST_78,hasSentiment,sent_neutral
+POST_78,isAboutEvent,None
+POST_78,postedAtHour,6
+POST_78,postedAtMonth,Sep
+POST_78,postedAtYear,2025
+POST_79,hasHashtag,#cwc25latestly
+POST_79,hasHashtag,#iccwomensworldcup2025
+POST_79,hasHashtag,#indvsl
+POST_79,hasHashtag,#indwvslw
+POST_79,hasKeyword,cwc
+POST_79,hasKeyword,cwc25
+POST_79,hasKeyword,world cup
+POST_79,hasKeyword,world cup 2025
+POST_79,hasNumber,2025
+POST_79,hasNumber,59
+POST_79,hasSentiment,sent_positive
+POST_79,isAboutEvent,2025
+POST_79,isAboutEvent,Cricket
+POST_79,isAboutEvent,Cup
+POST_79,isAboutEvent,World
+POST_79,mentionsEntity,Deepti Sharma
+POST_79,mentionsEntity,Harmanpreet Kaur
+POST_79,mentionsEntity,India
+POST_79,mentionsEntity,Runs
+POST_79,mentionsEntity,Side Secure Comprehensive Win
+POST_79,mentionsEntity,Sneh Rana Shine
+POST_79,mentionsEntity,Sri Lanka Highlights
+POST_79,mentionsEntity,Win
+POST_79,mentionsEntity,Women
+POST_79,mentionsEntity,World Cup
+POST_79,mentionsEntity,deepti sharma
+POST_79,mentionsEntity,harmanpreet kaur
+POST_79,mentionsEntity,highlights of
+POST_79,mentionsEntity,icc women
+POST_79,mentionsEntity,india vs
+POST_79,mentionsEntity,led side
+POST_79,mentionsEntity,s world
+POST_79,mentionsEntity,secure comprehensive
+POST_79,mentionsEntity,shine as
+POST_79,mentionsEntity,sneh rana
+POST_79,mentionsEntity,sri lanka
+POST_79,mentionsEntity,w win
+POST_79,postedAtHour,6
+POST_79,postedAtMonth,Sep
+POST_79,postedAtYear,2025
+POST_8,hasHashtag,#indiancricketwith
+POST_8,hasHashtag,#womenscricketworldcup
+POST_8,hasKeyword,cricketworldcup
+POST_8,hasSentiment,sent_positive
+POST_8,isAboutEvent,2025
+POST_8,isAboutEvent,Cricket
+POST_8,isAboutEvent,Cup
+POST_8,isAboutEvent,World
+POST_8,mentionsEntity,Good
+POST_8,mentionsEntity,for the
+POST_8,mentionsEntity,for them
+POST_8,mentionsEntity,good start
+POST_8,mentionsEntity,in the
+POST_8,mentionsEntity,in their
+POST_8,mentionsEntity,indiancricketwith their
+POST_8,mentionsEntity,kickoff win
+POST_8,mentionsEntity,m rooting
+POST_8,mentionsEntity,something they
+POST_8,mentionsEntity,t done
+POST_8,mentionsEntity,the tournament
+POST_8,mentionsEntity,to win
+POST_8,mentionsEntity,women of
+POST_8,postedAtHour,11
+POST_8,postedAtMonth,Sep
+POST_8,postedAtYear,2025
+POST_80,hasHashtag,#deeptishama
+POST_80,hasHashtag,#indvsslthesportstak
+POST_80,hasKeyword,women's world cup
+POST_80,hasKeyword,world cup
+POST_80,hasKeyword,world cup opener
+POST_80,hasNumber,59
+POST_80,hasSentiment,sent_neutral
+POST_80,isAboutEvent,2025
+POST_80,isAboutEvent,Cricket
+POST_80,isAboutEvent,Cup
+POST_80,isAboutEvent,World
+POST_80,mentionsEntity,Amanjot Star
+POST_80,mentionsEntity,Deepti Sharma
+POST_80,mentionsEntity,India
+POST_80,mentionsEntity,Sri Lanka
+POST_80,mentionsEntity,Women
+POST_80,mentionsEntity,World Cup
+POST_80,mentionsEntity,and amanjot
+POST_80,mentionsEntity,cup opener
+POST_80,mentionsEntity,deepti sharma
+POST_80,mentionsEntity,dominant women
+POST_80,mentionsEntity,ind vs
+POST_80,mentionsEntity,india crush
+POST_80,mentionsEntity,runs in
+POST_80,mentionsEntity,s world
+POST_80,mentionsEntity,sri lanka
+POST_80,mentionsEntity,star as
+POST_80,postedAtHour,6
+POST_80,postedAtMonth,Sep
+POST_80,postedAtYear,2025
+POST_81,hasHashtag,#cwc2025
+POST_81,hasHashtag,#indvsslindiatoday
+POST_81,hasKeyword,cwc
+POST_81,hasKeyword,cwc2025
+POST_81,hasKeyword,world cup
+POST_81,hasNumber,59
+POST_81,hasSentiment,sent_positive
+POST_81,isAboutEvent,2025
+POST_81,isAboutEvent,Cricket
+POST_81,isAboutEvent,Cup
+POST_81,isAboutEvent,World
+POST_81,mentionsEntity,Deepti Sharma
+POST_81,mentionsEntity,India
+POST_81,mentionsEntity,Sneh Rana
+POST_81,mentionsEntity,Sri Lanka
+POST_81,mentionsEntity,World Cup
+POST_81,mentionsEntity,a brilliant
+POST_81,mentionsEntity,around and
+POST_81,mentionsEntity,by deepti
+POST_81,mentionsEntity,campaign with
+POST_81,mentionsEntity,helps india
+POST_81,mentionsEntity,kickstart their
+POST_81,mentionsEntity,over sri
+POST_81,mentionsEntity,round showcase
+POST_81,mentionsEntity,run win
+POST_81,mentionsEntity,sharma and
+POST_81,mentionsEntity,sneh rana
+POST_81,mentionsEntity,turn things
+POST_81,mentionsEntity,world cup
+POST_81,postedAtHour,6
+POST_81,postedAtMonth,Sep
+POST_81,postedAtYear,2025
+POST_82,hasHashtag,#womensworldcupmaharashtratimes
+POST_82,hasSentiment,sent_neutral
+POST_82,isAboutEvent,None
+POST_82,mentionsEntity,ind vs
+POST_82,postedAtHour,6
+POST_82,postedAtMonth,Sep
+POST_82,postedAtYear,2025
+POST_83,hasHashtag,#cricket
+POST_83,hasHashtag,#indvsl
+POST_83,hasHashtag,#indvsslscorecard
+POST_83,hasKeyword,cwc
+POST_83,hasKeyword,cwc25
+POST_83,hasKeyword,world cup
+POST_83,hasKeyword,world cup 2025
+POST_83,hasNumber,2025
+POST_83,hasNumber,211
+POST_83,hasNumber,269/8
+POST_83,hasNumber,59
+POST_83,hasSentiment,sent_neutral
+POST_83,isAboutEvent,2025
+POST_83,isAboutEvent,Cricket
+POST_83,isAboutEvent,Cup
+POST_83,isAboutEvent,World
+POST_83,mentionsEntity,Cricket
+POST_83,mentionsEntity,India
+POST_83,mentionsEntity,Sri Lanka
+POST_83,mentionsEntity,Women
+POST_83,mentionsEntity,World Cup
+POST_83,mentionsEntity,beat sri
+POST_83,mentionsEntity,dls method
+POST_83,mentionsEntity,in women
+POST_83,mentionsEntity,s odi
+POST_83,mentionsEntity,world cup
+POST_83,postedAtHour,6
+POST_83,postedAtMonth,Sep
+POST_83,postedAtYear,2025
+POST_84,hasHashtag,#indvssl
+POST_84,hasHashtag,#womencricketndtv
+POST_84,hasNumber,59
+POST_84,hasSentiment,sent_neutral
+POST_84,isAboutEvent,None
+POST_84,mentionsEntity,India
+POST_84,mentionsEntity,Sri Lanka Match Live Score
+POST_84,mentionsEntity,india vs
+POST_84,mentionsEntity,match live
+POST_84,mentionsEntity,sri lanka
+POST_84,postedAtHour,6
+POST_84,postedAtMonth,Sep
+POST_84,postedAtYear,2025
+POST_85,hasKeyword,cricket world cup
+POST_85,hasKeyword,world cup
+POST_85,hasNumber,2023
+POST_85,hasNumber,2025
+POST_85,hasSentiment,sent_positive
+POST_85,isAboutEvent,2025
+POST_85,isAboutEvent,Cricket
+POST_85,isAboutEvent,Cup
+POST_85,isAboutEvent,World
+POST_85,mentionsEntity,After Pakistan
+POST_85,mentionsEntity,Cricket World Cup
+POST_85,mentionsEntity,Gaza
+POST_85,mentionsEntity,In
+POST_85,mentionsEntity,Mohammad Rizwan
+POST_85,mentionsEntity,One
+POST_85,mentionsEntity,Palestine
+POST_85,mentionsEntity,Sri Lanka
+POST_85,mentionsEntity,a solidarity
+POST_85,mentionsEntity,after pakistan
+POST_85,mentionsEntity,against sri
+POST_85,mentionsEntity,brothers and
+POST_85,mentionsEntity,century and
+POST_85,mentionsEntity,dedicated the
+POST_85,mentionsEntity,during the
+POST_85,mentionsEntity,event for
+POST_85,mentionsEntity,example is
+POST_85,mentionsEntity,following his
+POST_85,mentionsEntity,icc cricket
+POST_85,mentionsEntity,in gaza
+POST_85,mentionsEntity,lives lost
+POST_85,mentionsEntity,match performance
+POST_85,mentionsEntity,mohammad rizwan
+POST_85,mentionsEntity,one notable
+POST_85,mentionsEntity,palestine with
+POST_85,mentionsEntity,post on
+POST_85,mentionsEntity,psl held
+POST_85,mentionsEntity,s win
+POST_85,mentionsEntity,sisters in
+POST_85,mentionsEntity,the ambassador
+POST_85,mentionsEntity,the hbl
+POST_85,mentionsEntity,uniting for
+POST_85,mentionsEntity,via a
+POST_85,mentionsEntity,victory to
+POST_85,mentionsEntity,world cup
+POST_85,postedAtHour,6
+POST_85,postedAtMonth,Sep
+POST_85,postedAtYear,2025
+POST_86,hasKeyword,cricket world cup
+POST_86,hasKeyword,world cup
+POST_86,hasKeyword,world cup 2025
+POST_86,hasNumber,124/6
+POST_86,hasNumber,2025
+POST_86,hasNumber,59
+POST_86,hasSentiment,sent_positive
+POST_86,isAboutEvent,2025
+POST_86,isAboutEvent,Cricket
+POST_86,isAboutEvent,Cup
+POST_86,isAboutEvent,World
+POST_86,mentionsEntity,Cricket World Cup
+POST_86,mentionsEntity,India
+POST_86,mentionsEntity,Sri Lanka
+POST_86,mentionsEntity,a good
+POST_86,mentionsEntity,being reduced
+POST_86,mentionsEntity,big win
+POST_86,mentionsEntity,by sri
+POST_86,mentionsEntity,first match
+POST_86,mentionsEntity,for india
+POST_86,mentionsEntity,india got
+POST_86,mentionsEntity,off to
+POST_86,mentionsEntity,runs after
+POST_86,mentionsEntity,start in
+POST_86,mentionsEntity,the cricket
+POST_86,mentionsEntity,winning the
+POST_86,mentionsEntity,world cup
+POST_86,postedAtHour,6
+POST_86,postedAtMonth,Sep
+POST_86,postedAtYear,2025
+POST_87,hasHashtag,#cwc25
+POST_87,hasHashtag,#indvsl
+POST_87,hasHashtag,#teamindia
+POST_87,hasKeyword,cwc
+POST_87,hasKeyword,cwc25
+POST_87,hasKeyword,world cup
+POST_87,hasKeyword,world cup 2025
+POST_87,hasNumber,202
+POST_87,hasNumber,2025
+POST_87,hasNumber,59
+POST_87,hasSentiment,sent_neutral
+POST_87,isAboutEvent,2025
+POST_87,isAboutEvent,Cricket
+POST_87,isAboutEvent,Cup
+POST_87,isAboutEvent,World
+POST_87,mentionsEntity,India
+POST_87,mentionsEntity,Method
+POST_87,mentionsEntity,Run
+POST_87,mentionsEntity,Women
+POST_87,mentionsEntity,Won
+POST_87,mentionsEntity,World Cup
+POST_87,mentionsEntity,l method
+POST_87,mentionsEntity,won by
+POST_87,mentionsEntity,world cup
+POST_87,postedAtHour,6
+POST_87,postedAtMonth,Sep
+POST_87,postedAtYear,2025
+POST_88,hasHashtag,#cwc25
+POST_88,hasHashtag,#indvsl
+POST_88,hasHashtag,#teamindia
+POST_88,hasKeyword,cwc
+POST_88,hasKeyword,cwc25
+POST_88,hasKeyword,world cup
+POST_88,hasKeyword,world cup 2025
+POST_88,hasNumber,202
+POST_88,hasNumber,2025
+POST_88,hasNumber,211
+POST_88,hasNumber,3
+POST_88,hasNumber,45.4
+POST_88,hasNumber,8
+POST_88,hasSentiment,sent_neutral
+POST_88,isAboutEvent,2025
+POST_88,isAboutEvent,Cricket
+POST_88,isAboutEvent,Cup
+POST_88,isAboutEvent,World
+POST_88,mentionsEntity,Inoka Ranaweera
+POST_88,mentionsEntity,Pratika Rawal
+POST_88,mentionsEntity,Sri Lanka
+POST_88,mentionsEntity,Women
+POST_88,mentionsEntity,World Cup
+POST_88,mentionsEntity,all outbit
+POST_88,mentionsEntity,inoka ranaweera
+POST_88,mentionsEntity,lbw pratika
+POST_88,mentionsEntity,sri lanka
+POST_88,mentionsEntity,world cup
+POST_88,mentionsUser,mahikachikuuu
+POST_88,postedAtHour,6
+POST_88,postedAtMonth,Sep
+POST_88,postedAtYear,2025
+POST_89,hasHashtag,#cricketindiamykhel
+POST_89,hasHashtag,#wwc2025
+POST_89,hasKeyword,world cup
+POST_89,hasKeyword,world cup 2025
+POST_89,hasKeyword,wwc2025
+POST_89,hasNumber,142
+POST_89,hasNumber,2025
+POST_89,hasNumber,3
+POST_89,hasNumber,53
+POST_89,hasSentiment,sent_neutral
+POST_89,isAboutEvent,2025
+POST_89,isAboutEvent,Cricket
+POST_89,isAboutEvent,Cup
+POST_89,isAboutEvent,World
+POST_89,mentionsEntity,Deepti Sharma
+POST_89,mentionsEntity,Her
+POST_89,mentionsEntity,India
+POST_89,mentionsEntity,Neetu David
+POST_89,mentionsEntity,Sri Lanka
+POST_89,mentionsEntity,Women
+POST_89,mentionsEntity,World Cup
+POST_89,mentionsEntity,against sri
+POST_89,mentionsEntity,becomes india
+POST_89,mentionsEntity,david with
+POST_89,mentionsEntity,deepti sharma
+POST_89,mentionsEntity,her brilliant
+POST_89,mentionsEntity,highest wicket
+POST_89,mentionsEntity,including a
+POST_89,mentionsEntity,key wickets
+POST_89,mentionsEntity,lanka in
+POST_89,mentionsEntity,round show
+POST_89,mentionsEntity,runs and
+POST_89,mentionsEntity,s world
+POST_89,mentionsEntity,surpassing neetu
+POST_89,mentionsEntity,taker in
+POST_89,postedAtHour,6
+POST_89,postedAtMonth,Sep
+POST_89,postedAtYear,2025
+POST_9,hasNumber,2025/10/01/
+POST_9,hasNumber,۱۷
+POST_9,hasNumber,۲۰۲۵
+POST_9,hasSentiment,sent_neutral
+POST_9,isAboutEvent,None
+POST_9,postedAtHour,10
+POST_9,postedAtMonth,Sep
+POST_9,postedAtYear,2025
+POST_90,hasKeyword,cricket world cup
+POST_90,hasKeyword,world cup
+POST_90,hasKeyword,world cup 2025
+POST_90,hasNumber,2025
+POST_90,hasSentiment,sent_neutral
+POST_90,isAboutEvent,2025
+POST_90,isAboutEvent,Cricket
+POST_90,isAboutEvent,Cup
+POST_90,isAboutEvent,World
+POST_90,mentionsEntity,Womens Cricket World Cup
+POST_90,mentionsEntity,womens cricket
+POST_90,mentionsEntity,world cup
+POST_90,postedAtHour,6
+POST_90,postedAtMonth,Sep
+POST_90,postedAtYear,2025
+POST_91,hasSentiment,sent_neutral
+POST_91,isAboutEvent,None
+POST_91,mentionsEntity,Asia
+POST_91,mentionsEntity,Australia Cup
+POST_91,mentionsEntity,Former Socceroos
+POST_91,mentionsEntity,League
+POST_91,mentionsEntity,Mark Milligan
+POST_91,mentionsEntity,Newcastle Jets
+POST_91,mentionsEntity,asia after
+POST_91,mentionsEntity,captain and
+POST_91,mentionsEntity,chase success
+POST_91,mentionsEntity,cup triumph
+POST_91,mentionsEntity,former socceroos
+POST_91,mentionsEntity,in the
+POST_91,mentionsEntity,jets coach
+POST_91,mentionsEntity,league and
+POST_91,mentionsEntity,mark milligan
+POST_91,mentionsEntity,now newcastle
+POST_91,mentionsEntity,team to
+POST_91,mentionsEntity,their australia
+POST_91,mentionsEntity,wants his
+POST_91,postedAtHour,2
+POST_91,postedAtMonth,Oct
+POST_91,postedAtYear,2025
+POST_92,hasKeyword,world cup
+POST_92,hasSentiment,sent_neutral
+POST_92,isAboutEvent,2025
+POST_92,isAboutEvent,Cricket
+POST_92,isAboutEvent,Cup
+POST_92,isAboutEvent,World
+POST_92,mentionsEntity,Malaysia
+POST_92,mentionsEntity,Men
+POST_92,mentionsEntity,Qualifier
+POST_92,mentionsEntity,World Cup Asia
+POST_92,mentionsEntity,eap qualifier
+POST_92,mentionsEntity,for the
+POST_92,mentionsEntity,icc men
+POST_92,mentionsEntity,s fixtures
+POST_92,mentionsEntity,world cup
+POST_92,postedAtHour,2
+POST_92,postedAtMonth,Oct
+POST_92,postedAtYear,2025
+POST_93,hasKeyword,asia cup
+POST_93,hasSentiment,sent_neutral
+POST_93,isAboutEvent,2025
+POST_93,isAboutEvent,Asia
+POST_93,isAboutEvent,Cup
+POST_93,mentionsEntity,Asia Cup India
+POST_93,mentionsEntity,Aur
+POST_93,mentionsEntity,Chodh
+POST_93,mentionsEntity,Indian
+POST_93,mentionsEntity,Maa
+POST_93,mentionsEntity,Operation Sindoor
+POST_93,mentionsEntity,Pakistan
+POST_93,mentionsEntity,Zaleel
+POST_93,mentionsEntity,are desperate
+POST_93,mentionsEntity,aur kitna
+POST_93,mentionsEntity,channels the
+POST_93,mentionsEntity,cup india
+POST_93,mentionsEntity,due to
+POST_93,mentionsEntity,i am
+POST_93,mentionsEntity,indian boys
+POST_93,mentionsEntity,maa ko
+POST_93,mentionsEntity,ne hamesha
+POST_93,mentionsEntity,operation sindoor
+POST_93,mentionsEntity,pakistan from
+POST_93,mentionsEntity,pakistan ki
+POST_93,mentionsEntity,pakistan ko
+POST_93,mentionsEntity,their country
+POST_93,mentionsEntity,to asia
+POST_93,mentionsEntity,to marry
+POST_93,mentionsEntity,watching pakistan
+POST_93,mentionsEntity,women there
+POST_93,mentionsEntity,zaleel hoga
+POST_93,mentionsEntity,zaleel karoge
+POST_93,postedAtHour,2
+POST_93,postedAtMonth,Oct
+POST_93,postedAtYear,2025
+POST_94,hasHashtag,#iatcround
+POST_94,hasHashtag,#roadtomotogp
+POST_94,hasNumber,1
+POST_94,hasNumber,5
+POST_94,hasSentiment,sent_neutral
+POST_94,isAboutEvent,None
+POST_94,mentionsEntity,Alfonsi Daquigan
+POST_94,mentionsEntity,Asia Talent Cup
+POST_94,mentionsEntity,Haruki Matsuyama
+POST_94,mentionsEntity,Race
+POST_94,mentionsEntity,Repost
+POST_94,mentionsEntity,Shingo Iidaka
+POST_94,mentionsEntity,alfonsi daquigan
+POST_94,mentionsEntity,asia talent
+POST_94,mentionsEntity,haruki matsuyama
+POST_94,mentionsEntity,repost from
+POST_94,mentionsEntity,shingo iidaka
+POST_94,postedAtHour,2
+POST_94,postedAtMonth,Oct
+POST_94,postedAtYear,2025
+POST_95,hasKeyword,asia cup
+POST_95,hasSentiment,sent_neutral
+POST_95,isAboutEvent,2025
+POST_95,isAboutEvent,Asia
+POST_95,isAboutEvent,Cup
+POST_95,mentionsEntity,Asia Cup
+POST_95,mentionsEntity,asia cup
+POST_95,mentionsEntity,come out
+POST_95,mentionsEntity,nhi hai
+POST_95,mentionsEntity,of delulu
+POST_95,postedAtHour,2
+POST_95,postedAtMonth,Oct
+POST_95,postedAtYear,2025
+POST_96,hasHashtag,#bycottasiacupbut
+POST_96,hasKeyword,asia cup
+POST_96,hasKeyword,women's world cup
+POST_96,hasKeyword,world cup
+POST_96,hasSentiment,sent_neutral
+POST_96,isAboutEvent,Both
+POST_96,isAboutEvent,Events
+POST_96,mentionsEntity,Poora Asia
+POST_96,mentionsEntity,Smj
+POST_96,mentionsEntity,World Cup
+POST_96,mentionsEntity,aarha hm
+POST_96,mentionsEntity,bakt to
+POST_96,mentionsEntity,bat he
+POST_96,mentionsEntity,bhi party
+POST_96,mentionsEntity,bycottasiacupbut koi
+POST_96,mentionsEntity,cup bycott
+POST_96,mentionsEntity,cup ki
+POST_96,mentionsEntity,indwvspakw women
+POST_96,mentionsEntity,kaise deshbakti
+POST_96,mentionsEntity,nhi ho
+POST_96,mentionsEntity,nhi ker
+POST_96,mentionsEntity,poora asia
+POST_96,mentionsEntity,rha ye
+POST_96,mentionsEntity,s world
+POST_96,mentionsEntity,smj nhi
+POST_96,postedAtHour,2
+POST_96,postedAtMonth,Oct
+POST_96,postedAtYear,2025
+POST_97,hasKeyword,asia cup
+POST_97,hasSentiment,sent_neutral
+POST_97,isAboutEvent,2025
+POST_97,isAboutEvent,Asia
+POST_97,isAboutEvent,Cup
+POST_97,mentionsEntity,asia cup
+POST_97,postedAtHour,2
+POST_97,postedAtMonth,Oct
+POST_97,postedAtYear,2025
+POST_98,hasKeyword,asia cup
+POST_98,hasSentiment,sent_neutral
+POST_98,isAboutEvent,2025
+POST_98,isAboutEvent,Asia
+POST_98,isAboutEvent,Cup
+POST_98,mentionsEntity,Asia Cup
+POST_98,mentionsEntity,This Jaipur
+POST_98,mentionsEntity,What
+POST_98,mentionsEntity,asia cup
+POST_98,mentionsEntity,guy first
+POST_98,mentionsEntity,has opinion
+POST_98,mentionsEntity,hypocrite these
+POST_98,mentionsEntity,move of
+POST_98,mentionsEntity,now he
+POST_98,mentionsEntity,on every
+POST_98,mentionsEntity,said he
+POST_98,mentionsEntity,the asia
+POST_98,mentionsEntity,this jaipur
+POST_98,mentionsEntity,what a
+POST_98,mentionsEntity,would boycott
+POST_98,postedAtHour,2
+POST_98,postedAtMonth,Oct
+POST_98,postedAtYear,2025
+POST_99,hasKeyword,asia cup
+POST_99,hasKeyword,asia cup odi
+POST_99,hasKeyword,asia cup t20
+POST_99,hasKeyword,cricket world cup
+POST_99,hasKeyword,world cup
+POST_99,hasNumber,2026
+POST_99,hasNumber,2027
+POST_99,hasSentiment,sent_positive
+POST_99,isAboutEvent,Both
+POST_99,isAboutEvent,Events
+POST_99,mentionsEntity,Asia Cup
+POST_99,mentionsEntity,India
+POST_99,mentionsEntity,Runner Up Asia Cup
+POST_99,mentionsEntity,Runner Up Cricket World Cup
+POST_99,mentionsEntity,Winner
+POST_99,mentionsEntity,World Cup
+POST_99,mentionsEntity,asia cup
+POST_99,mentionsEntity,cricket world
+POST_99,mentionsEntity,runner up
+POST_99,mentionsEntity,world cup
+POST_99,postedAtHour,2
+POST_99,postedAtMonth,Oct
+POST_99,postedAtYear,2025
+user_100dollarspice,posted,POST_137
+user_1xbet_in,posted,POST_3
+user__faridkhan,posted,POST_125
+user__hypocaust,posted,POST_17
+user__hypocaust,posted,POST_18
+user_aanchitgovind,posted,POST_138
+user_afshar93,posted,POST_131
+user_ahmedsaeedi1,posted,POST_106
+user_ajayaries12,posted,POST_93
+user_ajnabicricketer,posted,POST_179
+user_allsportjobs,posted,POST_33
+user_alok_arg,posted,POST_97
+user_amitava0112,posted,POST_30
+user_amitpan21965845,posted,POST_124
+user_angoor0aadmi,posted,POST_164
+user_anilcherukara,posted,POST_47
+user_asianetnewsbn,posted,POST_44
+user_atheranewsuk,posted,POST_26
+user_bcciwomen,posted,POST_48
+user_bcciwomen,posted,POST_61
+user_bcciwomen,posted,POST_87
+user_bcciwomen,posted,POST_88
+user_bhattimajid,posted,POST_177
+user_bhushi_m_k,posted,POST_117
+user_butterwordblog,posted,POST_21
+user_champ_vk18,posted,POST_105
+user_chowdar9555,posted,POST_69
+user_cricetsprinter,posted,POST_41
+user_cricexec,posted,POST_13
+user_cricket_world,posted,POST_60
+user_cricketndtv,posted,POST_83
+user_cricketologist7,posted,POST_163
+user_cricketracker,posted,POST_55
+user_crickettimeshq,posted,POST_39
+user_ddash_ca,posted,POST_108
+user_desarcasticbook,posted,POST_180
+user_deshmukhdaruk,posted,POST_158
+user_desiblitz,posted,POST_27
+user_dipranjans43173,posted,POST_37
+user_dna,posted,POST_71
+user_dnyeko,posted,POST_23
+user_doctorofcricket,posted,POST_155
+user_donaldgmcrae,posted,POST_20
+user_donaldgmcrae,posted,POST_56
+user_dsp3105,posted,POST_168
+user_dwivediachyut41,posted,POST_19
+user_ergomeow,posted,POST_4
+user_espncricinfo,posted,POST_76
+user_eurasiareview,posted,POST_116
+user_fanportofficial,posted,POST_66
+user_fim_asia,posted,POST_94
+user_globalgisthq,posted,POST_24
+user_grok,posted,POST_127
+user_grok,posted,POST_141
+user_grok,posted,POST_146
+user_grok,posted,POST_152
+user_grok,posted,POST_157
+user_grok,posted,POST_171
+user_grok,posted,POST_85
+user_hack1872,posted,POST_8
+user_hariankompas,posted,POST_139
+user_hotrodd41,posted,POST_128
+user_iamsameera07,posted,POST_58
+user_icc,posted,POST_1
+user_iexpresssports,posted,POST_36
+user_imran_akram_001,posted,POST_43
+user_imsarvada,posted,POST_62
+user_imsarvada,posted,POST_63
+user_imsarvada,posted,POST_64
+user_indiasportshub,posted,POST_46
+user_isahilsinha,posted,POST_98
+user_itgdsports,posted,POST_57
+user_itgdsports,posted,POST_81
+user_johnmenadue,posted,POST_161
+user_joshia206,posted,POST_104
+user_justbehkah,posted,POST_38
+user_kairalinews,posted,POST_78
+user_kameenee70,posted,POST_162
+user_kingranarajput,posted,POST_75
+user_kompasklasika,posted,POST_136
+user_kridacafe,posted,POST_90
+user_krrish_aaryan,posted,POST_153
+user_kshitij1250317,posted,POST_154
+user_latestly,posted,POST_51
+user_latestly,posted,POST_53
+user_latestly,posted,POST_79
+user_lexdiamonds7,posted,POST_160
+user_live_hindustan,posted,POST_72
+user_lokmat,posted,POST_16
+user_lokmat,posted,POST_68
+user_lokmattimeseng,posted,POST_52
+user_lordzafton,posted,POST_133
+user_makimakina,posted,POST_121
+user_malaysiacricket,posted,POST_92
+user_manoramanews,posted,POST_59
+user_mataonline,posted,POST_82
+user_maverickindi18,posted,POST_148
+user_mdjaber26059533,posted,POST_178
+user_mdsaad10686680,posted,POST_156
+user_moto_writer110,posted,POST_114
+user_motowarmer,posted,POST_111
+user_mtam687,posted,POST_149
+user_mugdhamisra,posted,POST_150
+user_mykhelcom,posted,POST_89
+user_ndtvindia,posted,POST_84
+user_neendkineed,posted,POST_145
+user_netineti24,posted,POST_77
+user_nikitamohanan2,posted,POST_140
+user_nocontextwcric,posted,POST_86
+user_onecric_,posted,POST_25
+user_organicfighting,posted,POST_147
+user_oxygen18_,posted,POST_165
+user_oxygen18_,posted,POST_173
+user_oxygen18_,posted,POST_176
+user_panwar_1802,posted,POST_135
+user_pawa_1008,posted,POST_50
+user_phoenix_2828282,posted,POST_15
+user_prajapat33953,posted,POST_95
+user_prakashpra70336,posted,POST_99
+user_punjkpunj2,posted,POST_96
+user_raghavrawat8,posted,POST_167
+user_raghavrawat8,posted,POST_174
+user_rahulku19220927,posted,POST_11
+user_rajeshguwahati,posted,POST_22
+user_rajusin49624831,posted,POST_169
+user_randsnewsfeed,posted,POST_91
+user_ravaldines64477,posted,POST_54
+user_ravis_take,posted,POST_144
+user_republic_sports,posted,POST_70
+user_rishabh750581,posted,POST_172
+user_rjfanofficial,posted,POST_101
+user_saif_uddin_tips,posted,POST_112
+user_sajjad657,posted,POST_115
+user_sakalmedianews,posted,POST_31
+user_sakalsports,posted,POST_29
+user_samjudit,posted,POST_102
+user_samsoncentral,posted,POST_143
+user_sarvjeet_jamwal,posted,POST_123
+user_saynotolibrandu,posted,POST_134
+user_scherazadems,posted,POST_100
+user_shaheenhive,posted,POST_159
+user_shailendrah,posted,POST_118
+user_shailendrah,posted,POST_120
+user_shaistakha12426,posted,POST_166
+user_shoaibt87,posted,POST_130
+user_shroffanant,posted,POST_103
+user_sound264,posted,POST_119
+user_sports_tak,posted,POST_80
+user_sportsriddlers,posted,POST_35
+user_sriramhere,posted,POST_28
+user_ssiddiqui210,posted,POST_107
+user_sunny_mahajan97,posted,POST_113
+user_swajeet2311,posted,POST_151
+user_syedsigma,posted,POST_126
+user_talhaontrade,posted,POST_170
+user_theaustoday,posted,POST_6
+user_thecricketermag,posted,POST_10
+user_thecricketermag,posted,POST_49
+user_thecricketermag,posted,POST_5
+user_thepunterspage,posted,POST_34
+user_thewesaltv,posted,POST_9
+user_thezaurus_,posted,POST_7
+user_timesofsports,posted,POST_40
+user_tsf_com,posted,POST_12
+user_tv9malayalam,posted,POST_74
+user_tv9marathi,posted,POST_67
+user_umarwar91888843,posted,POST_129
+user_unfitered_media,posted,POST_73
+user_vishalk57122687,posted,POST_175
+user_vishavj24049960,posted,POST_142
+user_vtvgujarati,posted,POST_14
+user_vyshakhpillai,posted,POST_122
+user_waze05,posted,POST_132
+user_wmpltournament,posted,POST_32
+user_wmpltournament,posted,POST_45
+user_womencrickethq,posted,POST_42
+user_yogeshgoswami_,posted,POST_65
+user_yogeshvbala,posted,POST_109
+user_yogkumardev,posted,POST_2
+user_zeetamilnews,posted,POST_110
